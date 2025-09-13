@@ -1,0 +1,753 @@
+
+
+--- Halaman 1 ---
+
+Dokumen Tidak Dikendalikan, apabila dicetak
+Document uncontrolled when printed
+PT TRANSPORTASI GAS INDONESIA Doc. No. : TGI-WP-07-37-03
+Page : Page 1 of 15
+INFORMASI KESELAMATAN PROSES
+PROCESS SAFETY INFORMATION
+KENDALI DOKUMENTASI/ DOCUMENT CONTROL
+Manual ini dikelola di bawah kendali Departemen Facilty Integrity. Tiap perubahan dan pertanyaan terkait
+dengan dokumen ini, silakan kontak ke Phone Extension 64000.
+This Manual is managed under Facility Integrity Department. Any changes and question to this document please
+contact Phone Extension 64000.
+Version
+Author Reviewed by Approved by
+/ Rev.
+Sign: Sign: Sign:
+00
+Name: M.Abdul Mudlil Name: Meizol Thabran Name: A.A.P Bagus Putra
+Position: Static Equipment Position: FID Manager Position: Act. Engineering
+Mechanical Engineer Date: 28 Desember 2022 Director
+Date: 28 Desember 2022 Date: Desember 2022
+
+--- Halaman 2 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 2 of 15
+LEMBAR PERUBAHAN DOKUMEN
+Document Record of Changes
+Versi Tanggal
+/ Rev. Perubahan/
+Perubahan Isi
+Ke – Penerbitan Alasan Perubahan
+(Point No. . . .)
+Version Date of Reason for Change
+Content No. . . . changed
+/ Rev. changes or
+No. reissue
+
+--- Halaman 3 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 3 of 15
+TABLE OF CONTENTS
+DAFTAR ISI
+No Description Page
+1 Purpose ………………………………………………………………………………………………………………………… 5
+Tujuan
+2 Scope …………………………………………………………………………………………………………………………… 5
+Ruang Lingkup
+3 Definition ………………………………………………………………………………………………………………………. 5
+Definisi
+4 Reference ………………………………………………………………………………………………………………………. 6
+Referensi
+5 Procedure ……………………………………………………………………………………………………………………… 6
+Prosedur
+5.1. Management Responsibilities …………………………………………………………………………………………. 6
+Tanggung Jawab Management
+5.1.1. Operation Director and RO Manager ………………………………………………………………………………… 6
+5.1.2. Supervisor and Lead Technician ….………………………………………………………………………………….. 6
+5.1.3. Directorate Engineering …………………………………………………………………………………………………… 7
+5.1.4. Procurement & General Service Departement.……………………………………………………………………. 7
+5.2. Standard and Procedures ……………………………………………………………………………………………… 7
+Standard dan Prosedur
+5.2.1 Hazard Materials …………………………………………………………………………………………………………… 7
+5.2.2 Process Design Basis……………………………………………………………………………………………………….. 8
+5.2.3 Equipment Design Basis …………………………………………………………………………………………………. 13
+5.3. Process Safety Information Documentation ……………………………………………………………………… 13
+Dokumentasi Informasi Keselamatan Proses
+5.3.1. Responsibilies ………………………………………………………………………………………………………………. 13
+Tanggung Jawab
+5.3.2. Process Safety Information Documentation Management …………………………………………………. 13
+
+--- Halaman 4 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 4 of 15
+Managemen Dokumentasi Informasi Keselamatan Proses
+5.4. Management System …………………………………………………………………………………………………….. 15
+Sistim Management
+5.4.1 Management Notes ……………………………………………………………………………………………………….. 15
+Catatan Management
+5.4.2 Audit ………………………………………………………………………………………………………………………...... 15
+Audit
+5.4.3 Update Process Procedure ……………………………………………………………………………………………… 15
+Proses pembaruan Prosedur
+
+--- Halaman 5 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 5 of 15
+1. GENERAL PURPOSE 1. TUJUAN UMUM
+This procedure provides direction and requirements to Prosedur ini memberikan arahan dan persyaratan untuk
+assist the operations of PT Transportasi Gas Indonesia membantu operasi PT Transportasi Gas Indonesia
+in managing various process-related information dalam mengelola berbagai informasi terkait proses
+(Process Safety Information) in managing gas (Informasi Keselamatan Proses) dalam mengelola
+distribution so as to achieve conditions consistent with distribusi gas sehingga mencapai kondisi yang konsisten
+PT Transportasi Gas Indonesia's commitment to HSSE. dengan komitmen PT Transportasi Gas Indonesia
+terhadap HSSE.
+The procedure also provides requirements and Prosedur ini juga memberikan persyaratan dan
+instructions for identification, documentation and petunjuk untuk identifikasi, dokumentasi dan mengelola
+managing the Process Safety Information element of elemen Informasi Keselamatan Proses dari Process
+Process Safety Management (PSM). Safety Management (PSM).
+2. SCOPE 2. RUANG LINGKUP
+This procedure provides specific instructions on: Prosedur ini memberikan petunjuk yang spesifik
+• Hazard of the material. tentang:
+• Process design base. • Hazard dari material.
+• Equipment design base. • Process design basis.
+• Process Safety Information Documentation. • Equipment design basis.
+• Dokumentasi Informasi Keselamatan Proses.
+This procedure also provides provisions and directions Prosedur ini juga memberikan ketentuan dan arahan
+to help manage hazards related to toxin levels, untuk membantu mengelola hazard terkait tingkat
+combustion power, chemical reactivity and other racun, daya bakar, reaktifitas kimia dan process hazard
+process hazards in processes managed by TGI both lain pada proses yang dikelola TGI baik saat disain,
+during design, construction, storage and operation. konstruksi, penyimpanan maupun operasi.
+3. DEFINITION 3. DEFINISI
+PSM (Process Safety Management): Control applications PSM (Process Safety Management): Aplikasi kontrol dan
+and management systems (e.g. programs, procedures, sistem managemen (misalnya program, prosedur, audit
+audits or evaluations) to a process in such a way that atau evaluasi) untuk sebuah proses sedemikian rupa
+potential process hazards are identified, understood, sehingga potensi bahaya proses teridentifikasi,
+and controlled so that injuries and incidents related to dipahami, dan dikontrol sehingga cedera dan insiden
+the process can be prevented. terkait dengan proses dapat dicegah.
+PHA (Process Hazard Analysis): Systematic processes PHA (Process Hazard Analysis): Proses dan pendekatan
+and approaches to identify, evaluate, and control the sistematik untuk mengidentifikasi, mengevaluasi, dan
+potential hazards of a process. The PHA includes some mengontrol potensi bahaya sebuah proses. PHA
+or all of the following activities: hazard identification, mencakup beberapa atau semua aktifitas berikut ini:
+consequence analysis hazard evaluation, human-factor hazard identification, consequence analysis hazard
+evaluation, facility siting evaluation, inherently safer evaluation, human-factor evaluation, facility siting
+process evaluation, risk analysis, and providing evaluation, inherently safer process evaluation, risk
+recommendations. analysis, dan memberikan rekomendasi.
+MoC – Management of Change: Is a management MoC – Management of Change: Adalah sistem
+system to identify, review and approve all modifications manajemen untuk mengidentifikasi, mereviu dan
+/ changes in equipment, procedures and conditions / menyetujui semua modifikasi / perubahan peralatan,
+modifications of control processes, building locations prosedur dan kondisi / modifikasi control proses, lokasi
+and occupancy patterns, organizational issues such as bangunan dan pola hunian, masalah organisasi seperti
+staffing level and job duties, before modifications / tingkat kepegawaian dan tugas pekerjaan, sebelum
+changes are implemented. This does not apply to modifikasi / perubahan diimplementasikan. Hal ini tidak
+anything exactly the same. berlaku untuk sesuatu yang sama persis.
+Material/Safety data sheet (M/SDS): A document Material/Safety data sheet (M/SDS): Sebuah dokumen
+containing brief information on chemical hazards, yang berisi informasi ringkas mengenai hazard kimia,
+prevention, emergency response procedures and other pencegahan, prosedur tanggap darurat dan informasi
+information. lain.
+
+--- Halaman 6 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 6 of 15
+Primary Containment: Tanks, vessels, pipes, or other Primary Containment: Tangki, bejana, pipa, atau
+equipment designed to keep material in them, usually peralatan lain yang didesain untuk menjaga material
+aimed at storing, separating, processing or transferring agar tetap di dalamnya, biasanya bertujuan untuk
+material. menyimpan, memisahkan, memproses atau men-
+transfer material.
+Critical Equipment: Equipment, instruments, controls or Critical Equipment: Peralatan, instrumen, kontrol atau
+systems that if malfunctioning could lead to a sistem yang jika gagal berfungsi dapat menyebabkan
+catastrophic release of hazardous chemicals, or suatu bencana terlepasnya bahan kimia berbahaya, atau
+equipment that must operate properly to mitigate the peralatan yang harus beroperasi dengan baik untuk
+consequences of a catastrophic release of hazardous memitigasi konsekuensi dari bencana terlepasnya bahan
+chemicals. kimia berbahaya.
+4. REFERENCE 4. REFERENSI
+1. Government Regulation of the Republic of 1. Peraturan Pemerintah Republik Indonesia Nomor 50
+Indonesia Number 50 of 2012 concerning the Tahun 2012 Tentang Penerapan Sistem Manajemen
+Implementation of Occupational Safety and Health Keselamatan dan Kesehatan Kerja
+Management System. 2. Keputusan Menteri Tenaga Kerja Nomor:
+2. Decree of the Minister of Manpower Number: KEP.187/MEN/1999 Tentang Pengendalian Bahan
+KEP.187 / MEN / 1999 concerning Control of Kimia Berbahaya Di Tempat Kerja.
+Hazardous Chemicals in the Workplace. 3. OSHA 3132 – 2000: Process Safety Management.
+3. OSHA 3132 – 2000: Process Safety Management. 4. PSM Metrik OSHA FC 3896.
+4. PSM Metric OSHA FC 3896.
+5. PROCEDURE 5. PROSEDUR
+5.1. Management Responsibilities 5.1. Tanggung Jawab Management
+Managing HSE management at the facility is the Mengelola manajemen HSE di fasilitas adalah tanggung
+responsibility of line management and thus the line jawab manajemen lini dan dengan demikian manajer lini
+manager is responsible for ensuring staff and bertanggung jawab memastikan staff dan kontraktor
+contractors know the importance of adhering to these mengetahui pentingnya patuh pada prosedur ini.
+procedures
+5.1.1. Operation Director and Regional Office 5.1.1. Operation Director dan Regional Office
+Manager Manager
+The Operations Director and regional Office Manager Operation Director dan Regional Office Manager bekerja
+work together to ensure that the responsibilities below sama untuk memastikan bahwa tanggung jawab di
+are maintained and implemented: bawah ini dijaga dan diimplementasikan:
+• Participate in developing and implementing all  Berpartisipasi dalam mengembangkan dan
+business planning relating to the operation of toxic, mengimplementasikan semua perencanaan bisnis
+explosive materials, chemical reactions and other yang menyangkut operasi bahan beracun, mudah
+hazards related to Process Safety Information. meledak, reaksi kimia dan hazard lain terkait
+• Sufficient resources and committed to implementing Informasi Keselamatan Proses.
+and maintaining this procedure  Sumber daya yang cukup dan berkomitmen untuk
+mengimplementasikan dan menjaga prosedur ini.
+5.1.2. Supervisor and Lead Technician 5.1.2. Superrvisor dan Lead Technician
+Supervisors and Lead Technicians are responsible for Supervisor dan Lead Technician bertanggung jawab
+the following: terhadap hal di bawah ini:
+• Provide sufficient support and resources to develop • Memberikan dukungan dan sumber daya yang cukup
+and maintain Process Safety Information on each untuk mengembangkan dan memelihara Informasi
+process, consistent with these procedures. Keselamatan Proses pada setiap proses, konsisten
+dengan prosedur ini.
+• Help ensure the implementation of PSM and its • Membantu memastikan implementasi PSM dan
+elements by keeping the Process Safety Information elemennya dengan menjaga agar dokumentasi
+documentation accurate and up-to-date.
+
+--- Halaman 7 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 7 of 15
+Informasi Keselamatan Proses senantiasa akurat dan
+up to date
+5.1.3 Directorate Engineering 5.1.3. Directorate Engineering
+For Project Management, the Project Management team Untuk Project Management, tim Project Management
+must develop good documentation regarding equipment harus mengembangkan dokumentasi yang baik
+base design information before mechanical completion. mengenai informasi design basis peralatan sebelum
+This information can be developed by several mechanical completion. Informasi tersebut dapat
+organizations, including the facility and pipeline integrity dikembangkan oleh beberapa organisasi, termasuk
+department and engineering of the contractor, which is facility dan pipeline integrity department dan
+responsible for identifying the design documents of the engineering dari kontraktor yaitu bertanggung jawab
+PSM equipment base at the time of engineering, mengidentifikasi dokumen design basis peralatan PSM
+fabrication and installation design. pada saat disain engineering, fabrikasi dan instalasi.
+5.1.4 Procurement & General Service Department 5.1.4. Procurement & General Service
+Department
+Procurement & General Service Department and Procurement & General Service Departement dan
+consignee are responsible for obtaining documents from penerima barang bertanggung jawab mendapatkan
+contractors, documenting documents obtained and dokumen dari kontraktor, mendokumentasikan
+submitting the PSM documents to the Operation dokumen yang didapat dan menyampaikan dokumen
+Directorate and Engineering Directorate. PSM tersebut kepada Operation Directorate dan
+Engineering Directorate.
+Contractors involved in each phase of the supply chain Kontraktor yang terlibat pada setiap fase rantai suplai
+must provide PSM documents, as specified in the harus memberikan dokumen PSM, seperti yang
+specification, when delivering or delivering materials and ditentukan pada spesifikasi, saat pengiriman atau
+services. menyampaikan material dan jasa.
+5.2. Standard and Procedure 5.2. Standar dan Prosedur
+Process Safety Management (PSM) was created to Process Safety Management (PSM) dibuat untuk
+prevent process-related incidents, which could affect mencegah insiden terkait proses, yang dapat
+personnel, communities around TGI's facilities and mempengaruhi personil, komunitas di sekitar fasilititas
+environment, or could lead to large business losses. dan lingkungan TGI, atau dapat menimbulkan
+kehilangan bisnis yang besar.
+The Process Safety Information element consists of Elemen Informasi Keselamatan Proses terdiri dari tiga
+three parts: bagian:
+ Hazard material.  Hazard material.
+ Process design base.  Process design basis.
+ Equipment design base.  Equipment design basis
+5.2.1. Hazard material 5.2.1. Hazard material
+Data on the chemical and physical properties of TGI- Data properti kimia dan fisika substansi yang dikelola
+managed substances must be created, documented and TGI harus dibuat, didokumentasikan dan dipelihara agar
+maintained to be up-to-date. This includes senantiasa up-to-date. Termasuk di dalamnya
+documentation of the level of toxicity, combustion power dokumentasi tingkat racun, daya bakar dan data
+and reactivity data of the harmful substance. reaktifitas dari substansi berbahaya tersebut.
+Sources of hazard information Sumber infomasi hazard
+The physical characteristics and hazards of the material Karakteristik fisik dan hazard material harus
+must be well documented for the substance used or didokumentasikan dengan baik untuk substansi yang
+generated in the process and its supporting activities. digunakan atau ditimbulkan di dalam proses dan
+These data can be obtained from several sources, aktifitas pendukungnya. Data-data ini dapat diperoleh
+including the following: dari beberapa sumber, termasuk di bawah ini:
+
+--- Halaman 8 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 8 of 15
+1. Material/Safety Data Sheet (M/SDS) from chemical 1. Material/Safety Data Sheet (M/SDS) dari suplier
+supplier bahan kimia
+2. Technical report of the research and development 2. Laporan teknis dari riset dan pengembangan
+process proses
+3. Test data 3. Data test
+4. Equipment contractor or supplier 4. Kontraktor atau suplier peralatan
+5. Basic design package 5. Paket basic design
+6. Government or academic institutions. 6. Institusi pemerintah atau akademik.
+Various physical property and chemical sources outside Informasi properti fisika dan kimia yang tidak ditemukan
+of TGI, must be determined through laboratory tests. dari berbagai sumber di luar TGI, harus ditentukan
+melalui test laboratorium.
+Physical property data Data properti fisik
+In order to identify hazards and consequences, and also Agar identifikasi hazard dan konsekuensi, dan juga agar
+so that the design of the equipment is carried out disain peralatan dilakukan dengan baik. Properti fisik
+properly. The physical properties of the substance used dari substansi yang digunakan pada proses harus
+on the process must be known and understood. The diketahui dan dipahami. Data properti fisik yang umum
+data of physical properties common to material untuk proses material adalah sebagai berikut:
+processes are as follows:  Berat molekul
+ Molecular weight  Tekanan uap
+ Vapor pressure  Viskositas
+ Viscosity  Titik beku
+ Freezing point  Daya larut di dalam air
+ Solubility in water  Ukuran partikel
+ Particle sizel  Titik didih
+ Boiling point  Panas penguapan
+ Heat evaporation  Tekanan dan temperatur kritikal
+ Critical pressures and temperature  Kapasitas panas
+ Heat capacity  Panas pembakaran
+ Heat of combustion  Konduktifitas listrik dan konstanta dielektrik
+ Electrical conductivity and dielectric constant  Berat jenis
+ Specific gravity  pH
+ pH  Tampilan fisik
+ Physical display  Bau
+ Smell.
+Additional information on physical properties is also Informasi tambahan pada properti fisik juga penting
+important for maintaining safe operating conditions and untuk menjaga kondisi operasi yang aman dan
+helping to ensure effective equipment design. This membantu memastikan disain peralatan yang efektif.
+additional information includes, but is not limited to: Informasi tambahan ini mencakup, namun tidak
+terbatas pada:
+1. The degree of corrosion or degradation to material 1. Tingkat korosi atau degradasi terhadap bahan-
+materials (such as related construction materials bahan material (seperti terkait material konstruksi
+from metal materials). dari bahan metal).
+2. Data stability in terms of time, exposure to light, 2. Stabilitas data dalam hal waktu, paparan terhadap
+heat, and other environmental factors. cahaya, panas, dan faktor lingkungan lainnya.
+3. Information incompatibility (such as chemical, 3. Informasi incompatibility (seperti kimia, metal atau
+metal or material). material).
+4. Information 4. Informasi
+5. Decomposition (such as overheating, fire or other 5. Dekomposisi (seperti overheating, api atau
+materials). material lain).
+6. Unique properties of the material (such as static 6. Properti unik dari material (seperti static
+accumulator, conductivity test data, heat accumulator, data tes konduktifitas, pemuaian
+expansion, adiabatic pressure). panas, tekanan adiabatik).
+
+--- Halaman 9 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 9 of 15
+Flammability Fammability
+Understanding the characteristics of flammability, Memahami karakterisik flammability, hazard dari
+hazard of process materials and mixtures, is important material proses dan suatu campuran, merupakan hal
+to define the potential for fire and explosion. Such data yang penting untuk mendefinisikan potensi terjadinya
+is used to perform consequence analysis and to help kebakaran dan ledakan. Data seperti ini digunakan
+ensure sufficient and effective design of control and untuk melakukan analisa konsekuensi dan untuk
+protective systems (such as fire control and suppression membantu memastikan disain sistem kontrol dan
+systems). Typical hazard information should include: pelindung yang cukup dan efektif (seperti kontrol
+terhadap kebakaran dan sistem suppression). Informasi
+hazard yang tipikal harus mencakup:
+1. Combustion power characteristics (such as flash 1. Karakteristik daya bakar (seperti titik nyala, lower
+point, lower flammability limit [%], upper flammability limit [%], upper flammability limit [%]
+flammability limit [%] and temperature dan temperature autoignition).
+autoignition).
+2. Minimum oxygen concentration for effective 2. Konsentrasi oksigen minimum untuk inerting yang
+inerting (if applicable). efektif (jika berlaku).
+3. Heat and chemical stability (such as autoignition, 3. Stabilitas panas dan kimia (seperti autoignition,
+auto-oxidation and adiabatic pressure (high auto-oxidation dan tekanan adiabatik (aplikasi
+pressure application). tekanan tinggi).
+Combustible products resulting from normal and Produk yang mudah terbakar yang dihasilkan dari
+abnormal operating conditions, and products of kondisi operasi normal maupun abnormal, dan
+unexpected mixing results, should also be discussed. produk hasil pencampuran yang tidak diharapkan,
+juga harus dibahas.
+Toxicity Toxicity
+Many materials used or produced from facility processes, Banyak material yang digunakan ataupun dihasilkan dari
+can be toxic to humans, animals or the environment, if proses fasilitas, dapat bersifat racun terhadap manusia,
+regardless of their containment. Hazard toxicity of binatang atau lingkungan, jika terlepas dari containment
+process materials, whether acute or chronic, must be nya. Hazard toxicity dari material proses, baik yang
+identified and documented as part of the Process Safety bersifat akut atau kronis, harus diidentifikasi dan
+Information. didokumentasikan sebaga bagian dari Informasi
+Keselamatan Proses.
+Toxicity can cause short-term acute effects (e.g. from Toxicity dapat menyebabkan efek akut jangka pendek
+direct contracts due to being sucked or splashed) as well (misalnya dari kontrak langsung karena terhisap atau
+as long-term chronic effects (systematic effects on body terkena cipratan) maupun efek kronis jangka panjang
+organs). (efek sistematik pada organ tubuh).
+Information on toxicity in a material can include the Infomasi toxicity pada suatu material dapat mencakup
+following: di bawah ini:
+1. Acute toxicity data (such as lethal concentration 50, 1. Data toxicity akut (seperti lethal concentration 50,
+lethal dose 50, and immediately dangerous to life or lethal dose 50, and immediately dangerous to life
+health concentrations) for inhalation, ingestion and or health concentrations) untuk terhirup, tertelan
+contact with the skin. dan kontak dengan kulit.
+2. Information about carcinogenicity, mutagenicity, 2. Information tentang karsinogenisitas,
+neurotoxisity, and other health effects on humans or mutagenisitas, neurotoxisitas, dan efek kesehatan
+animals. lain terhadap manusia atau hewan.
+3. Effects of eye and skin contact (such as irritation, 3. Efek kontak mata dan kulit (seperti iritasi,
+corrosiveness or absorption through the skin). korosifitas atau penyerapan melalui kulit).
+4. Classification of chemicals based on the effects of 4. Klasifikasi bahan kimia berdasarkan efek paparan
+acute exposure on certain organs of the body (such akut pada organ tubuh tertentu (seperti iritan,
+as irritants, pulmonary sensitizers, deep lung toxins, pulmonary sensitizer, deep lung toxins, cardiac
+cardiac sensitizers, oxygen inhibitors, etc.). sensitizer, oxygen inhibitors, dll).
+For reference, information regarding toxisity can be seen Sebagai referensi, informasi mengenai toxisity dapat
+in the following standards: dilihat di beberapa standar berikut:
+1. AIHA Emergency Response Planning Guideline 1. AIHA Emergency Response Planning Guideline
+(ERPG) levels. (ERPG) levels.
+
+--- Halaman 10 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 10 of 15
+2. U.S. EPA and National Research Council Committee 2. U.S. EPA and National Research Council
+for Acute Exposure Guideline Levels. Committee for Acute Exposure Guideline Levels.
+3. Other toxic endpoints (e.g., New Jersey Toxic 3. Other toxic endpoints (e.g., New Jersey Toxic
+Catastrophe Prevention Act limits). Catastrophe Prevention Act limits).
+Chemical reactivity Chemical reactivity
+The potential for certain materials to undergo Potensi material tertentu untuk mengalami reaksi yang
+uncontrolled reactions that give rise to the release of tidak terkontrol yang menimbulkan terlepasnya material
+toxic materials, flammable materials, or explosive beracun, material mudah terbakar atau energi ledakan,
+energy, all of which are hazard reactivity of a chemical, yang semuanya merupakan hazard reaktifitas suatu
+must be well understood and managed. All areas of TGI bahan kimia, harus dipahami dengan baik dan dikelola.
+operations must assess and document chemical Semua area operasi TGI harus melakukan assessment
+reactivity hazards for all their processes and operations. dan mendokumentasikan chemical reactivity hazard
+untuk semua proses dan operasinya.
+The Process Safety Information document should Dokumen Informasi Keselamatan Proses harus
+include test result data and engineering calculations of mencakup data hasil test dan perhitungan engineering
+hazard reactivity, based on appropriate references. dari hazard reaktifitas, berdasarkan referensi yang
+Documentation may include: sesuai. Dokumentasi dapat mencakup:
+1. Information on chemical and heat stability. 1. Informasi stabilitas kimia dan panas.
+2. Chemical and material incompatibilities. 2. Ketidaksesuaian kimia dan material.
+3. Kinetic data of reactions and thermodynamics. 3. Data kinetik reaksi dan termodinamika.
+4. The formation of reactive or unstable materials. 4. Pembentukan bahan reaktif atau tidak stabil.
+5. Identify the degree of formation of toxic and 5. Identifikasi tingkat pembentukan material beracun
+flammable materials resulting from unexpected dan mudah terbakar yang diakibatkan
+mixing or uncontrolled reactions. pencampuran yang tidak diharapkan atau reaksi
+tidak terkontrol.
+The matrix of material and chemical mismatches Matrik ketidaksesuaian material dan bahan kimia (matrik
+(chemical reaction matrices), or equivalenya, usually reaksi kimia), atau ekuivalenya, biasanya disebut matrik
+called chemical reaction matrices, must be created to reaksi kimia, harus dibuat untuk mengidentifikasi efek
+identify the effects that can occur due to the presence yang dapat terjadi karena adanya pencampuran yang
+of unexpected mixing of different materials. tidak diharapkan dari material yang berbeda.
+Other hazards Hazard lain
+In addition to the physical characteristics and hazards Sebagai tambahan pada karakteristik fisik dan hazard
+related to chemicals described above, other hazard terkait bahan kimia yang dijelaskan di atas, informasi
+information also needs to be used as part of the Process hazard lain juga perlu digunakan sebagai bagian paket
+Safety Information package. This can include: Informasi Keselamatan Proses. Ini dapat mencakup:
+1. Mechanical hazards related to equipment movement 1. Hazard mekanis terkait pergerakan peralatan dan
+and automation. otomasi.
+2. Uncontrolled stored energy. 2. Energi tersimpan yang tidak terkontrol.
+3. Equipment with high-energy spins. 3. Peralatan dengan putaran berenergi tinggi.
+4. Fuel supply and its delivery system. 4. Suplai bahan bakar dan sistem pengirimannya.
+5. Extreme temperatures and hazards in liquids, solids 5. Temperatur ekstrim dan hazard pada cairan, benda
+or equipment surfaces that may result in burns (such padat atau permukaan peralatan yang dapat
+as hot, cold or cryogenic materials, or high- mengakibatkan luka bakar (seperti material panas,
+temperature oils). dingin atau cryogenic, atau oli bertemperatur tinggi).
+6. Hazard is related to pressure or vacuum from gases, 6. Hazard terkait tekanan atau vakum dari gas, cairan
+liquids or solid materials. atau material padat.
+7. Solid objects, coatings, contaminants, waste or 7. Benda padat, coating, contaminant, limbah atau
+accumulated flammable dust on crushing. akumulasi debu yang mudah terbakar pada
+8. Solvents or liquids with low or medium levels of permukan.
+toxins (such as slurries, acidic or alkaline liquids, or 8. Solvent atau cairan dengan tingkat racun yang
+wastewater). rendah atau menengah (seperti slurries, cairan asam
+9. Power or energy related to failure of facility atau basa, atau air limbah).
+infrastructure caused by the weight, vibration, or 9. Daya atau energi terkait kegagalan infrastruktur
+corrosion of a supporting structure. fasilitas yang disebabkan karena berat, getaran, atau
+korosi suatu struktur pendukung.
+
+--- Halaman 11 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 11 of 15
+10. Shortness of breath due to inert gases or other 10. Sesak nafas karena inert gas atau substansi lain
+substances that can displace oxygen (such as yang dapat menggantikan oksigen (seperti nitrogen,
+nitrogen, carbon dioxide or methane). karbon dioksida atau methane).
+11. Material and biological hazards related to the gas 11. Material dan hazard biologi terkait proses distribusi
+distribution process. gas.
+5.2.2. Base Design Process 5.2.2. Proses Design Basis
+Requirements and procedures Persyaratan dan prosedur
+Process design basis is a description of processes, Process design basis adalah sebuah gambaran proses,
+including chemical processes, material and energy termasuk proses kimia, keseimbangan material dan
+balances, process steps, process parameters for each energi, langkah proses, parameter proses untuk setiap
+step, limitations of each parameter (such as maximum, langkah, batasan dari setiap parameter (seperti
+minimum), and consequences of deviation (above maksimum, minimum), dan konsekuensi dari deviasi (di
+maximum conditions or below minimum conditions). atas kondisi maksimum atau di bawah kondisi
+minimum).
+The process design of the base must be documented, Process design basis harus didokumentasikan, dijaga
+maintained, and communicated as needed, to the dan dikomunikasikan sesuai kebutuhan, kepada pekerja
+workers responsible for the start-up (new facility) and to yang bertanggung jawab untuk start-up (fasilitas baru)
+the workers involved in the daily operation process and dan kepada pekerja yang terlibat pada proses operasi
+maintenance. sehari-hari dan pemeliharaan.
+For processes where original technical information does Untuk proses yang mana informasi teknis yang original
+not exist, a process design base must be created before tidak ada, process design basis harus dibuat sebelum
+process hazard analysis (PHA) is performed. dilakukan process hazard analysis (PHA).
+If the Process Safety Information used is purchased or Jika Informasi Keselamatan Proses yang digunakan
+licensed, TGI must obtain the Process Safety adalah dibeli atau lisensi, TGI harus mendapatkan
+Information and other important information from the Informasi Keselamatan Proses dan informasi penting
+Contractor. lainnya dari Kontraktor.
+The process design base should include the following: Process design basis harus mencakup hal-hal berikut ini:
+1. Block Flow or Process Flow Diagrams, Piping & 1. Block Flow atau Process Flow Diagram, Piping &
+Instrument Diagrams (P&IDs) including material Instrument Diagram (P&IDs) termasuk material dan
+and energy balances. energi balance.
+2. Explanation of chemical processes, including the 2. Penjelasan proses kimia, termasuk potensi dari
+potential of unexpected reactions or uncontrolled reaksi yang tidak diharapkan atau reaksi tidak
+reactions. terkontrol.
+3. Process steps, standard operating conditions 3. Langkah proses, standard operating condition
+(SOCs), and the consequences of deviations above (SOC), dan konsekuensi dari terjadinya deviasi di
+the maximum limit and below the minimum limit. atas batas maksimum dan di bawah batas minimum.
+Process design bases should be stored in a file and Process design basis harus disimpan dalam suatu file
+updated using information obtained in periodic reviews dan di-update dengan menggunakan informasi yang
+or input from Management of Change. Ideally, the diperoleh pada reviu periodik atau masukan dari
+process design base should be available as a document Management of Change. Idealnya, process design basis
+easily accessible to operations personnel. harus tersedia sebagai suatu dokumen yang mudah
+diakses oleh personil operasi.
+Periodic reviews of the base design process must be Reviu periodik terhadap process design basis harus
+conducted at least once in five years, coinciding with the dilakukan minimum sekali dalam lima tahun, bertepatan
+timing of the PHA review. dengan waktu reviu PHA.
+Process flow diagram Diagram Alir Proses
+The purpose of the process flow diagram is to provide Tujuan proses flow diagram adalah memberikan
+general information of the processes occurring in the informasi umum dari proses yang terjadi di fasilitas TGI.
+TGI facility. The process flow diagram must be detailed Process flow diagram harus detail sehingga pekerja
+so that workers can understand the main process dapat memahami peralatan proses yang utama dan
+equipment and how the equipment is interconnected. bagaimana peralatan-peralatan tersebut saling
+terhubung.
+
+--- Halaman 12 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 12 of 15
+A brief description of the process and discussing the Penjelasan singkat mengenai proses dan membahas
+functions of the main equipment (including safety fungsi dari peralatan utama (termasuk peralatan safety)
+equipment) should be covered. harus tercakup
+• Gas distribution process  Proses distribusi gas
+Discussion of the gas distribution process should Pembahasan proses distribusi gas harus diberikan
+be given to document the expected process. It untuk mendokumentasikan proses yang
+should include all relevant reactions with additional diharapkan terjadi. Ini harus mencakup semua
+information on the balance of matter and energy reaksi yang relevan dengan tambahan informasi
+(endothermic, exothermic and heat reaction pada keseimbangan material dan energi
+results), and other reaction conditions. (endothermic, exothermic dan panas hasil reaksi),
+The potential occurrence of uncontrolled reactions dan kondisi reaksi lainnya.
+that may adversely affect safe operation, should be Potensi terjadinya reaksi yang tidak terkontrol
+described in detail. yang dapat mempengaruhi operasi yang aman,
+harus dijelaskan dengan detail.
+• Process steps, standard operating conditions • Langkah proses, standard operating condition
+(SOCs) and consequences due to deviations (SOC) dan konsekuensi akibat deviasi
+Gas distribution process steps should be provided Langkah proses distribusi gas harus diberikan
+to document how the process is performed. Use a untuk mendokumentasikan bagaimana proses
+flow schema from a process step that identified the dilakukan. Gunakan suatu skema aliran dari
+gas distribution operation and its operation langkah proses yang mengidentifikasikan operasi
+condition. distribusi gas dan kondisi operasinya.
+SOC (temperature, pressure, flow level), including SOC (temperatur, tekanan, tingkat aliran),
+normal limits and maximum/minimum values, must termasuk batas normal dan nilai
+be written. The consequences of deviations that maksimum/minimum, harus ditulis. Konsekuensi
+exceed the maximum and minimum limits should dari deviasi yang melewati batas maksimum dan
+be explained, including considerations for safety, minimum harus dijelaskan, termasuk
+health and the work environment. It is usually pertimbangan terhadap keselamatan, kesehatan
+created in the form of a table showing the process dan lingkungan kerja. Hal ini biasanya dibuat
+variables, normal conditions and the consequences dalam bentuk suatu tabel yang menunjukkan
+of deviation. variabel proses, kondisi normal dan konsekuensi
+dari deviasi.
+• Balance of matter and energy (M&E) • Keseimbangan material dan energi (M&E)
+M&E balance is an integrated part of the overall Keseimbangan M&E merupakan bagian terintegrasi
+Process Safety Information to clearly identify dari keseluruhan Informasi Keselamatan Proses
+existing gas distribution processes and the untuk mengidentifikasi secara jelas proses
+interrelationships between process and material distribusi gas yang ada dan keterkaitan antara
+variables, and to identify where energy can variabel proses dan material, dan untuk
+accumulate in harmful amounts. mengidentifikasi di mana energi dapat terkumpul
+dalam jumlah yang membahayakan.
+M&E balance is important for determining the initial Keseimbangan M&E penting untuk menentukan
+design of critical equipment, managing reactivity, disain awal critical equipment, mengelola
+performing periodic PHA and helping to ensure reaktifitas, melakukan PHA periodik dan
+effective Management of Change (identifying the membantu memastikan Management of Change
+effects of changes in flow and temperature). yang efektif (mengidentifikasi pengaruh
+The M&E balance should include minimum perubahan aliran dan temperatur).
+information including time flow rate, process Keseimbangan M&E harus mencakup informasi
+temperature and gas composition. Other minimum mencakup tingkat aliran masa,
+information can be operating pressure and physical temperatur proses dan komposisi gas. Informasi
+properties. lain dapat berupa tekanan operasi dan properti
+fisik.
+• Additional information • Informasi tambahan
+Additional information may include a detailed Informasi tambahan dapat mencakup penjelasan
+description of process equipment (such as detail peralatan proses (seperti instrumentasi,
+instrumentation, safety systems) or information sistem safety) atau informasi mengenai suatu
+about a process incident. insiden proses.
+
+--- Halaman 13 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 13 of 15
+5.2.3. Equipment design basis 5.2.3. Equipment design basis
+This section describes the directions for the identification Bagian ini menjelaskan arahan untuk identifikasi
+of equipment on which equipment design base peralatan yang mana informasi equipment design basis
+information should be maintained. It also contains harus dijaga. Juga berisi persyaratan dan prosedur
+requirements and procedures for documenting and untuk mendokumentasikan dan mengelola informasi
+managing equipment base design information on the design basis peralatan pada elemen Informasi
+Process Safety Information element. Specific procedures Keselamatan Proses. Prosedur yang spesifik diberikan di
+are given in this section for the following standards: bagian ini untuk standard berikut:
+ Determine what components, equipment and  Menentukan komponen, peralatan dan sistem apa
+systems constitute PSM critical equipment. yang merupakan PSM critical equipment.
+ Understand and document construction materials/  Memahami dan mendokumentasikan
+materials, design codes and standards used in bahan/material konstruksi, disain code dan
+equipment base design. standard yang digunakan pada design basis
+ Manage equipment record design base (safe peralatan.
+working limitations of operating pressure and  Mengelola catatan peralatan design basis (batasan
+temperature, etc.). kerja aman tekanan dan temperature operasi, dll).
+ An explanation of PSM-CE can be seen in the TGI-  Penjelasan mengenai PSM-CE dapat dilihat pada
+WP-07-37-15 Safety Critical Equipment Procedure Prosedur PSM TGI-WP-07-37-15 Prosedur
+Pedoman SCE(Safety Critical Equipment)
+5.3. Process Safety Information Documentation 5.3. Dokumentasi Informasi Keselamatan Proses
+The Process Safety Information Element is the Elemen Informasi Keselamatan Proses merupakan
+cornerstone of other PSM elements, all of which will refer landasan dari elemen-elemen PSM lainnya, yang mana
+to it either directly or indirectly and depend on accurate semuanya akan merujuk padanya baik langsung
+and accessible Process Safety Information. maupun tidak langsung, dan tergantung dari Informasi
+Keselamatan Proses yang akurat dan dapat diakses.
+5.3.1. Responsibility 5.3.1. Tanggung jawab
+Almost all personnel working at TGI facilities are Hampir semua personil yang bekerja di fasilitas TGI
+responsible for documentation in their own form, that is, bertanggung jawab terhadap dokumentasi dalam
+as a preliminary document, user, or who maintains the bentuknya masing-masing, yaitu sebagai dokumen
+document. awal, pengguna, atau yang menjaga dokumen.
+Line Management, such as Managers in the Operations Manajemen Lini, seperti Manajer di Operation
+Directorate and Engineering Directorate responsible for Directorate dan Engineering Directorate bertanggung
+the TGI facility operating system, to implement and jawab terhadap sistem operasi fasilitas TGI, untuk
+maintain procedures for documenting Process Safety mengimplementasikan dan menjaga prosedur dalam
+Information. mendokumentasikan Informasi Keselamatan Proses.
+5.3.2. Process Safety Information documentation 5.3.2. Manajemen dokumentasi Informasi
+management Keselamatan Proses
+The management of the Process Safety Information Manajemen dokumentasi Informasi Keselamatan Proses
+documentation should include the following: harus mencakup perihal di bawah ini:
+1. Document identification 1. Identifikasi dokumen
+Document identification is critical to managing psm Identifikasi dokumen merupakan hal yang sangat
+implementation compliance. TGI stores Process penting untuk mengelola kepatuhan implementasi
+Safety Information documents on the company's PSM. TGI menyimpan dokumen Informasi
+official portal and physically stores them in the Keselamatan Proses di portal resmi perusahaan
+respective areas of compressor stations and dan penyimpanan secara fisik di area masing-
+metering stations. masing stasiun kompresor dan stasiun metering.
+2. Document storage 2. Penyimpanan dokumen
+TGI must manage the storage and management of TGI harus mengelola penyimpanan dan mengelola
+PSM documents. dokumen PSM
+
+--- Halaman 14 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 14 of 15
+The purpose of document storage is for document Tujuan penyimpanan dokumen adalah untuk
+duplication, quick and easy access and protection duplikasi dokumen, akses yang cepat dan mudah
+from loss due to theft and damage. dan melindungi dari kehilangan akibat pencurian
+dan kerusakan.
+The Process Safety Information Document may be Dokumen Informasi Keselamatan Proses dapat
+stored in the following form: disimpan dalam bentuk berikut:
+• Hardware media (such as manuals, notes, • Media perangkat keras (sepeti manual,
+compact disks) stored in cabinets or catalogs catatan, compact disk) yang disimpan di
+and index systems. kabinet atau katalog dan sistem index.
+• Electronic documents. • Dokumen elektronik.
+• A combination of the above two systems. • Kombinasi dari dua sistem di atas.
+The document storage location in the TGI Lokasi penyimpanan dokumen di area operasi TGI
+operation area is in the closet of the compressor berada di lemari area stasiun kompresor dan
+station area and metering station in the form of stasiun metering dalam bentuk hard copy, intranet
+hard copy, intranet (http://tips.tgi.co.id) and (http://tips.tgi.co.id) dan Facility Integrity
+Facility Integrity Management System (FIMS) and Management System (FIMS) dan Pipeline Integrity
+Pipeline Integrity Management System (PIMS). Management System (PIMS).
+Each Regional Office must maintain a directory Setiap Regional Office harus menjaga suatu
+where PSM-related records are stored for the area direktori di mana catatan terkait PSM disimpan
+in question. Such documents, at their place of untuk area yang bersangkutan. Dokumen-
+storage, must be maintained their validity and dokumen tersebut, di tempat penyimpanannya,
+revision, including the date or verification number harus dijaga validitas dan revisinya, termasuk
+of the user. tanggal atau nomor verifikasi dari pengguna.
+3. Document maintenance 3. Pemeliharaan dokumen
+TGI must ensure that procedure changes are TGI harus memastikan bahwa perubahan prosedur
+properly managed so that the various potential dikelola dengan baik agar berbagai potensi bahaya
+hazards that arise can be properly identified and yang muncul dapat teridentifikasi dan dikelola
+managed. These changes should be managed with dengan baik. Perubahan ini harus dikelola dengan
+the TGI-WP-07-37-10 Management of Change TGI-WP-07-37-10 Management of Change
+Procedure. Procedure.
+4. Reproduction of documents 4. Produksi ulang dokumen
+TGI should ensure restrictions on reproduction of TGI harus memastikan pembatasan reproduksi
+Process Safety Information documents, to help dokumen Informasi Keselamatan Proses, untuk
+ensure expired copies of documents are not used membantu memastikan salinan dokumen yang
+to prevent unauthorized use and distribution of sudah kadaluarsa tidak digunakan untuk
+documents. mencegah penggunaan dan distribusi dokumen
+yang tidak terotorisasi.
+One way to achieve this is to limit reproduction to Salah satu cara untuk mencapai hal ini adalah
+controlled document distribution or limit access by dengan membatasi reproduksi terhadap distribusi
+allowing reading only dokumen yang terkontrol atau membatasi akses
+dengan hanya mengijinkan untuk membaca saja
+5. Document security and protection 5. Keamanan dan perlindungan dokumen
+Due to the importance of Process Safety Karena pentingnya informasi dan dokumentasi
+Information information and documentation, TGI Informasi Keselamatan Proses, TGI harus
+must pay attention in protecting the uncontrolled memberikan perhatian dalam melindungi
+dissemination of documents. penyebaran dokumen yang tidak terkontrol.
+6. Consideration of document loss 6. Pertimbangan terhadap kehilangan dokumen
+TGI should keep back-up copies of important TGI harus menyimpan salinan back-up dokumen
+documents elsewhere to prevent loss of penting di tempat lain untuk mencegah hilangnya
+documents due to an incident such as fire or flood. dokumen karena suatu insiden seperti kebakaran
+atau banjir.
+Care should also be paid to protecting the Perhatian juga harus diberikan untuk melindungi
+document storage area indoors with automatic fire area penyimpanan dokumen di dalam ruangan
+
+--- Halaman 15 ---
+
+Doc. No TGI-WP-07-37-03
+Version /
+00
+PROSEDUR INFORMASI KESELAMATAN PROSES Rev.
+PROCESS SAFETY INFORMATION PROCEDURE
+Page Page 15 of 15
+extinguishing equipment that, if activated, does dengan peralatan pemadam api otomatis yang jika
+not damage the stored documents. teraktifasi, tidak merusak dokumen yang disimpan.
+7. Considerations for uncontrolled deployment 7. Pertimbangan terhadap penyebaran yang tidak
+terkontrol
+TGI can build a computerized document TGI dapat membangun sistem menajemen
+management system to avoid uncontrolled dokumen yang terkomputerisasi untuk
+dissemination of information by allowing only read- menghindari penyebaran informasi yang tidak
+only document access. terkontrol dengan hanya mengijinkan akses
+dokumen secara read-only.
+This will keep the process of deleting, modifying, Cara ini akan menjaga agar proses penghapusan,
+and reproducing unauthorized documents modifikasi dan memperbanyak dokumen yang
+avoidable. tidak terotorisasi dapat dihindari.
+Another approach that can be taken is to restrict Pendekatan lain yang dapat dilakukan adalah
+access to Process Safety Information documents dengan membatasi akses ke dokumen Informasi
+(e.g., by means of sign-in and sign-out access to Keselamatan Proses (misalnya dengan cara akses
+enter electronic document storage systems). sign-in dan sign-out untuk masuk ke sistem
+penyimpanan dokumen elektronik).
+5.4. Management System 5.4. Sistem Manajemen
+5.4.1. Management notes 5.4.1. Catatan manajemen
+Document recording must be maintained and follow the Pencatatan dokumen harus dijaga dan mengikuti
+TGI Document Retention Policy. Kebijakan Penyimpanan Dokumen TGI.
+5.4.2. Audit 5.4.2. Audit
+In order for the Process Safety Information document in Agar dokumen Informasi Keselamatan Proses di area
+the area of operation to be consistent with the operasi konsisten dengan standar, harus diaudit sebagai
+standards, it must be audited as part of the PSM audit. bagian audit PSM. Manajemen TGI bertanggung jawab
+TGI management is responsible for conducting audits to melakukan audit untuk memastikan dipatuhinya
+ensure compliance with the requirements of these persyaratan pada prosedur ini dan untuk membantu
+procedures and to help ensure proper implementation of memastikan adanya implementasi prosedur ini dengan
+these procedures. Audit findings must be documented baik. Temuan audit harus didokumentasikan dan
+and stored in the database system for follow-up. disimpan di sistem database untuk ditindaklanjuti.
+5.4.3. Update Process Procedure 5.4.3 Proses Pembaruan Prosedur
+This procedure should be reviewed and revised, if Prosedur ini harus direviu dan direvisi jika perlu, dengan
+necessary, with a minimum time span of once in five rentang waktu minimum sekali dalam lima tahun sejak
+years from the date of the last revision. tanggal revisi terakhir.
+The PSM Sub-Committee is responsible for helping to Sub Komite PSM bertanggung jawab membantu
+ensure that the review is carried out properly. memastikan dilakukannya reviu dengan baik.

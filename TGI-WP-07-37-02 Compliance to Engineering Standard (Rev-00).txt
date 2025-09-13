@@ -1,0 +1,640 @@
+
+
+--- Halaman 1 ---
+
+Dokumen Tidak Dikendalikan, apabila dicetak
+Document uncontrolled when printed
+PT TRANSPORTASI GAS INDONESIA Doc. No. : TGI-WP-07-37-02
+Page : Page 1 of 13
+PROSEDUR PEMENUHAN STANDAR TEKNIS
+COMPLIANCE TO ENGINEERING STANDARD PROCEDURE
+KENDALI DOKUMENTASI/ DOCUMENT CONTROL
+Manual ini dikelola di bawah kendali Departemen Facilty Integrity. Tiap perubahan dan pertanyaan terkait
+dengan dokumen ini, silakan kontak ke Phone Extension 64000.
+This Manual is managed under Facility Integrity Department. Any changes and question to this document please
+contact Phone Extension 64000.
+Version
+Author Reviewed by Approved by
+/ Rev.
+Sign: Sign: Sign:
+00
+Name: M.Abdul Mudlil Name: Meizol Thabran Name: A.A.P Bagus Putra
+Position: Static Equipment Position: FID Manager Position: Act. Engineering
+Mechanical Engineer Date: 28 December 2022 Director
+Date: 28 December 2022 Date: December 2022
+
+--- Halaman 2 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 2 of 13
+LEMBAR PERUBAHAN DOKUMEN
+Document Record of Changes
+Tanggal
+Versi /
+Perubahan/
+Rev. Ke Perubahan Isi
+Penerbitan Alasan Perubahan
+– (Point No. . . .)
+Date of Reason for Change
+Version / Content No. . . . changed
+changes or
+Rev. No.
+reissue
+
+--- Halaman 3 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 3 of 13
+TABLE OF CONTENTS
+DAFTAR ISI
+No Description Page
+1 Purpose ………………………………………………………………………………………………………………………… 4
+Tujuan
+2 Scope …………………………………………………………………………………………………………………………… 4
+Ruang Lingkup
+3 Definition ……………………………………………………………………………………………………………………… 4
+Definisi
+4 Reference …………………………………………………………………………………………………………………….. 5
+Referensi
+5 Fulfillment of Technical Standards …………………………………………………………………………………… 5
+Pemenuhan Standar Teknis
+5.1 Responsibility ………………………………………………………………………………………………………………… 5
+Tanggung Jawab
+5.2. Procedure ……………………………………….…………………………………………………………………………….. 5
+Prosedur
+5.2.1 RAGAGEP Example ………………………………………………………………………………………………………… 6
+Contoh RAGAGEP
+5.2.2 Shall" and "Should" on Standard ……………...…………………………………………………………………….. 7
+“Shall” dan “Should” pada Standar
+5.2.3. Normative" and "Informative" requirements on RAGAGEP ………………………………………………….. 8
+Persyaratan “Normative” dan “Informative” pada RAGAGEP
+5.2.4 Implementation Considerations ………………………………………………………………………………………. 8
+Pertimbangan Pelaksanaan
+5.3 Contact ………………………………………………………………………………………………………………………… 8
+Kontak
+6 Appendix: RAGAGEP List ……………………………………………………………………………………………….. 11
+Lampiran: Daftar RAGAGEP
+
+--- Halaman 4 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 4 of 13
+1. GENERAL PURPOSE 1. TUJUAN UMUM
+The purpose of this procedure is: Tujuan dari prosedur ini adalah:
+ Ensure that all facilities under the responsibility of  Memastikan bahwa semua fasilitas yang berada di
+TGI follow RAGAGEP so that the facility can bawah tanggung jawab TGI mengikuti RAGAGEP
+function properly and does not cause an incident. sehingga fasilitas tersebut dapat berfungsi dengan
+baik dan tidak menimbulkan suatu insiden.
+ Provide guidance to the Operations, Projects and  Memberikan pedoman kepada Operasi, Proyek dan
+Management Team on the RAGAGEP used. Tim Manajemen tentang RAGAGEP yang
+digunakan.
+ Ensure that all RAGAGEP that falls within the scope  Memastikan bahwa semua RAGAGEP yang masuk
+of these guidelines is well documented, its changes ke dalam ruang lingkup pedoman ini
+are discussed in depth, and communicated to didokumentasikan dengan baik, perubahannya
+relevant parties including operations personnel, didiskusikan secara mendalam, dan
+project team members, contractors, office and dikomunikasikan kepada pihak terkait termasuk
+management workers, and ensures that training is personil operasi, anggota tim proyek, kontraktor,
+provided. pekerja kantor dan manajemen, serta memastikan
+bahwa pelatihan diberikan.
+2. SCOPE 2. RUANG LINGKUP
+This procedure describes the RAGAGEP requirements Prosedur ini menjelaskan persyaratan RAGAGEP untuk
+for implementing Process Safety Management at TGI mengimplementasikan Process Safety Management
+facilities. pada fasilitas yang ada di TGI.
+The implementation of these procedure also applies to Implementasi prosedur ini juga berlaku untuk project
+projects under TGI's responsibility. yang berada di bawah tanggung jawab TGI.
+3. DEFINITION 3. DEFINISI
+Process Safety Management (PSM) – Application of Process Safety Management (PSM) – Aplikasi kontrol
+controls and management systems (e.g. programs, dan sistem manajemen (misalnya program, prosedur,
+procedures, audits or evaluations) to a process in such audit atau evaluasi) untuk sebuah proses sedemikian
+a way that potential process hazards are identified, rupa sehingga potensi bahaya proses teridentifikasi,
+understood, and controlled so that injuries and incidents dipahami, dan dikontrol sehingga cidera dan insiden
+related to the process can be prevented. terkait dengan proses dapat dicegah.
+Management of Change – Is a management system to Management of Change – Adalah management sistem
+identify, review and approve all changes to Processes, untuk mengidentifikasi, me-review dan menyetujui
+(Hardware, Process Control and/or Process Conditions), semua perubahan Proses, (Hardware, Process Control
+Changes in Procedures (Operating Procedures and/or dan/atau Kondisi Proses), Perubahan Prosedur
+Maintenance) and Changes in Organization before such (Prosedur Operasi dan/atau Pemeiliharaa) dan
+changes are implemented. This does not apply to Perubahan Organisasi sebelum perubahan tersebut
+anything that exactly has the similarity. diimplementasikan. Hal ini tidak berlaku untuk sesuatu
+yang sama persis.
+RAGAGEP – Recognized and generally accepted good RAGAGEP – Recognized and generally accepted good
+engineering practices. It is a consensus code, engineering practices. Merupakan code konsensus,
+recommended industry practices and instructions for recommended industry practices dan petunjuk untuk
+carrying out specific engineering, operation and melakukan aktifitas engineering, operasi dan
+maintenance activities (for example: American National pemeliharaan yang spesifik (misalnya: American
+Standards Institute, American Petroleum Institute, National Standards Institute, American Petroleum
+International Society for Automation, National Institute, International Society for Automation, National
+Protection Association, American Society form Protection Association, American Society form
+Mechanical Engineers, European Norms and Standards, Mechanical Engineers, European Norms and Standards,
+etc.). dll).
+
+--- Halaman 5 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 5 of 13
+4. REFERENCE 4. REFERENSI
+a. Government Regulation of the Republic of a. Peraturan Pemerintah Republik Indonesia Nomor
+Indonesia Number 50 of 2012 concerning the 50 Tahun 2012 Tentang Penerapan Sistem
+Implementation of Occupational Safety and Health Manajemen Keselamatan dan Kesehatan Kerja.
+Management System. b. Undang Undang No.1 Tahun 1970, Keselamatan
+b. Law No.1 of 1970, Occupational Safety Kerja
+c. Decree of the Minister of Manpower Number: c. Keputusan Menteri Tenaga Kerja Nomor:
+KEP.187 / MEN / 1999 concerning Control of KEP.187/MEN/1999 Tentang Pengendalian Bahan
+Hazardous Chemicals in the Workplace Kimia Berbahaya Di Tempat Kerja
+d. Government Regulation No.88 of 2019 concerning d. Peraturan Pemerintah No.88 tahun 2019 tentang
+occupational health. kesehatan kerja.
+e. Regulation of the Minister of Energy and Mineral e. Peraturan Menteri ESDM No. 32 tahun 2021
+Resources No. 32 of 2021 concerning Technical tentang Inspeksi Teknis Dan Pemeriksaan
+Inspection and Safety Inspection of Installations Keselamatan Instalasi Dan Peralatan Pada
+and Equipment in Oil and Gas Business Activities. Kegiatan Usaha Minyak Dan Gas Bumi.
+f. ISO 45001-2018 Occupational Health & Safety f. ISO 45001-2018 Occupational Health & Safety
+Management System. Management System.
+g. OSHA 3132-2000. g. OSHA 3132-2000.
+h. RAGAGEP in Process Safety Management h. RAGAGEP in Process Safety Management
+Enforcement (1910.119). Enforcement (1910.119).
+5. FULFILLMENT OF TECHNICAL STANDARDS 5. PEMENUHAN STANDAR TEKNIS
+5.1. Responsibility 5.1 Tanggung Jawab
+The responsibilities described herein are those related Tanggung jawab yang dijelaskan di sini adalah
+to the fulfillment of Technical Standards and tanggung jawab terkait pemenuhan Standar Teknis
+compliance with RAGAGEP. dan kepatuhan dengan RAGAGEP.
+The Operation Directorate and Engineering Directorate Operation Directorate dan Engineering Directorate
+collaborate with the line team under it, responsible for berkolaborasi dengan tim lini di bawahnya,
+establishing PSM policies and guidelines that are bertanggung jawab menetapkan kebijakan dan
+consistent with government regulations, applicable PT pedoman PSM yang konsisten dengan peraturan
+Transportasi Gas Indonesia regulations and RAGAGEP. pemerintah, peraturan PT Transportasi Gas Indonesia
+yang berlaku dan RAGAGEP.
+The HSSE Manager is responsible for developing the HSSE Manager bertanggung jawab mengembangkan
+system to inform changes to government regulations sistem untuk menginformasikan perubahan peraturan
+relating to PSM pemerintah yang berhubungan dengan PSM
+5.2. Procedure 5.2. Prosedur
+This procedure demonstrates the use of RAGAGEP in Prosedur ini menunjukkan penggunaan RAGAGEP
+3 conditions: dalam 3 ketentuan:
+• TGI employees must document that all • Karyawan TGI harus mendokumentasikan bahwa
+equipment and machinery contained in the PSM semua peralatan dan mesin yang termaktub
+meet RAGAGEP. dalam PSM memenuhi RAGAGEP.
+ This documenting system must manage a  Sistem pendokumentasian ini harus mengelola
+condition under which the code and standards of suatu kondisi di mana code dan Standar disain
+the design and construction of the existing dan konstruksi dari peralatan atau mesin yang
+equipment or machinery that no longer used. If ada, tidak lagi digunakan. Jika hal ini terjadi,
+this happens, the Pipeline Integrity Manager and Pipeline Integrity Manager dan Facility Integrity
+Facility Integrity Manager must determine and Manager harus menentukan dan
+document that the equipment and machinery are mendokumentasikan bahwa peralatan dan mesin
+designed, maintained, inspected, tested and tersebut didisain, dipelihara, diinspeksi, ditest
+operated with good occupational safety rules. dan dioperasikan dengan kaidah keselamatan
+kerja yang baik.
+Inspections and tests are carried out on process Inspeksi dan test dilakukan pada peralatan dan
+equipment and machinery in accordance with the mesin proses sesuai dengan persyaratan dalam
+
+--- Halaman 6 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 6 of 13
+requirements in the TGI-WP-07-37-09 TGI-WP-07-37-09 Prosedur Integritas dan
+Mechanical Integrity Procedure in accordance Kehandalan Peralatan yang sesuai dengan
+with RAGAGEP. RAGAGEP.
+• The frequency of inspections and tests follows • Inspeksi dan test mengikuti rekomendasi
+the recommendations of the manufacturer of the pembuat peralatan atau mesin atau RAGAGEP,
+equipment or machine or RAGAGEP, and should dan harus dilakukan lebih sering berdasarkan
+be carried out more often based on experience in pengalaman dalam melakukan operasi.
+performing operations.
+Standards apply to design, maintenance, Standar berlaku untuk disain, pemeliharaan,
+inspection and test on equipment and machinery inspeksi dan test pada peralatan dan mesin.
+5.2.1. RAGAGEP sample 5.2.1. Contoh RAGAGEP
+1. Code that is widely used. 1. Code yang banyak digunakan.
+Certain standards have been widely used in Standar-standar tertentu telah banyak digunakan
+industry and policymakers. For example, many dalam industri dan para pembuat kebijakan.
+industries have adopted codes such as the National Contohnya banyak industri yang telah mengadopsi
+Fire Protection Agency (NFPA) 101, the American code seperti National Fire Protection Agency
+Petroleum Institute, etc. (NFPA) 101, American Petroleum Institute, dll.
+2. Consensus Documents. 2. Dokumen Konsensus.
+Certain organizations such as the American Sociaty Organisasi tertentu seperti American Sociaty of
+of Mechanical Engineers (ASME) follow the Mechanical Engineers (ASME) mengikuti American
+American National Standard Institute's (ANSI) National Standard Institute’s (ANSI) saat
+when developing consensus standards and mengembangkan Standar konsensus dan
+recommended practices. Some examples of recommended practice. Beberapa contoh dokumen
+consensus documents include ASME B31.3 on konsensus mencakup ASME B31.3 tentang code
+process pipe codes and the International Institute pipa proses dan International Institute of Ammonia
+of Ammonia Refrigeration's (IIAR) ASNI/IIAR 2- Refrigeration’s (IIAR) ASNI/IIAR 2-2008 tentang
+2008 on Equipment, Design, and Installation of Equipment, Design, and Installation of Closed-
+Closed-Circuit Ammonia Mechanical Refrigerating Circuit Ammonia Mechanical Refrigerating System.
+System. Consensus documents like these are Dokumen konsensus seperti ini digunakan secara
+widely used as sources of RAGAGEP by the luas sebagai sumber RAGAGEP oleh industri.
+industry.
+3. Internal Standards 3. Standar Internal
+TGI may develop enterprise Internal Standards TGI dapat mengembangkan Standar Internal
+(which are stored within the TGI Internet Portal perusahaan (yang disimpan di dalam TGI Internet
+Service) that are implemented within the scope of Portal Service) yang diterapkan dalam lingkup
+the TGI process. These Internal Standards must be proses TGI. Standar Internal ini harus konsisten
+consistent with applicable government regulations dengan peraturan pemerintah yang berlaku dan
+and RAGAGEP. RAGAGEP.
+Some of the reasons why TGI chooses to follow Beberapa alasan mengapa TGI memilih mengikuti
+Internal Standards can include: Standar Internal dapat mencakup:
+ Translate the requirements written in a  Menterjemahkan persyaratan yang ditulis di
+RAGAGEP into a program or implementation suatu RAGAGEP menjadi program atau
+procedure at a TGI facility in more detail. prosedur implementasi di fasilitas milik TGI
+dengan lebih detail.
+ Determine design, maintenance, inspection,  Menentukan persyaratan disain,
+and test requirements for the equipment that pemeliharaan, inspeksi dan test untuk
+associated RAGAGEP no longer exists. peralatan yang mana RAGAGEP terkait sudah
+tidak ada.
+ Complement or supplement the RAGAGEP  Melengkapi atau menambah RAGAGEP yang
+selected by TGI, which only partially dipilih oleh TGI, yang hanya sebagian
+accommodates the existing equipment in the mengakomodasi peralatan yang ada di
+TGI facility. fasilitas TGI.
+ Control hazards more effectively compared to  Mengontrol hazard secara lebih efektif
+existing standards if deemed necessary by dibandingkan dengan standar yang ada jika
+TGI. dianggap perlu oleh TGI.
+ Managing hazards where the standards used  Mengelola hazard di mana standar yang
+in equipment or machines are outdated and digunakan pada peralatan atau mesin sudah
+no longer show a good engineering kertinggalan jaman dan tidak lagi
+implementation. menunjukkan suatu implementasi
+
+--- Halaman 7 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 7 of 13
+engineering yang baik.
+4. Non-Consensus Documents 4. Dokumen Non-Konsensus
+Some industries develop non-consensus Beberapa industri mengembangkan dokumen
+engineering documents that use processes that do engineering non-konsensus yang menggunakan
+not follow the requirements in ANSI's Essential proses dengan tidak mengikuti persyaratan dalam
+Requirement. If applicable, this practice may be ANSI’s Essential Requirement. Jika berlaku,
+accepted as a good practice. Example: Pamphlet praktek ini dapat diterima sebagai suatu good
+Chlorine Institute (CI) focuses on chlorine and practices. Contoh: Pamphlet Chlorine Institute (CI)
+hypochlorite (bleach) safety and is used by several fokus pada chlorine dan hypochlorite (pemutih)
+companies that manage chlorine and hypochlorite. safety, dan digunakan oleh beberapa perusahaan
+For reference, OSHA accepts manufacturer's yang mengelola chlorine dan hypochlorite. Sebagai
+recommendations as a source of RAGAGEP referensi, OSHA menerima manufacturer’s
+information. recommendation sebagai sumber informasi
+RAGAGEP.
+In maintaining a good performance oriented PSM Dalam menjaga standar PSM yang berorientasi
+standard, TGI chose RAGAGEP to be applied in the pada kinerja yang baik, TGI memilih RAGAGEP
+process area. yang akan diaplikasikan di area proses.
+If TGI selects and follows the Code and Consensus Jika TGI memilih dan mengikuti Code dan
+Document as RAGAGEP, then the RARAGEP is Dokumen Konsensus sebagai RAGAGEP, maka
+acceptable if appropriate and can be applied. RARAGEP tersebut dapat diterima jika sesuai dan
+For technical assistance, it can be consult with the dapat diaplikasikan.
+PSM Sub-Committee, Pipeline Integrity Untuk bantuan secara teknis, konsultasikan
+Department or Facility Integrity Department. dengan Sub Komite PSM, Pipeline Integrity
+Department atau Facility Integrity Department.
+5.2.2. "Shall" and "Should" on Standard 5.2.2. “Shall” dan “Should” pada Standar
+The same "Shall", "must" or content used in “Shall”,”must” atau isitilah yang sama yang
+RAGAGEP indicates the view of the makers of digunakan pada RAGAGEP menunjukkan pandangan
+RAGAGEP that a statement is a minimum dari pembuat RAGAGEP bahwa suatu statemen
+requirement for managing hazards. Likewise, "shall adalah merupakan suatu persyaratan minimum
+not", "prohibited" or the same term indicates an untuk mengelola hazard. Demikian juga, “shall not”,
+unacceptable or practiced approach. If TGI makes a “prohibited” atau istilah yang sama menunjukkan
+deviation from the applicable "shall" or "shall not" pendekatan yang tidak dapat diterima atau
+requirement in RAGAGEP, this is a violation. dipraktekan. Jika TGI melakukan deviasi dari
+persyaratan “shall” atau “shall not” yang berlaku
+dalam RAGAGEP yang dianut, hal ini merupakan
+suatu pelanggaran.
+The use of the term "should", or the same term, in Penggunaan istilah “should”, atau istilah yang sama,
+RAGAGEP indicates a recommendation that reflects pada RAGAGEP menunjukan suatu rekomendasi
+something that is acceptable and is a preferred yang merefleksikan suatu hal yang dapat diterima
+practice. If a provision containing the word "should" dan merupakan suatu praktek yang disukai. Jika
+in a TGI-selected RAGAGEP applies to the process sebuah ketentuan yang mengandung kata “should”
+TGI manages, then TGI must follow suit and comply. dalam suatu RAGAGEP yang dipilih TGI berlaku pada
+proses yang dikelola TGI, maka TGI harus
+mengikutinya dan patuh.
+If TGI chooses RAGAGEP which contains a Jika TGI memilih RAGAGEP yang mengandung
+requirement with the word "should", and TGI does persyaratan dengan kata “should”, dan TGI tidak
+not follow it, then this is a violation. mengikutinya, maka hal ini termasuk ke dalam
+pelanggaran.
+If TGI chooses RAGAGEP which contains a Jika TGI memilih RAGAGEP yang mengandung
+requirement with the word "should not" (or persyaratan dengan kata “should not” (atau isitilah
+something else that has the same meaning), and lain yang sama artinya), dan lalu mengikuti praktek
+then follows the unwelcome practice, then this is a yang tidak disukai tersebut, maka hal ini merupakan
+violation suatu pelanggaran.
+
+--- Halaman 8 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 8 of 13
+5.2.3. “Normative” and "Informative" 5.2.3. Persyaratan “Normative” dan “Informative”
+requirements on RAGAGEP pada RAGAGEP
+Code and Consensus Documents often contain Code dan Dokumen Konsensus sering mengandung
+appendix or annexes that provide additional appendix atau annexes yang memberikan informasi
+information and/or requirements. The content of dan/atau persyaratan tambahan. Isi dari appendix
+appendix or annexes can be "normative" or atau annexes dapat merupakan hal yang
+"informative." “normative” atau “informative."
+The "normative" section usually describes how to Bagian “normative” biasanya menjelaskan
+achieve compliance with the requirements on the bagaimana agar mencapai kepatuhan dengan
+Standard and may also contain the word "shall" or persyaratan pada Standar, dan juga dapat
+"should". mengandung kata “shall” atau “should".
+The "informative" section usually provides Bagian “informative" biasanya memberikan latar
+background and reference information regarding the belakang dan informasi referensi terkait persyaratan
+requirements of the Standard and identifies and/or pada Standar, namun juga mengidentifikasi
+manages hazards or acceptable reductions. dan/atau mengelola hazard atau suatu pengurangan
+yang dapat diterima.
+5.2.4. Implementation Considerations 5.2.4. Pertimbangan Pelaksanaan
+TGI must select RAGAGEP where equipment and TGI harus memilih RAGAGEP yang mana peralatan
+machinery operating in the TGI area must comply dan mesin yang beroperasi di area TGI harus
+with the Standard. There are several potential sesuai dengan Standar tersebut. Ada beberapa
+issues that need attention in evaluating the potensi isu yang perlu mendapatkan perhatian
+suitability of RAGAGEP: dalam melakukan evaluasi kesesuaian terhadap
+RAGAGEP:
+1. There are several RAGAGEP that apply to a 1. Ada beberapa RAGAGEP yang berlaku untuk
+particular process. For example, the Americal suatu proses tertentu. Contoh, Americal
+Petroleum Institute (API), RP 520 Sizing, Petroleum Institute (API), RP 520 Sizing,
+Selection, and Installation of Pressure- Selection and Installation of Pressure-
+Relieving Devices in Refineries Part II – Relieving Devices in Refineries Part II –
+Installation, and International Standard Installation, dan International Standard
+Organization No. 4126-9, Application, and Organization No. 4126-9, Application and
+installation of safety devices, both standards installation of safety devices, keduanya
+for relief valve installation, and contain the merupakan Standar untuk instalasi relief
+same but not identical requirements. Both valve, dan mengandung persyaratan yang
+documents are accepted by institutions such sama namun tidak identik. Kedua dokumen
+as OSHA. tersebut diterima oleh lembaga seperti OSHA.
+2. TGI does not need to consider or comply with 2. TGI tidak perlu mempertimbangkan atau
+the provisions in RAGAGEP that do not apply patuh dengan ketentuan di dalam RAGAGEP
+to conditions, situations, or applications in yang tidak berlaku pada kondisi, situasi atau
+TGI's area of operation. aplikasi di area operasi TGI.
+3. Some practices in industry, some companies 3. Beberapa praktek di industri, beberapa
+use RAGAGEP outside of the application of perusahaan menggunakan RAGAGEP di luar
+the plant system they managed, for example aplikasi sistem pabrik yang mereka kelola,
+using RAGAGEP for inspection of ammonia- misalnya menggunakan RAGAGEP untuk
+pressure vessels in chemical plants or refinery inspeksi bejana bertekanan amoniak pada
+processes. Inappropriate use of RAGAGEP pabrik kimia atau proses refinery.
+like this can lead to poor hazard control and Penggunaan RAGAGEP yang tidak sesuai
+can be a finding. seperti ini dapat menimbulkan kontrol hazard
+yang buruk dan dapat merupakan suatu
+temuan.
+4. There are some cases where the RAGAGEP 4. Ada beberapa kasus di mana RAGAGEP yang
+used does not control all hazards in the TGI- digunakan tidak mengontrol semua hazard di
+managed process area. If this happens, TGI area proses yang dikelola TGI. Jika ini terjadi,
+should adopt RAGAGEP (including standards, TGI harus mengadopsi RAGAGEP (termasuk
+guidelines or Internal Standards) to manage standar, pedoman atau Standar Internal)
+such unmanaged process hazards. untuk mengelola process hazard yang belum
+5. TGI's internal standards can be stricter than terkelola tersebut.
+the relevant RAGAGEP sources in managing 5. Standar internal TGI bisa lebih ketat dari
+
+--- Halaman 9 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 9 of 13
+hazards. This needs to be done to manage sumber RAGAGEP yang relevan dalam
+hazards properly due to the unique mengelola hazard. Hal ini perlu dilakukan
+characteristics of the processes handled by untuk mengelola hazard dengan baik yang
+TGI. In all respects, TGI must document that disebabkan karena adanya karakteristik yang
+the equipment and machinery it manages unik dari proses yang ditangani TGI. Dalam
+meet RAGAGEP. semua hal, TGI harus mendokumentasikan
+bahwa peralatan dan mesin yang dikelolanya
+memenuhi RAGAGEP.
+6. Applying the selected requirement points 6. Mengaplikasikan poin-poin persyaratan yang
+from a combination of several RAGAGEP to dipilih dari gabungan beberapa RAGAGEP
+manage a hazard should not be done. The untuk mengelola suatu hazard sebaiknya
+organization that developed RAGAGEP tidak dilakukan. Organisasi yang
+developed the existing requirements as a mengembangkan RAGAGEP tersebut
+package, and mixing provisions from several mengembangkan persyaratan yang ada
+RAGAGEP sources could lead to inappropriate sebagai suatu paket, dan mencampuradukan
+hazard management. ketentuan dari beberapa sumber RAGAGEP
+dapat menyebabkan pengelolaan hazard
+yang tidak sesuai.
+7. Internal Standards that combine several 7. Internal yang menggabungkan beberapa
+provisions from different RAGAGEP sources, ketentuan dari sumber RAGAGEP yang
+in some circumstances can be done, or can berbeda, dalam beberapa kondisi dapat
+be more protective than just taking the dilakukan, atau dapat lebih melindungi dari
+provisions of one RAGAGEP. If this is pada hanya mengambil ketentuan dari satu
+necessary to do, then an evaluation should be RAGAGEP. Jika ini perlu dilakukan, maka
+carried out for each case. Consult with the harus dilakukan evaluasi untuk setiap kasus.
+PSM Sub-Committee, Pipeline Integrity Konsultasikan dengan Sub Komite PSM,
+Department or Facility Integrity Department. Pipeline Integrity Department atau Facility
+Integrity Department.
+8. TGI must follow RAGAGEP in creating and 8. TGI harus mengikuti RAGAGEP dalam
+implementing inspection and test procedures. membuat dan mengimplementasikan
+The frequency of inspections and tests of prosedur inspeksi dan test. Frekuensi inspeksi
+process equipment should be consistent with dan test dari peralatan proses harus
+the recommendations of the equipment konsisten dengan rekomendasi dari pembuat
+manufacturer and RAGAGEP, and tests and peralatan dan RAGAGEP, serta test dan
+inspections should be carried out more inspeksi harus dilakukan lebih sering jika
+frequently if they have been determined from telah ditentukan dari pengalaman
+previous experience. sebelumnya.
+9. TGI must documenting that the processes it 9. TGI harus mendokumentasikan bahwa proses
+handles are RAGAGEP compliant. For yang ditanganinya sesuai dengan RAGAGEP.
+equipment made to the old standard, see the Untuk peralatan yang dibuat dengan standar
+provisions on point 10 below. Equipment that lama, lihat ketentuan pada point 10 di bawah.
+does not meet the conditions of RAGAGEP Peralatan yang tidak memenuhi ketentuan
+cannot be documented as "compliant". RAGAGEP tidak dapat didokumentasikan
+sebagai “patuh”.
+10. A circumstance in which the equipment is 10. Suatu keadaan di mana peralatan yang
+contained in the provisions of the Mechanical termaktub pada ketentuan pedoman
+Integrity guidelines, working outside the Mechanical Integrity, bekerja di luar batas
+prescribed limits, as stated in the Process yang ditentukan, seperti yang termaktub di
+Safety Information document (including dalam dokumen Process Safety Information
+Standards), is a deficiency. (termasuk Standar), merupakan suatu
+defisiensi.
+TGI must correct such deficiencies prior to TGI harus memperbaiki defisiensi tersebut
+further use of the equipment or ensure safe sebelum penggunaan peralatan lebih lanjut,
+operation during such interim period. atau memastikan operasi yang aman selama
+masa interim tersebut.
+If the TGI fails to correct the deficiency prior Jika TGI gagal memperbaiki defisiensi
+to further use or fails to ensure safe operation sebelum penggunaan lebih lanjut, atau gagal
+memastikan operasi yang aman sesuai waktu
+
+--- Halaman 10 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 10 of 13
+within the specified time (repair schedule), yang ditentukan (jadwal perbaikan),
+this failure should be recorded and evaluated. kegagalan ini harus dicatat dan dievaluasi.
+If TGI has implemented repair steps and Jika TGI telah mengimplementasikan langkah
+schedules, an investigation needs to be dan jadwal perbaikan, investigasi perlu
+conducted to determine whether TGI has dilakukan untuk menentukan apakah TGI
+ensured safe operation and completed the telah memastikan operasi yang aman dan
+repair within the specified time. menyelesaikan perbaikan sesuai waktu yang
+ditentukan.
+For the record, if TGI operates the deficient Sebagai catatan, jika TGI mengoperasikan
+equipment based on temporary safeguards peralatan yang defisien tersebut berdasarkan
+pending repairs, it shall develop and safeguard sementara sambil menunggu
+implement Management of Change perbaikan, TGI harus mengembangkan dan
+procedures for the safe operation of the mengimplementasikan prosedur
+equipment. Management of Change untuk pengoperasian
+peralatan dengan aman.
+11. The old equipment used, probably designed, 11. Peralatan tua yang digunakan, kemungkinan
+and built without following the current didisain dan dibangun dengan tidak mengikut
+RAGAGEP rules, because at the time of design kaidah RAGAGEP yang berlaku saat ini,
+and construction there were no related karena pada saat disain dan kontruksi belum
+standards. Or there is also the possibility that ada Standar terkait. Atau ada juga
+the equipment is designed and built on kemungkinan di mana peralatan tersebut
+deprecated Standards. If this happens, TGI didisain dan dibangun berdasarkan Standar
+must determine and document that the yang tidak digunakan lagi. Jika hal ini terjadi,
+equipment is disseminated, maintained, TGI harus menentukan dan
+inspected, tested and operated in a safe mendokumentasikan bahwa peralatan
+manner. If this is not done, it is a violation. tersebut didisan, dipelihara, diinspeksi, dites
+dan dioperasikan dengan cara yang aman.
+Jika hal ini tidak dilakukan, merupakan suatu
+pelanggaran.
+If TGI already uses Internal Standards for Jika TGI sudah menggunakan Standar
+such older equipment, it must document that Internal untuk peralatan tua tersebut, TGI
+the equipment complies with Internal harus mendokumentasikan bahwa peralatan
+Standards. It is necessary to create and tersebut sesuai dengan Standar Internal.
+document the date of installation and the Penting untuk membuat dan
+extent to which the equipment was modified, mendokumentasikan tanggal instalasi dan
+as well as the selected RAGAGEP, including sejauh mana peralatan tersebut dimodifikasi,
+the date of its edition and publication. juga RAGAGEP yang dipilih, termasuk tanggal
+edisi dan publikasinya.
+Organizations that developing the Code and Organisasi yang mengembangkan Code dan
+Consensus Document will update based on Dokumen Konsensus akan melakukan update
+new hazards, new understanding of existing berdasarkan hazard baru, pemahaman baru
+hazards, operating experience inthe industry, tentang hazard yang ada, pengalaman
+and/or an incident indicating the need for operasi dalam industri, dan /atau suatu
+tighter hazard controls. insiden yang mengindikasikan perlunya
+kontrol hazard yang lebih ketat.
+If updating a document explicitly provides a Jika update dokumen secara eksplisit
+new clause or requirement then TGI must memberikan suatu klausul atau persyaratan
+determine and document that the equipment baru maka TGI harus menentukan dan
+it manages is designed, maintained, mendokumentasikan bahwa peralatan yang
+inspected, tested and operated in a safe dikelolanya didisain, dipelihara, diinspeksi,
+manner. ditest dan dioperasikan dengan cara yang
+aman.
+
+--- Halaman 11 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 11 of 13
+6. Lampiran: Daftar RAGAGEP
+Appendix: RAGAGEP List
+Di bawah ini adalah beberapa RAGAGEP yang dapat dipertimbangkan untuk digunakan oleh TGI.
+Below are some ragagep that can be considered for use by TGI.
+Deskripsi
+No RAGAGEP
+Description
+1 AWS D1.1 Structural Welding Code - Steel
+American National Standards
+Functional Safety: Safety Instrumented Systems for the Process Industry
+2 Institute (ANSI)/ISA 84.01-
+Sector
+2004
+3 ANSI/ISA 18.00.02-2009 Management of Alarm Systems for the Process Industry
+AIChE Center for Chemical
+4 Technical Guidance and Publications
+Process Safety (CCPS)
+5 API RP 520 Part I The Design and Installation of Pressure – Relieving Systems in Refineries
+6 API RP 520 Part II Sizing, Selection and Installation of Pressure Relieving Devices in Refinery
+7 API RP 521 Guide for Pressure Relieving and Depressurring Systems
+Classification of Locations for Electrical Installation at Pipeline
+8 API RP 500C
+Transportation Facility
+9 API 5L Spesification for Line Pipe
+10 API 6D Spesification for Pipeline Valves
+Axial and Centrifugal Compressors and Expander-Compressors for
+11 API 617
+Petroleum, Chemical and Gas Industry Services
+Reciprocating Compressors for Petroleum, Chemical and Gas Industry
+12 API 618
+Services
+Rotary-Type Positive Displacement Comrepssors for Petroleum,
+13 API 619
+Petrchemical and Natural Gas Industry
+14 API STD 1104 Welding of Pipelines and related Facilities
+15 ASME B 31.8 Gas Transmission and Distribution Piping Systems
+16 ASME VIII Rules for Construction of Pressure Vessel
+
+--- Halaman 12 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 12 of 13
+Deskripsi
+No RAGAGEP
+Description
+Qualification Standard for Welding and Brazing Procedures, Welders,
+17 ASME IX
+Brazers, And Welding And Brazing Operators
+18 ASME B 16.5 Pipe Flanges and Flanged Fittings
+19 ASME B 16.9 Factory-Made Wrought Steel Butt Welding Fittings
+20 ASME B 31.3 Process Piping
+Standard Spesification for Carbon and Alloy Steel Nuts for Bolts for High
+21 ASTM A194
+Pressure or High temperature Service, or Both
+22 DNV OS-F101 Submarine Pipeline Systems
+23 DNV 1981 Rules for Submarine Pipeline System
+24 DNF RP-E305 On Bottom Stability Design of Submarine Pipelines
+25 DNV RP-B401 Cathodic Protection Design
+26 DNV RP-F102 Pipeline Field Joint Coating and Field Repair of Line pipe Coating
+27 DNV RP-F103 Cathodic Protection Design of Submarine Pipelines by Galvanic Anodes
+28 DNV RP F105 Free Spanning Pipelines
+29 DNV RP-F106 Factory Applied External Pipeline Coatings for Corrosion Control
+30 DNV RP F110 Global Buckling of Submarine Pipelines
+International Electrotechnical Functional Safety - Safety Instrumented Systems for the Process Industry
+31
+Commission (IEC) 61511 Sector
+32 ISO 15589-2 Cathodic Ptotection of Pipeline Transportation Systems
+33 ISO 15590 Induction Bends, Fittings and Flanges for Pipeline Transportation Systems
+International Organization for Standardization (ISO) 9000 standards and
+34 ISO 9001
+guidelines
+Standard for the Inspection, Testing, and Maintenance of Water-Based Fire
+35 NFPA 25
+Protection Systems
+36 NFPA 30 Flammable and Combustible Liquids Code
+
+--- Halaman 13 ---
+
+Doc. No TGI-WP-07-37-02
+Version /
+00
+PROSEDUR PEMENUHAN STANDAR TEKNIS Rev.
+Compliance to Engineering Standard Procedure
+Page Page 13 of 13
+Deskripsi
+No RAGAGEP
+Description
+37 NFPA 51B Fire Prevention During Welding, Cutting, and Other Hot Work
+Standard for Installation and USE of Stationary Combustion enginers and
+38 NFPA 37
+Gas Turbines
+39 NFPA 15 Standard for Wate Spray Fixed System for Fire Protection
+Control of External Corrsion on Underground or Submerged Metallic Piping
+40 NACE RP 0169
+System.
+Occupational Safety and
+41 Health Administration (OSHA) Emergency Action Plans
+29 CFR 1910.38
+42 OSHA 29 CFR 1910.119 Process Safety Management of Highly Hazardous Chemicals
+43 OSHA 29 CFR 1910.120 Hazardous Waste and Emergency Response
+44 SNI 3474 Sistem Penyaluran dan Distribusi Pipa Gas

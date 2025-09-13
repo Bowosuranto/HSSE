@@ -1,0 +1,655 @@
+
+
+--- Halaman 1 ---
+
+Dokumen Tidak Dikendalikan, apabila dicetak
+Document uncontrolled when printed
+PT TRANSPORTASI GAS INDONESIA Doc. No. : TGI-WP-07-37-05
+Page : Page 1 of 17
+PROSEDUR KOMUNIKASI KESELAMATAN DAN KESADARAN PROSES
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT PROCEDURE
+KENDALI DOKUMENTASI/ DOCUMENT CONTROL
+Manual ini dikelola di bawah kendali Departemen Facilty Integrity. Tiap perubahan dan pertanyaan terkait
+dengan dokumen ini, silakan kontak ke Phone Extension 64000.
+This Manual is managed under Facility Integrity Department. Any changes and question to this document please
+contact Phone Extension 64000.
+Version
+Author Reviewed by Approved by
+/ Rev.
+Sign: Sign: Sign:
+00
+Name: M.Abdul Mudlil Name: Meizol Thabran Name: A.A.P Bagus Putra
+Position: Static Equipment Position: FID Manager Position: Act. Engineering
+Mechanical Engineer Date: 28 Desember 2022 Director
+Date: 28 Desember 2022 Date: Desember 2022
+
+--- Halaman 2 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 2 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+LEMBAR PERUBAHAN DOKUMEN
+Document Record of Changes
+Versi Tanggal
+/ Rev. Perubahan/
+Perubahan Isi
+Ke – Penerbitan Alasan Perubahan
+(Point No. . . .)
+Version Date of Reason for Change
+Content No. . . . changed
+/ Rev. changes or
+No. reissue
+
+--- Halaman 3 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 3 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+TABLE OF CONTENTS
+DAFTAR ISI
+No Description Page
+General Purposes
+1 Tujuan Umum 5
+Scope ……………………………………………………………………………………………………………………………
+2 Ruang Lingkup 5
+Definition ………………………………………………………………………………………………………………………
+3 Definisi 5
+Reference ……………………………………………………………………………………………………………………
+4 Referensi 6
+Process Safety and Communication ……………………………………………………………………………………
+5 Komunikasi dan Kesadaran Keselamatan Proses 7
+Responsibility …………………………………………………………………………………………………………………
+5.1 Tanggung Jawab 7
+Internal Communication ……………………………………….……………………………………………………..
+5.2. Komunikasi Internal 7
+Meeting Communications
+5.2.1 Komunikasi Rapat 7
+P2K3 Head Office Meeting
+5.2.2 Meeting P2K3 Kantor Pusat 7
+Meeting of the P2K3 Regional Office
+5.2.3 Meeting P2K3 Regional Office 8
+Suggestions Collection System
+5.2.4 Sistim Pengumpulan Saran 8
+SMK3 Socialization
+5,2,5 Sosialisasi SMK3 8
+Communication Regarding Awards and Disciplinary Action
+5.2.6 Komunikasi Tentang Penghargaan dan Tindakan Disiplin 9
+Meeting Toolbox
+5.2.7 Rapat Tool Box 9
+5.2.8 Occupational safety compliance
+Observasi keselamatan kerja 10
+5.2.9 Meetings with contractors while work is being done
+Meeting dengan kontraktor saat pekerjaan berlangsung 11
+5.2.10 Safety Tips at the start of each meeting
+Safety Tips setiap awal meeting 11
+Email Newsletters
+5.2.11 News-letter melalui email 12
+External Communications
+5.3 Komunikasi Eksternal 12
+Worker Participation
+5.4 Partisipasi Pekerja 13
+
+--- Halaman 4 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 4 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+Form
+6 Formulir 13
+Occupational Safety and Health Advisory Committee Activity Report
+6.1 Formulir Laporan Kegiatan Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) 13
+Advisory Committee on Occupational Safety and Health Activity Report Form (P2K3)
+6.2 Formulir Laporan Kegiatan Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3) 17
+
+--- Halaman 5 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 5 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+1. GENERAL PURPOSE 1. TUJUAN UMUM
+This procedure directs TGI in the development of a Prosedur ini memberikan arahan kepada TGI dalam
+communication system to implement aspects of K3L membangun sistim komunikasi untuk
+(Occupational Safety, Health, and Environment), such as mengimplementasikan aspek K3L (Keselamatan,
+Process Safety Management. Kesehatan Kerja dan Lingkungan), termasuk Process
+Safety Management.
+This procedure aims to communicate, both internally Prosedur ini bertujuan untuk mengkomunikasikan, baik
+and externally, about the K3L management system, K3L secara internal maupun eksternal, hal-hal terkait sistim
+legislation, and K3L issues, as well as to provide manajemen K3L, perundang-undangan terkait K3L, dan
+consultation on K3L issues, so that the K3L management untuk memberikan konsultasi atas permasalahan K3L
+system can be implemented effectively in PT Indonesian agar penerapan sistim manejeman K3L dapat dijalankan
+Gas Transportation (TGI). secara efektif di PT Transportasi Gas Indonesia (TGI).
+2. SCOPE 2. RUANG LINGKUP
+This procedure applies to K3L and Process Safety Prosedur ini berlaku untuk aktifitas yang terkait dengan
+Management (PSM) (hereinafter referred to as K3L) K3L dan Process Safety Management (PSM) (untuk
+activities carried out by TGI employees or contractors. selanjutnya disebut K3L) di TGI baik yang dilakukan oleh
+karyawan atau kontraktor.
+This procedure covers all aspects of TGI's work in Prosedur ini meliputi seluruh area kerja TGI dalam
+conducting internal and external communications melakukan komunikasi internal dan eksternal, yang
+related to K3L activities and consultations for problem berhubungan dengan kegiatan K3L dan konsultasi untuk
+solving, as well as involving all employees in the pemecahan masalah, serta melibatkan seluruh pegawai
+management of the Occupational Safety and Health untuk berpartisipasi dalam mengelola organisasi
+organization. Keselamatan dan Kesehatan Kerja.
+If PSM requirements apply to contractor workers, TGI Jika persyaratan PSM berlaku untuk pekerja kontraktor,
+Line Management is responsible for communicating the Manajemen Lini TGI harus bertanggung jawab untuk
+requirements outlined in this procedure to the mengkomunikasikan persyaratan yang tertuang pada
+contracting company's management representative. prosedur ini kepada perwakilan manajemen perusahaan
+kontraktor.
+3. DEFINITION 3. DEFINISI
+Process Safety Management (PSM) - The application of Process Safety Management (PSM) – Aplikasi kontrol
+controls and systems for a process (e.g., programs, dan sistem manajemen (misalnya program, prosedur,
+procedures, audits, or evaluations) in such a way that audit atau evaluasi) untuk sebuah proses sedemikian
+potential process hazards are identified, understood, rupa sehingga potensi bahaya proses teridentifikasi,
+and controlled in order to prevent injuries and incidents dipahami, dan dikontrol sehingga cidera dan insiden
+related to the process. in order to prevent injuries and terkait dengan proses dapat dicegah.
+incidents related to the process.
+Pre-Start Up Safety Review - A system for performing Pre-Start Up Safety Review – Suatu sistem untuk
+final checks on new or modified equipment to ensure melakukan pengecekan terakhir pada peralatan baru
+that all required PSM elements have been completed atau peralatan yang dimodifikasi untuk menegaskan
+and that the facility is ready for Start Up. bahwa semua PSM element yang diperlukan sudah
+dilakukan dengan baik dan fasilitas aman untuk
+dilakukan start up.
+Process Hazard Analysis (PHA) - Systematic processes Process Hazard Analysis (PHA) – Proses dan pendekatan
+and approaches for identifying, evaluating, and sistematik untuk mengidentifikasi, mengevaluasi, dan
+controlling the potential hazards of a process. The PHA mengontrol potensi bahaya sebuah proses. PHA
+includes some or all of the following activities: hazard mencakup beberapa atau semua aktifitas berikut ini:
+identification, consequence analysis, hazard evaluation, hazard identification, consequence analysis hazard
+human-factor evaluation, facility siting evaluation, evaluation, human-factor evaluation, facility siting
+inherently safer process evaluation, risk analysis, and evaluation, inherently safer process evaluation, risk
+providing recommendations. analysis, dan memberikan rekomendasi.
+
+--- Halaman 6 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 6 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+Management of Change - Is a management system that Management of Change – Adalah management sistem
+identifies, reviews, and approves all changes to untuk mengidentifikasi, me-review dan menyetujui
+processes (hardware, process control, and/or process semua perubahan Proses, (Hardware, Process Control
+conditions), procedures (operational procedures and/or dan/atau Kondisi Proses), Perubahan Prosedur
+maintainers), and organizational changes before they (Prosedur Operasi dan/atau Pemeliharaan) dan
+are implemented. This does not apply to identical Perubahan Organisasi sebelum perubahan tersebut
+situations. diimplementasikan. Hal ini tidak berlaku untuk sesuatu
+yang sama persis.
+P2K3 - The Occupational Safety and Health Advisory P2K3 – Panitia Pembina Keselamatan dan Kesehatan
+Committee is an occupational safety committee formed Kerja adalah komite keselamatan kerja yang dibentuk
+by the company's Top Management to discuss various untuk membahas berbagai aspek keselamatan kerja,
+aspects of occupational safety. yang dipimpin oleh Manajemen Puncak perusahaan.
+Consulting - Two-way communication activities between Konsultasi – Kegiatan komunikasi dua arah antara
+personnel with problems and personnel with specific personil yang memiliki masalah dengan personil yang
+knowledge and expertise, supported by a systematic memiliki pengetahuan dan keahlian khusus serta
+analysis of the facts available to provide solutions to the didukung oleh analisis secara sistematis dari fakta-fakta
+problems encountered. yang ada untuk memberikan solusi terhadap
+permasalahan yang dihadapi.
+Communication - One-way or two-way information Komunikasi – Penyampaian informasi, satu atau dua
+delivery aimed at conveying messages related to the K3 arah, yang bertujuan untuk menyampaikan pesan
+Policy, SMK3, and laws Concerning K3. The terkait Kebijakan K3, SMK3 dan undang-undang yang
+communication intended by this procedure is berkaitan dengan K3. Komunikasi yang dimaksudkan
+communication related to the SMK3 issue. dalam prosedur ini adalah komunikasi yang ada
+hubungannya dengan persoalan SMK3.
+Internal refers to all employees within the TGI structure. Internal memiliki pengertian semua pegawai yang
+berada dalam struktur TGI.
+External refers to stakeholders outside the organization, Eksternal memiliki pengertian pihak-pihak terkait di luar
+such as local governments, the Departemen Tenaga organisasi, seperti pemerintah daerah, Departemen
+Kerja (Depnaker), partners, customers, policymakers, Tenaga Kerja (Depnaker), Mitra, Pelanggan, pengambil
+and others. kebijakan dan lainnya.
+All news related to the company's SMK3 issues, both oral Informasi meliputi seluruh pemberitaan terkait dengan
+and written, is included in the information. persoalan SMK3 perusahaan, baik lisan maupun tulisan.
+K3 Socialization is an activity that communicates to Sosialisasi Pengenalan K3 merupakan kegiatan untuk
+employees about K3 Policies, K3 issues, aspects and mengkomunikasikan pada pegawai tentang Kebijakan
+impacts of SMK3, General Regulations on SMK3, K3, persoalan K3, aspek dan dampak SMK3, Peraturan
+Emergency Communication, and other matters deemed Umum tentang SMK3, Komunikasi Darurat dan hal-hal
+necessary. lain yang dianggap perlu.
+4 Reference 4. Referensi
+a. Occupational Safety Law No. 1 of 1970 a. Undang Undang No.1 Tahun 1970, Keselamatan
+b. Republic of Indonesia Government Regulation No. Kerja
+50 of 2012 on the Implementation of an b. Peraturan Pemerintah Republik Indonesia Nomor 50
+Occupational Safety and Health Management Tahun 2012 Tentang Penerapan Sistem Manajemen
+System. Keselamatan dan Kesehatan Kerja.
+c. Government Regulation No.88 of 2019 on c. Peraturan Pemerintah No.88 tahun 2019 tentang
+Occupational Health and Safety. kesehatan kerja.
+d. Regulation No. 32 of 2021 of the Minister of Energy d. Peraturan Menteri ESDM No. 32 tahun 2021 tentang
+and Mineral Resources on Technical Inspection and Inspeksi Teknis Dan Pemeriksaan Keselamatan
+Safety Inspection of Installations and Equipment in Instalasi Dan Peralatan Pada Kegiatan Usaha Minyak
+Oil and Gas Business Activities. Dan Gas Bumi.
+e. ISO 45001-2018 Occupational Health and Safety e. ISO 45001-2018 Occupational Health & Safety
+Management System, for example. Management Sistim.
+
+--- Halaman 7 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 7 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+f. OSHA 3132-2000. f. OSHA 3132-2000.
+5. Process Safety and Communication 5. Komunikasi dan Kesadaran Keselamatan Proses
+5.1. Responsibility 5.1. Tanggung Jawab
+The Director is responsible for responding to questions Direktur bertanggung jawab untuk menanggapi
+about SMK3 issues received by TGI from outside pertanyaan yang diterima TGI dari pihak luar
+parties and dispositioning the issue for follow-up by mengenai persoalan SMK3 serta mendisposisikan
+management representatives or managers related. persoalan tersebut untuk ditinjaklanjuti oleh
+perwakilan manajemen atau manajer terkait.
+The Director is in charge of ensuring that K3 Direktur bertanggung jawab untuk memastikan
+communication and consultation are implemented penerapan komunikasi dan konsultasi K3 di TGI, baik
+both internally and externally at TGI. secara internal maupun eksternal.
+Management representatives are responsible for Perwakilan manajemen bertanggung jawab untuk
+assisting the TGI Board of Directors in monitoring K3 membantu Dewan Direksi TGI dalam memantau
+communication and consultation implementation. pelaksanaan komunikasi dan konsultasi K3.
+The manager is in charge of overseeing both external Manajer bertanggung jawab untuk mengawasi
+and internal SMK3 issues. persoalan eksternal dan internal terkait SMK3.
+The K3 Coordinator is responsible for K3 Koordinator K3 bertanggung jawab untuk
+communication and consultation with internal and melaksanakan komunikasi dan konsultasi K3 dengan
+external parties (identification, collection, and follow- pihak internal dan eksternal (identifikasi,
+up/resolution of K3 problems) as well as ensuring that pengumpulan dan tindak lanjut/penyelesaian
+all employees received K3 introduction socialization, permasalahan K3) serta memastikan semua pegawai
+including community socialization. memperoleh sosialisasi pengenalan K3, termasuk
+melaksanakan sosialisasi kepada masyarakat.
+5.2. Internal Communications 5.2. Komunikasi Internal
+5.2.1. Meeting Communications 5.2.1. Komunikasi Rapat
+Managers should plan meetings to share K3L Para manajer harus mengkoordinasikan pertemuan
+information. The following topics were discussed untuk menyampaikan informasi yang berhubungan
+during the meeting: a. K3L dengan K3L. Aspek yang perlu dibahas dalam
+a. Monitoring and performance measurement. pertemuan tersebut adalah:
+b. K3L policy. a. Pemantauan dan pengukuran kinerja K3L.
+c. Workplace K3L issues b. Kebijakan K3L.
+d. An investigation into an incident c. Permasalahan K3L di tempat kerja
+e. Corrective and preventative measures for K3L d. Penyelidikan terhadap suatu insiden.
+findings. e. Tindakan perbaikan dan pencegahan temuan
+f. Current status of K3L goals and programs. K3L.
+g. Procedure, work instructions, and K3L audit. f. Status pencapaian tujuan dan program K3L.
+g. Prosedur, instruksi kerja, audit K3L.
+5.2.2. P2K3 Head Office Meeting 5.2.2. Meeting P2K3 Kantor Pusat
+This meeting was presided over by the Chairman, who Meeting ini dipimpin oleh Chairman yang diketuai oleh
+is also the President Director of TGI, and the executive President Director sebagai pimpinan tertinggi di TGI,
+is the HSSE Manager. dengan sekretaris adalah HSSE Manager.
+The meeting leader, secretary, members (at least the Meeting ini harus dihadiri pimpinan meeting,
+ranks of managers), and members of the PSM Sub- sekretaris, anggota (minimal jajaran Manajer) dan
+Committee and its elements must all attend this anggota Sub Komite PSM dan elemennya.
+meeting.
+Untuk menbangun komunikasi yang efektif, meeting
+P2K3 meetings must hold meetings at least once a P2K3 harus mengadakan meeting sekurang-
+month, with clear discussion materials, to build kurangnya sekali dalam sebulan, dengan materi
+pembahasan yang jelas agar dapat berjalan secara
+
+--- Halaman 8 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 8 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+effective communication. The following topics were efektif. Materi pembahasan yang dibahas dalam
+discussed at this meeting: meeting ini adalah sebagai berikut:
+1. Reviewed the meeting minutes from the 1. Membahas risalah meeting dari meeting P2K3
+previous P2K3 meeting. sebelumnya.
+2. Discusses HSSE leading and lagging indicators 2. Membahas leading dan lagging indicator HSSE
+(including PSM). (termasuk PSM).
+3. Submission of each Sub-program Committee's 3. Penyampaian status perkembangan program
+development status. masing-masing Sub Komite.
+4. Report on the status of HSSE implementation 4. Penyampaian status implementasi HSSE
+(including PSM) in each Regional Office. (termasuk PSM) di masing-masing Regional
+5. High-hazard potential findings and follow-up. Office.
+6. Investigation of an incident (if any). 5. Temuan dengan potensi bahaya tinggi dan
+tindak lanjutnya.
+6. Incident investigation (jika ada).
+5.2.3. Meeting of the P2K3 Regional Office. 5.2.3. Meeting P2K3 Regional Office.
+The Chairman presided over the meeting, which was Meeting ini dipimpin oleh Chairman yang diketuai oleh
+chaired by the Regional Office Manager as the highest Regional Office Manager sebagai pimpinan tertinggi di
+leader in the Regional Office, with the executive being Regional Office, dengan sekretaris adalah HSE Officer.
+the HSE Officer.
+5.2.4. Suggestions Collection System 5.2.4. Sistem Pengumpulan Saran
+Employees should be encouraged to contribute K3L- Pegawai harus didorong untuk berpartisipasi dalam
+related suggestions and ideas. memberikan saran dan ide terkait K3L.
+a. Suggestions or ideas are submitted to the a. Saran atau ide disampaikan kepada Sekretaris
+Secretary of P2K3 after the management P2K3, setelah perwakilan manajemen memeriksa
+representative has examined and assessed the dan menilai saran yang diajukan, minimal dalam
+submitted suggestions, at least one (one) week waktu 1 (satu) minggu peninjauan.
+after review. b. Setidaknya sekali sebulan, Sekretaris P2K3
+b. At least once a month, the P2K3 Secretary mengumpulkan semua saran yang masuk, dan
+compiles all incoming suggestions, which are then akan digunakan sebagai diskusi dalam meeting
+discussed in P2K3 meetings. P2K3.
+5.2.5. SMK3 Socialization 5.2.5. Sosialisasi SMK3
+Every employee receives SMK3 Socialization. Semua pegawai mendapatkan Sosialisasi SMK3.
+1. In the event of a change, the Secretary of 1. Jika ada perubahan, Sekretaris P2K3
+P2K3 distributes the updated K3 Program mendistribusikan Kebijakan, Tujuan, Sasaran
+Policies, Objectives, and Management to the dan Manajemen Program K3 yang telah
+management ranks, which will be diperbarui, ke jajaran manajemen yang akan
+communicated to all employees, with an dikomunikasikan kepada semua pegawai,
+emphasis on the K3L aspect being the dengan suatu penekanan bahwa aspek K3L
+responsibility of all lines, including employees. adalah tanggung jawab semua lini, termasuk
+pegawai.
+2. Maintaining awareness of K3L-related issues. 2. Untuk menjaga kesadaran mengenai aspek
+Once a year, management develops a routine K3L. Manajemen membuat program rutin
+program to refresh employees' awareness of setahun sekali untuk menyegarkan kembali
+the K3L aspect. The following optical kesadaran para pegawai tentang aspek
+characteristics can be discussed: K3L.Topik yang dapat dibahas adalah sebagai
+a. K3L TGI's policies, values, goals, and berikut:
+objectives. a. Kebijakan, Nilai, Tujuan dan Sasaran K3L
+b. K3L performance achievement of the TGI.
+previous year. b. Pencapaian kinerja K3L tahun
+c. K3L program is now live. sebelumnya.
+c. Program K3L yang dicanangkan.
+3. Management communicates aspects of K3L to
+new employees, including:
+
+--- Halaman 9 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 9 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+a. K3Lk TGI policies, values, goals, and 3. Untuk pegawai baru, Manajemen
+objectives. mengkomunikasikan aspek K3L dengan topik
+b. The K3L TGI program. antara lain:
+c. K3L considerations in high-pressure gas a. Kebijakan, Nilai, Tujuan dan Sasaran K3Lk
+distribution processes TGI.
+d. Emergency response. b. Program K3L TGI.
+c. Aspek K3L dalam proses distribusi gas
+4. The following information should be provided bertekanan tinggi
+to new employees in their work directly related d. Tanggap darurat.
+to processes or activities involving 4. Bagi pegawai baru dalam pekerjaannya
+environmental aspects and K3 hazards: berhubungan langsung dengan proses atau
+a. Understanding of Process Safety kegiatan yang melibatkan aspek lingkungan
+Management. dan bahaya K3, informasi berikut harus
+b. b) Understanding of TGI gas distribution diberikan:
+processes. a. Pengetahuan tentang Process Safety
+c. c) Potential hazards of K3L in the Management.
+workplace. b. Pengetahuan tentang proses distribusi
+d. d) Understanding of Personal Protective gas di TGI.
+Equipment (PPE) used in the workplace. c. Potensi bahaya K3L di tempat pegawai itu
+e. e) Work instructions that must be bekerja.
+followed in order to complete the task. d. Pengetahuan tentang Alat Pelindung Diri
+yang digunakan di tempat kerja.
+e. Instruksi kerja yang harus diikuti sesuai
+dengan tugasnya.
+5.2.6. Communication Regarding Awards and 5.2.6. Komunikasi Tentang Penghargaan dan
+Disciplinary Action Tindakan Disiplin
+Employees will be given awards and disciplinary actions, Manajemen menyampaikan perihal penghargaan dan
+according to management. tindakan disiplin yang akan diberikan kepada pegawai.
+Employees are encouraged to contribute ideas and set Pegawai didorong untuk memberikan masukan dan
+good examples. The awarding is one way to encourage memberikan contoh perilaku yang baik. Salah satu hal
+this. Awards can be presented in the form of a certificate untuk mendorong hal ini adalah pemberian
+or a monetary value in the form of vouchers. penghargaan. Penghargaan dapat diberikan dalem
+bentuk sertifikat atau berupa suatu nilai uang tertentu
+dalam bentuk voucher.
+However, if the employee violates the applicable K3L Namun, apabila pegawai melanggar aturan K3L yang
+rules, they will be given an oral and written warning (in berlaku, maka akan diberikan peringatan dalam bentuk
+accordance with the TGI system), and if the violation lisan dan tertulis (mengikuti sistim yang berlaku di TGI),
+continues, it may result in a termination sanction labor yang mana jika pelanggaran terus berlangsung, dapat
+relations. berakibat suatu sanksi pemutusan hubungan pekerja.
+5.2.7. Meeting Toolbox 5.2.7. Rapat Tool Box
+A toolbox meeting is a brief discussion about workplace Rapat tool box merupakan rapat singkat tentang
+safety that takes place before work begins. The topics keselamatan kerja, yang dilakukan sebelum pekerjaan
+covered vary depending on the type of work to be done dimulai. Topik yang dibahas bervariasi sesuai jenis
+and are related to labor safety. pekerjaan yang akan dilaksanakan dan berkaitan
+dengan keselamatan tenaga kerja.
+Workers, including contractors, attend these meetings, Rapat ini diselenggarakan oleh Supervisor atau Officer
+which are held by the Supervisor or Officer every setiap pagi, atau sebelum pekerjaan dimulai, dan
+morning or before work begins. dihadiri oleh pekerja termasuk kontraktor.
+Workers who will be performing non-routine work with Toolbox talk harus dihadiri oleh pekerja yang akan
+a high potential for danger in the TGI Pipeline or Facility melakukan pekerjaan non-rutin dengan potensi bahaya
+area should attend toolbox talks. If a contractor is tinggi di area Pipeline atau Facility TGI. Jika melibatkan
+involved, the toolbox must be attended by the contractor kontraktor, toolbox harus dihadiri oleh ketua tim
+team leader, contractor workers, and TGI personnel (HO kontraktor, pekerja kontraktor dan personil TGI (HO
+
+--- Halaman 10 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 10 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+and/or RO/GTM) in charge of the work. The following dan/atau RO/GTM) yang bertanggung jawab terhadap
+are some of the features of the talk toolbox: pekerjaan tersebut. Beberapa atribut toolbox talk:
+1. Must be completed at the start of the shift. 1. Harus dilakukan di awal shift,
+2. Must be implemented in the workplace. 2. Dilaksanakan di area kerja,
+3. Lasts 10 to 15 minutes. 3. Berlangsung 10 sampai 15 menit,
+4. Allows for discussion of the task to be 4. Sarana diskusi mengenai tugas yang akan
+completed. dilakukan.
+5. The job steps outlined in the job's Job Safety 5. Langkah pekerjaan yang tertera pada Job
+Analysis (JSA). Safety Analysis (JSA) pekerjaan tersebut.
+6. Potential hazards encountered by contractor 6. Potensi bahaya yang dihadapi oleh pekerja
+workers, as well as potential consequences. kontraktor dan kemungkinan konsekuensi
+7. Use of PPE as specified in the JSA. yang dapat terjadi.
+8. Each employee's job responsibilities. 7. Penggunaan APD yang tertera pada JSA.
+9. What to do in the event of an emergency 8. Tanggung jawab pekerjaan masing-masing
+response. personil.
+9. Apa yang harus dilakukan jika terjadi tanggap
+darurat.
+Toolbox talks that are routine and well-executed provide Toolbox talk yang rutin dan dilakukan dengan benar,
+the following benefits: memberikan keuntungan sebagai berikut:
+1. Raising safety awareness and encouraging 1. Mempromosikan kesadaran tentang safety,
+worker participation in safety programs. mendorong keterlibatan pekerja di program
+2. Inform workers of new regulations, safety.
+equipment, or preventive measures, and 2. Memberitahu pekerja akan adanya peraturan,
+encourage them to follow procedures. peralatan atau suatu cara pencegahan yang
+3. The discussion material can be tailored to the baru, serta memotivasi pekerja untuk
+hazards that workers face. mengikuti prosedur.
+4. Provide workers with critical information about 3. Materi pembahasan dapat disesuaikan dengan
+the causes and types of workplace accidents, hazard yang dihadapi pekerja.
+as well as preventative measures. 4. Memberikan informasi penting kepada pekerja
+5. Encourage preparation, planning, supervision, mengenai penyebab dan jenis kecelakaan
+and documentation. kerja, serta tindakan untuk mencegahnya.
+6. Encourage workers to share their experiences 5. Mendorong perencanaan, persiapan,
+in order to improve safety procedures. pengawasan dan dokumentasi.
+6. Mendorong pekerja untuk membahas
+pengalaman mereka yang dapat membantu
+me-review prosedur safety.
+5.2.8. Occupational safety compliance. 5.2.8. Observasi keselamatan kerja.
+Occupational safety observation is a highly effective Observasi keselamatan kerja merupakan suatu cara
+method of directly communicating with employees and yang sangat efektif dalam berkomunikasi secara
+contractors. langsung kepada para karyawan dan kontraktor.
+Line management should visit the area of operation Para Manajemen Lini, mulai dari Officer sampai jajaran
+and conduct Occupational Safety Observations, from Direksi (jika diperlukan) harus meluangkan waktu
+Officers to the Board of Directors (if necessary). Use untuk berkunjung ke area operasi dan melakukan
+this opportunity to observe good PSM implementation Observasi Keselamatan Kerja. Gunakan kesempatan
+in the field and encourage and emphasize that good ini untuk melihat suatu implementasi PSM yang baik di
+aspect to be maintained at all times. lapangan, dan dorong serta tekankan aspek yang baik
+tersebut untuk selalu dijaga.
+Furthermore, take advantage of the opportunity for Selain gunakan juga kesempatan Observasi
+Occupational Safety Observation to identify aspects of Keselamatan Kerja untuk melihat aspek PSM yang
+psm that need to be improved and engage in a perlu diperbaiki, dan lakukan dialog dengan karyawan
+dialogue with employees in the field to make di lapangan untuk segera melakukan perbaikan.
+immediate improvements.
+Record the results of the observation and submit it for Catat hasil Observasi, dan sampaikan kepada
+learning to the local Area Line Management (Officer Manajemen Lini area setempat (Officer dan Regional
+and Regional Manager). Manager) untuk pembelajaran.
+
+--- Halaman 11 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 11 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+5.2.9. Meetings with contractors while work is 5.2.9. Meeting dengan kontraktor saat pekerjaan
+being done. berlangsung.
+Contractors must always be monitored for Dalam melakukan pekerjaannya di area TGI dengan
+performance when working in TGI areas with high potensi bahaya tinggi, para kontraktor harus
+potential hazards. senantiasa dimonitor kinerjanya.
+Hold regular meetings with contractors to discuss Lakukan meeting rutin dengan kontraktor, untuk
+aspects of their work such as: membahas aspek pekerjaanya seperti:
+ Equipment used,  Peralatan yang digunakan,
+ Housekeeping,  Housekeeping,
+ Job Safety Analysis,  Job Safety Analysis,
+ Personal Protective Equipment  Alat pelindung diri,
+Some aspects of psm that can be discussed in Untuk capital project, beberapa aspek PSM yang
+regular meetings for capital projects are: dapat dibahas dalam meeting rutin adalah:
+ Pre-startup safety review plan,  Rencana pre-startup safety review,
+ Process hazard analysis document,  Dokumen process hazard analysis,
+ Process safety information document,  Dokumen process safety information,
+ Change management as the project  Management of change terhadap perubahan
+progresses, saat proyek berlangsung,
+ Work permit,  Work permit,
+ Emergency plan and response,  Emergency plan and respond,
+ Results of regular audits  Hasil audit dan inspeksi rutin.
+ and inspections, and other aspects.  Dan aspek lainnya.
+Meeting plans and communication with contractors Untuk kontraktor yang melakukan pekerjaan dalam
+must be made and become part of the contract for kurun waktu yang cukup panjang, rencana meeting
+contractors who perform work over a relatively long dan komunikasi dengan kontraktor harus dibuat dan
+period of time. Plan regular meetings with contractors, menjadi bagian di dalam kontrak. Tentukan rencana
+including meetings with the contracting company's meeting regular dengan kontraktor, termasuk meeting
+owner. dengan pemilik perusahaan kontraktor.
+5.2.10. Safety Tips at the start of each meeting 5.2.10. Safety Tips setiap awal meeting
+Take 5-10 minutes at the start of each meeting, Luangkan waktu 5-10 menit di awal setiap meeting,
+particularly those held at TGI facilities, to discuss terutama meeting di fasilitas TGI untuk membicarakan
+aspects of PSM. These Safety Tips are a way to aspek-aspek PSM. Safety Tips ini merupakan suatu
+develop a face-to-face learning process, share cara untuk menciptakan proses pembelajaran tentang
+learnings about something relevant to TGI operations, PSM, berbagi pembelajaran tentang sesuatu yang
+engage personnel, and encourage the need to take relevan dengan operasi TGI, melibatkan para personil
+action against unsafe behavior. dan mendorong kebutuhan untuk melakukan suatu
+tindakan terhadap perilaku tidak aman.
+Emphasize that the topics covered in Safety Tips are Tekankan agar topik yang dibahas dalam Safety Tips
+not only about behavior safety, but also about aspects bukan hanya terkait behavior safety, namun dorong
+of PSM. Some examples of PSM topics that can be agar membahas aspek PSM. Beberapa contoh aspek
+covered in Safety Tips: PSM yang dapat dibahas pada Safety Tips:
+ An incident that occurred during the previous  Suatu kejadian pada shift sebelumnya.
+shift.  Lesson learned tentang kejadian yang terjadi
+ Lesson learned from events involving other pada perusahaan lain, atau group perusahaan.
+companies or groups of companies.  Temuan audit, PHA, Observasi Keselamatan
+ Audit findings, PHA, OSHA observations, drill Kerja, emergrency drill, investigasi insiden,
+emergencies, incident investigations, near near miss, dan yang lainnya.
+misses, and more.
+5.2.11. News-letter melalui email
+5.2.11. Email newsletter
+Komunikasi melalui email merupakan suatu cara untuk
+Email communication allows you to reach out to all TGI menjangkau seluruh karyawan TGI. Salah satu program
+employees. One of the programs that the PSM Sub- yang dapat dibangun oleh Sub Komite PSM adalah,
+Committee can develop is a regular newsletter that is bekerja sama dengan HSSE Department, membuat
+
+--- Halaman 12 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 12 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+sent to all employees via email in collaboration with newsletter secara rutin yang dikirimkan kepada seluruh
+the HSSE Department. karyawan melalui email.
+Dorong keterlibatan para karyawan untuk:
+Encourage employee participation in the following  Memberikan sumbangan tulisan pada
+activities: newsletter, berbagi informasi di newsletter
+ Contributing writings to newsletters, sharing yang dapat memberikan pembelajaran
+information in newsletters that can provide (misalnya hasil dari inspeksi, hasil audit,
+learning (e.g. results from inspections, audit program PHA, investigasi insiden, dll).
+results, PHA programs, incident investigations,  Membaca newsletter ini atau
+etc.). menggunakannya untuk bahan Safety Tips di
+awal setiap meeting.
+ At the start of each meeting, read this
+newsletter or use it for Safety Tips materials.
+5.3. Komunikasi Eksternal
+5.3. External Communications
+Beberpa aspek eksternal yang perlu mendapatkan
+The following are some external aspects of perhatian jenis komunikasi adalah sebagai berikut:
+communication that require attention: a. Keluhan dari masyarakat mengenai
+a. Complaints from the general public about K3L permasalahan K3L.
+issues. b. Aturan baru dari pelanggan, perusahaan atau
+b. New K3L-related rules imposed by customers, pemerintah mengenai aspek K3L.
+businesses, or governments. c. Pengenalan K3L kepada masyarakat.
+c. K3L's introduction to the community. d. Masukan seputar K3.
+d. Reactions to K3. Beberapa bentuk komunikasi eksternal yang dapat
+External communication methods include: dilakukan adalah berupa:
+a. letter, a. Surat
+b. email, b. Email
+c. facsimile, c. Faksimili
+d. telephone. d. Telepon
+e. Oral/direct communication e. Komunikasi langsung / lisan
+f. Newspapers/newspapers/magazines f. Koran /surat kabar / majalah
+g. Electronic media (TV, radio, etc.) g. Elektronik Media (TV, Radio atau lainnya)
+h. Public relations. h. Hubungan Masyarakat.
+Pengaduan, pertanyaan atau informasi tentang K3 dari
+External complaints, questions, or information about pihak eksternal akan dibahas pada rapat manajemen
+K3 will be discussed at the management meeting for untuk ditindaklanjuti.
+follow-up.
+Apabila pihak eksternal meminta informasi tentang
+If an external party inquires about K3's performance kinerja K3 pada periode waktu tertentu, maka
+over a specific time period, the K3 coordinator will koordinator K3 yang akan menindaklanjutinya.
+follow up.
+Jika ada informasi yang berhubungan kinerja dari
+If there is information related to performance from pihak eksternal yang membutuhkan respon, baik
+external parties that requires a response, either secara lisan atau tertulis, maka koordinator K3 harus
+verbally or in writing, the OSH coordinator must follow menindaklanjutinya.
+up on it.
+Berikut ini tabel pentunjuka tentang komunikasi kepada pihak eksternal:
+The table below contains indicators of communication with third parties:
+
+--- Halaman 13 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 13 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+5.4. WORKER PARTICIPATION 5.4. PARTISIPASI PEKERJA
+Management encourages employees to participate in a Manajemen mendorong pekerja untuk berpartisipasi
+variety of K3L activities, including: dalam berbagai aktifitas K3L, beberapa di antaranya:
+a. Attending the P2K3 meeting at both the Head a. Hadir dalam meeting P2K3 baik Kantor
+Office and the Regional Office. Pusat maupun Regional Office.
+b. Take part in K3L observations. b. Berpartisipasi dalam observasi K3L.
+c. Take part in providing feedback and suggestions. c. Berpartisipasi memberikan masukan dan
+d. Take part in audits, PHAs, incident saran.
+investigations, and so on.
+6. FORM 6. FORMULIR
+6.1. Occupational Safety and Health Advisory Committee 6.1. Formulir Laporan Kegiatan Panitia Pembina
+Activity Report Form (P2K3) Keselamatan dan Kesehatan Kerja (P2K3)
+
+--- Halaman 14 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 14 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+
+--- Halaman 15 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 15 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+
+--- Halaman 16 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 16 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+
+--- Halaman 17 ---
+
+Doc. No TGI-WP-07-37-05
+PROSEDUR KOMUNIKASI DAN KESADARAN Version / Rev. 00
+KESELAMATAN PROSES
+Page Page 17 of 17
+PROSES SAFETY COMMUNICATION AND ENGAGEMENT
+PROCEDURE
+6.2. Formulir Laporan Kegiatan Panitia Pembina Keselamatan dan Kesehatan Kerja (P2K3)
+Advisory Committee on Occupational Safety and Health Activity Report Form (P2K3)

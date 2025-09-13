@@ -1,0 +1,961 @@
+
+
+--- Halaman 1 ---
+
+Dokumen Tidak Dikendalikan, apabila dicetak
+Document uncontrolled when printed
+PT TRANSPORTASI GAS INDONESIA Doc. No. : TGI-WP-07-37-01
+Page : Page 1 of 20
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+KENDALI DOKUMENTASI/ DOCUMENT CONTROL
+Manual ini dikelola di bawah kendali Departemen Facilty Integrity. Tiap perubahan dan pertanyaan terkait
+dengan dokumen ini, silakan kontak ke Phone Extension 64000.
+This Manual is managed under Facility Integrity Department. Any changes and question to this document please
+contact Phone Extension 64000.
+Version
+Author Reviewed by Approved by
+/ Rev.
+Sign: Sign: Sign:
+00
+Name: M.Abdul Mudlil Name: Meizol Thabran Name: A.A.P Bagus Putra
+Position: Static Equipment Position: FID Manager Position: Act. Engineering
+Mechanical Engineer Date:28 December 2022 Director
+Date: 28 December 2022 Date: December 2022
+
+--- Halaman 2 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 2 of 20
+LEMBAR PERUBAHAN DOKUMEN
+Document Record of Changes
+Tanggal
+Versi /
+Perubahan/
+Rev. Ke Perubahan Isi
+Penerbitan Alasan Perubahan
+– (Point No. . . .)
+Date of Reason for Change
+Version / Content No. . . . changed
+changes or
+Rev. No.
+reissue
+
+--- Halaman 3 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 3 of 20
+TABLE OF CONTENTS
+DAFTAR ISI
+No Description Page
+1 General Purpouse………………………………………………………………………………………………………….. 5
+Tujuan Umum
+2 Scope …………………………………………………………………………………………………………………………… 5
+Ruang Lingkup
+3 Definition ……………………………………………………………………………………………………………………… 5
+Definisi
+4 Reference …………………………………………………………………………………………………………………….. 6
+Referensi
+5 Procedure ……………………………………………………………………………………………………………………… 7
+Prosedur
+5.1 Preparation ……………………………………………………………………………………………………………………. 7
+Pesiapan
+5.2. Head of Engineering ……………………………………….…………………………………………………………….. 8
+Kepala Teknik
+5.3. Engineering Institute ……………………………………………………………………………………………………… 9
+Lembaga Enjinering
+5.4. Design Studies ……………...………………………………………………………………………………………………. 9
+Penelaahan Disain
+5.5. Inspection and Safety Inspection ……………………………………………………………………………………… 10
+Inspeksi dan Pemeriksaan Keselamatan
+5.5.1 Inspection ……………………………………………………………………………………………………………………… 11
+Inspeksi
+5.5.2 Safety Checklist ……………………………………………………………………………………………………………… 11
+Pemeriksaan Keselamatan
+5.6 Application for Issuance of Approval for Proper Operation …………………………………………………. 12
+Permohonan Penerbitan Persetujuan Layak Operasi
+5.7 Validity Period of Approval for Proper Operation ……………………………………………………………….. 13
+Masa Berlaku Persetujuan Layak Operasi
+5.8 Documentation ……………………………………………………………………………………………………………… 13
+Dokumentasi
+5.9 Risk Analysis …………………………………………………………………………………………………………………. 13
+Analisa Resiko
+5.10 Extension of the Remaining Service Life …………………………………………………………………………… 13
+Perpanjangan Sisa Umur Layan
+
+--- Halaman 4 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 4 of 20
+6 Flowchart ……………………………………………………………………………………………………………………… 13
+Diagram Alir
+6.1 Application for Issuance of Operational Eligibility ………………………………………………………………. 14
+Pengajuan Permohonan Penerbitan Layak Operasi
+6.2 Issuance of Approval for Proper Operation in Oil and Gas Business Activities ……………………….. 17
+Penerbitan Persetujuan Layak Operasi Pada Kegiatan Usaha Migas
+
+--- Halaman 5 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 5 of 20
+1. GENERAL PURPOSE 1. TUJUAN UMUM
+The purpose of this procedure is to provide guidance to Tujuan prosedur ini adalah memberikan petunjuk
+PT Transportasi Gas Indonesia (TGI) in carrying out its kepada PT Transportasi Gas Indonesia (TGI) dalam
+activities in accordance with the Regulation of the melakukan aktifitasnya sesuai Peraturan Menteri Energi
+Minister of Energy and Mineral Resources concerning dan Sumber Daya Mineral tentang Pemeriksaan
+Safety Inspection of Installations and Equipment in Oil Keselamatan Instalasi dan Peralatan pada Kegiatan
+and Gas Business Activities. Usaha Minyak dan Gas Bumi.
+This Installation and Equipment Safety Check aims to Pemeriksaan Keselamatan Instalasi dan Peralatan ini
+ensure the safety, security, and reliability of TGI gas bertujuan untuk menjamin keselamatan, keamanan dan
+distribution operations. kehandalan operasi distribusi gas TGI
+2. SCOPE 2. RUANG LINGKUP
+A systematic and integrated approach in ensuring the Pendekatan yang sistematik dan terintegrasi dalam
+safety, security, and reliability of gas distribution menjamin keselamatan, keamanan dan kehandalan
+operations across TGI organizational functions operasi distribusi gas di seluruh fungsi organisasi TGI
+consistently, is an important thing to sustain the secara konsisten, merupakan suatu hal yang penting
+company's performance. untuk menopang kinerja perusahaan.
+The requirements on this Operating Permit procedure Persyaratan pada prosedur Ijin Operasi ini berlaku
+apply to TGI gas distribution operations untuk operasi distribusi gas TGI.
+3. DEFINITION 3. DEFINISI
+Inspection – an activity carried out directly including Inspeksi – suatu kegiatan yang dilakukan secara
+document inspection, physical examination, and testing langsung meliputi pemeriksaan dokumen, pemeriksaan
+of equipment and / or installation referring to the fisik, dan pengujian peralatan dan/atau Instalasi
+provisions of laws and regulations, standards, and good mengacu pada ketentuan peraturan perundang-
+engineering rules. undangan, Standar, dan kaidah keteknikan yang baik.
+Safety Inspection – Technical inspection for supervision Pemeriksaan Keselamatan – Pemeriksaan teknis untuk
+of the implementation of Oil and Gas Safety and pengawasan pelaksanaan Keselamatan Minyak dan Gas
+engineering in Oil and Gas Business Activities to ensure Bumi dan keteknikan pada Kegiatan Usaha Minyak dan
+the fulfillment of the provisions of laws and regulations, Gas Bumi untuk memastikan dipenuhinya ketentuan
+standards, and good engineering rules. peraturan perundang-undangan, Standar, dan kaidah
+keteknikan yang baik.
+Risk Analysis – Activities to identify and analyze Analisis Risiko – Kegiatan untuk mengidentifikasi dan
+potential causes and possible consequences of risks menganalisa potensi sebab dan kemungkinan akibat
+quantitatively, semi-quantitatively, and qualitatively. risiko secara kuantitatif, semi kuantitatif, dan kualitatif.
+Standard - Standards related to Oil and Gas recognized Standar - Standar terkait Minyak dan Gas Bumi yang
+by the Ministry of Energy and Mineral Resources, diakui oleh Kementrian Energi dan Sumber Daya
+include, among others, installation and equipment Mineral, meliputi antara lain standar Instalasi dan
+standards, Oil and Gas fuel standards, competency peralatan, standar bahan bakar Minyak dan Gas Bumi,
+standards for Oil and Gas workers, including procedures standar kompetensi pekerja Minyak dan Gas Bumi,
+and methods for Oil and Gas engineering tests, termasuk tata cara dan metode uji keteknikan Minyak
+standards for implementing Risk Analysis, and dan Gas Bumi, standar pelaksanaan Analisis Risiko, dan
+standards for assessing the service life of installations standar penilaian umur layan Instalasi dan/atau
+and / or equipment. peralatan.
+Director General – Director General who has the task of Direktur Jenderal – Direktur Jenderal yang mempunyai
+organizing the formulation and implementation of tugas menyelenggarakan perumusan dan pelaksanaan
+policies in the field of guidance, control, and supervision kebijakan di bidang pembinaan, pengendalian, dan
+of Oil and Gas activities. pengawasan kegiatan Minyak dan Gas Bumi.
+Head of Inspection – An official who ex-officio occupies Kepala Inspeksi – Pejabat yang secara ex-officio
+the position of director who has the task of carrying out menduduki jabatan direktur yang mempunyai tugas
+the formulation and implementation of policies, melaksanakan perumusan dan pelaksanaan kebijakan,
+formulating norms, standards, procedures, as well as penyusunan norma, Standar, prosedur, serta
+providing technical guidance and evaluation in the fields pemberian bimbingan teknis dan evaluasi di bidang
+
+--- Halaman 6 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 6 of 20
+of standardization, engineering, and safety in Oil and standarisasi, keteknikan, dan keselamatan pada
+Gas Business Activities. Kegiatan Usaha Minyak dan Gas Bumi.
+Head of Sub-Directorate – Head of Sub-Section of the Kasubdit – Kepala Sub Bagian Direktorat Jendral Minyak
+Directorate General of Oil and Gas. dan Gas Bumi.
+Kasie – Section Head of the Directorate General of Oil Kasie – Kepala Seksi Direktorat Jendral Minyak dan Gas
+and Gas. Bumi.
+Oil and Gas Inspector – Civil employees who is given Inspektur Migas – Pegawai negeri sipil yang diberi
+the task, responsibility, authority, and right to supervise tugas, tanggung jawab, wewenang, dan hak untuk
+the implementation of safety, supervision of the use and melakukan pengawasan pelaksanaan keselamatan,
+development of domestic potential, Safety Inspection, pengawasan penggunaan dan pengembangan potensi
+supervision of the implementation of operational dalam negeri, Pemeriksaan Keselamatan, pengawasan
+activities, and assessment of the implementation of pelaksanaan kegiatan operasional, dan penilaian
+safety management systems in Oil and Gas Business penerapan sistem manajemen keselamatan pada
+Activities. Kegiatan Usaha Minyak dan Gas Bumi.
+Head of Engineering – Person in charge of Oil and Gas Kepala Teknik – Penanggung jawab Keselamatan
+Safety at the Contractor or Business License Holder in Minyak dan Gas Bumi pada Kontraktor atau Pemegang
+Oil and Gas Business Activities. Izin Usaha pada Kegiatan Usaha Minyak dan Gas Bumi..
+Engineering Institute – Engineering Company an Lembaga Enjinering - Perusahaan Engineering institusi
+academic institution or Public Service Agency (BLU) that akademis atau Badan Layanan Umum (BLU) yang
+has competence and qualifications in the field of memiliki kompetensi dan kualifikasi dibidang
+engineering. engineering.
+Inspection Company – A business entity that carries out Perusahaan Inspeksi – Badan usaha yang
+inspection activities for the safety of equipment and/or melaksanakan kegiatan Inspeksi untuk keselamatan
+installations in oil and gas business activities in peralatan dan/atau Instalasi pada Kegiatan Usaha
+accordance with standards and/or laws and regulations. Minyak dan Gas Bumi sesuai dengan Standar dan/atau
+peraturan perundang-undangan.
+Oil and Gas Safety – Safety that includes worker safety, Keselamatan Migas – Keselamatan yang meliputi
+installation and equipment safety, environmental keselamatan pekerja, keselamatan instalasi dan
+safety, and general safety. peralatan, keselamatan lingkungan, dan keselamatan
+umum.
+Installation – A series of equipment integrated in a Instalasi – Rangkaian peralatan yang terintegrasi dalam
+system to carry out operating functions in Oil and Gas suatu sistem untuk melaksanakan fungsi operasi pada
+Business Activities. Kegiatan Usaha Minyak dan Gas Bumi.
+Design Review – Systematic and independent Penelaahan Desain – Evaluasi secara sistematis dan
+evaluation of an Installation design in Oil and Gas independen dari suatu rancangan desain Instalasi pada
+Business Activities Kegiatan Usaha Minyak dan Gas Bumi
+4. REFERENCE 4. REFERENSI
+a. Law No. 1 of 1970 on Occupational Safety a. UU No 1 Tahun 1970 tentang Keselamatan
+b. Law No. 22 of 2001 on Oil and Gas. Kerja
+c. Government Regulation of the Republic of b. Undang-Undang No. 22 Tahun 2001 tentang
+Indonesia Number 50 of 2012 concerning the Minyak dan Gas Bumi.
+Implementation of Occupational Safety and c. Peraturan Pemerintah Republik Indonesia
+Health Management System. Nomor 50 Tahun 2012 Tentang Penerapan
+d. Decree of the Minister of Manpower Number: Sistem Manajemen Keselamatan dan
+KEP.187 / MEN / 1999 concerning Control of Kesehatan Kerja.
+Hazardous Chemicals in the Workplace. d. Keputusan Menteri Tenaga Kerja Nomor:
+e. Work Safety of Oil & Gas Pipeline No. 300 KEP.187/MEN/1999 Tentang Pengendalian
+K/38/M-PE/1997. Bahan Kimia Berbahaya Di Tempat Kerja.
+f. ESDM Regulation No. 32 of 2021 concerning e. Keselamatan Kerja Pipa Penyaluran Minyak &
+Technical Inspection and Safety Inspection of Gas Bumi No. 300 K/38/M-PE/1997.
+
+--- Halaman 7 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 7 of 20
+Installations and Equipment in Oil and Gas f. Permen ESDM No. 32 tahun 2021 tentang
+Business Activities Inspeksi Teknis dan Pemeriksaan Keselamatan
+g. Standard Operating Procedure number Instalasi dan Peralatan Pada Kegiatan Usaha
+06.SOP/18/DMT/2018 Ministry of Energy and Minyak dan Gas Bumi.Energy Institute:
+Natural Resources Directorate General of Oil Guidelines for Management of Safety Critical
+and Gas Directorate of Oil and Gas Engineering Equipment (SCE).
+and Environment related to Issuance of g. Standard Operating Procedure nomor
+Approval for Operation Worthiness in Oil and 06.SOP/18/DMT/2018 Kementrian Energi dan
+Gas Business Activities. Sumber Daya Alam Direktorat Jenderal Minyak
+h. Flow of Issuance of Feasible Approval for dan Gas Bumi Direktorat Teknik dan
+Operations at the Directorate of Oil and Gas Lingkungan MIGAS tentang Penerbitan
+Engineering and Environment Persetujuan Layak Operasi Pada Kegiatan
+(https://migas.esdm.go.id/uploads/sop/dmt/n Usaha MIGAS.
+ew-dmt-2021/2-brosur-layanan-plo.pdf). h. Alur Penerbitan Persetujuan Layak Operasi Di
+i. Procedure no. 06.SOP/18/DMT/2018 Direktorat Teknik dan Lingkungan MIGAS
+concerning the Issuance of Operational (https://migas.esdm.go.id/uploads/sop/dmt/n
+Feasible Approval (PLO) in Oil and Gas ew-dmt-2021/2-brosur-layanan-plo.pdf).
+Business Activities. i. Prosedur no. 06.SOP/18/DMT/2018 tentang
+j. TGI Health, Environmental Safety Penerbitan Persetujuan Layak Operasi (PLO)
+Management System (HSSEMS) Manual. Pada Kegiatan Usaha MIGAS.
+k. ISO 45001:2018 Occupational Health and j. Manual Sistem Manajemen Kesehatan,
+Safety Management System Keselamatan Kerja Lingkungan (HSSEMS) TGI.
+l. OSHA 3132 – 2000: Process Safety k. ISO 45001:2018 Occupational Health dan
+Management. Safety Management System
+l. OSHA 3132 – 2000: Process Safety
+Management.
+5. PROCEDURE 5. PROSEDUR
+TGI is obliged to guarantee the Safety of Installations TGI wajib menjamin Keselamatan Instalasi dan
+and Equipment in its activities of distributing natural gas Peralatan pada kegiatannya mendistribusikan gas bumi
+through pipelines. Such safety guarantees include: melalui jaringan pipa. Jaminan keselamatan tersebut
+meliputi:
+a. Creation of Design Installations and Equipment, a. Pembuatan disain Instalasi dan Peralatan,
+b. Construction, operation, maintenance, testing, b. Pembangunan, pengoperasian, pemeliharaan,
+inspection and execution of Installations and pengujian, pemeriksaan dan pelaksanaan
+Equipment. terhadap Instalasi dan Peralatan.
+The equipment used at TGI's gas distribution facility is Peralatan yang digunakan pada fasilitas distribusi gas
+SCE, which is designed to be able to manage potential TGI merupakan SCE, yang didisain agar dapat
+mengelola potensi
+5.1. Preparation 5.1. Persiapan
+In managing operating permits, TGI must prepare the Dalam mengelola ijin operasi, TGI harus menyiapkan
+following documents: dokumen berikut:
+ Application Letter for submission of application for  Surat Permohonan pengajuan permohonan
+safety inspection: pemeriksaan keselamatan:
+a. Business License or Temporary Business a. Izin Usaha atau Izin Usaha Sementara
+License (for downstream oil and gas business (untuk kegiatan usaha hilir migas).
+activities). b. Rencana inspeksi yang telah disepakati
+b. Inspection plan that has been agreed upon oleh pihak yang terkait atau Inspection
+by the relevant party or Inspection Test Plan Test Plan (ITP).
+(ITP).
+c. Design Review Results (new installation), c. Hasil Penelaahan Disain (instalasi baru),
+which contains: yang memuat:
+ The Standard list corresponds to the  Daftar Standar sesuai dengan lingkup
+scope of the Installation. Instalasi.
+ Risk analysis and mitigation.  Analisa dan mitigasi risiko.
+ Operating parameters and design  Parameter operasi dan filosofi disain.
+philosophy.  Sistem proteksi keselamatan.
+
+--- Halaman 8 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 8 of 20
+ Safety protection system.  Teknologi yang digunakan.
+ The technology used.  Rincian komitmen Tingkat Komponen
+ Details of Domestic Component Level Dalam Negeri
+commitments  Izin lingkungan
+ Environmental permits  Umur layan disain Instalasi
+ Service life of Installation design
+d. Risk Analysis Results (if any). d. Hasil Analisa Risiko (bila ada).
+e. Service Life Extension Assessment Results e. Hasil Penilaian Perpanjangan Umur Layan
+(for equipment and/or installations that do (untuk peralatan dan/atau Instalasi yang
+not have a service life and/or have exceeded tidak memiliki umur layan dan/atau telah
+the design service life limit). melewati batas umur layan disain).
+f. List of Installations and/or Equipment. f. Daftar Instalasi dan/atau Peralatan.
+g. Location of manufacture / installation. g. Lokasi pembuatan/ pemasangan.
+h. Inspection Schedule. h. Jadwal Inspeksi.
+i. List of Experts implementing Inspections. i. Daftar Tenaga Ahli pelaksana Inspeksi.
+j. List of Inspection procedures and equipment. j. Daftar Prosedur dan peralatan inspeksi
+Documents at the time of application for issuance Dokumen pada saat permohonan penerbitan ijin operasi:
+of an operating license:
+a. Description of Inspection Results or a. Keterangan Hasil Inspeksi atau Sertifikat Inspeksi
+Certificate of Inspection of Equipment and Peralatan dan Instalasi.
+Installation
+b. Equipment and installation documents in the b. Dokumen Peralatan dan instalasi berupa Berita
+form of reporting of inspection results and Acara hasil inspeksi dan Laporan hasil inspeksi.
+Inspection reports.
+c. Technical Documents: c. Dokumen Teknis:
+ Report of installation safety results.  Berita acara hasil pemeriksaan
+ Follow-up reporting of installation keselamatan instalasi.
+safety inspection results (if any)  Tindak lanjut Berita acara hasil
+ Inspection Test Plan that has been pemeriksaan keselamatan instalasi (jika
+agreed upon by the parties. ada).
+ Business License or Temporary  Rencana Inspeksi atau Inspection Test
+Business License (specifically for Plan yang telah disepakati oleh para pihak.
+downstream oil and gas business  Izin Usaha atau Izin Usaha Sementara
+activities). (khusus untuk kegiatan usaha hilir migas).
+ Design Review Results (for new  Hasil Penelaahan Disain (untuk Instalasi
+Installations). baru).
+ List of installations and/or  Daftar instalasi dan/atau peralatan.
+equipment.  Process Flow Diagram dan Piping and
+ Process Flow Diagram and Piping and Instrumentation Diagram (P&ID).
+Instrumentation Diagram (P&ID).  Sertifikat Kelayakan Penggunaan Instalasi
+ Certificate of Eligibility for Use of atau Persetujuan Layak Operasi
+Installations or Approval of Feasible sebelumnya (untuk instalasi yang sudah
+Previous Operations (for existing ada).
+installations).  Hasil Ananlisis Risiko (Bila ada)
+ Risk Analysis Results (If any)  Hasil Perpanjangan Umur Layan (untuk
+ Service Life Extension Results (for yang telah melewati batas umur layan
+those who have exceeded the design disain).
+service life limit).  Dokumen Re-engineering (untuk instalasi
+ Re-engineering Documents (for dan/atau peralatan yang tidak memiliki
+installations and/or equipment that dokumen teknis).
+do not have technical documents).  Data Lokasi dan Kapasitas.i
+ Location and Capacity Data.  Izin Lingkungan.
+ Environmental Permits.
+5.2. Head of Engineering 5.2. Kepala Teknik
+TGI is required to have a Head of Engineering. TGI wajib memiliki Kepala Teknik.
+The highest leader in TGI, namely the President Pimpinan tertinggi di TGI, yaitu President Director
+Director, can assign officials who are under his dapat menugaskan pejabat yang berada di bawah
+responsibility as the Head of Engineering. tanggung jawabnya sebagai Kepala Teknik.
+The assignment must be followed by absolute Penugasan tersebut harus diikuti dengan
+
+--- Halaman 9 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 9 of 20
+authority over Oil and Gas Safety. kewenangan secara mutlak terhadap Keselamatan
+Migas.
+The Head of Engineering is responsible for the Kepala Teknik bertanggung jawab atas dilaksanakan
+implementation and compliance of the Oil and Gas dan ditaatinya ketentuan Keselamatan Migas yang
+Safety provisions which are the obligations of TGI. menjadi kewajiban TGI.
+Officials that already appointed as the Head of Pejabat yang ditunjuk sebagai Kepala Teknik harus
+Engineering must have the ability to supervise Oil and memiliki kemampuan untuk melakukan pengawasan
+Gas Safety. Keselamatan Migas.
+The Head of Engineering may appoint a Deputy Head Kepala Teknik dapat menunjuk Wakil Kepala Teknik
+of Engineering in assisting in the implementation of his dalam membantu pelaksanaan tugas dan tanggung
+duties and responsibilities. jawabnya.
+TGI is obliged to convey the appointment of the Head TGI wajib menyampaikan penunjukan Kepala Teknik
+of Engineering to the Chief Inspector. kepada Kepala Inspeksi.
+In the event that the Head of Engineering appoints the Dalam hal Kepala Teknik menunjuk Wakil Kepala
+Deputy Head of Engineering, the Head of Engineering Teknik, Kepala Teknik menyampaikan penunjukan
+conveys the appointment to the Chief Inspector. tersebut kepada Kepala Inspeksi.
+The Head of Engineering is obliged to conduct and Kepala Teknik, wajib melakukan dan menerbitkan
+issue a Design Review of each installation used by TGI Penelaahan Disain terhadap setiap instalasi yang
+before the construction of the installation is carried digunakan TGI sebelum pembangunan instalasi
+out, in order to ensure the safety of the installation dilaksanakan, untuk menjamin keselamatan instalasi
+and equipment used in TGI to distribute gas. If the dan peralatan yang digunakan di TGI untuk
+Head of Engineering is unable to carry out a Design mendistribusikan gas. Jika Kepala Teknik tidak dapat
+Review, its implementation can be assisted by the melakukan Penelaahan Disain, pelaksanaanya dapat
+Engineering Institute. dibantu oleh Lembaga Engineering.
+5.3. Engineering Institute 5.3. Lembaga Engineering
+The designated Engineering Institution must meet the Lembaga Engineering yang ditunjuk harus
+following requirements: memenuhi persyaratan sebagai berikut:
+a. An expert who has the appropriate a. Tenaga Ahli yang memiliki kompetensi dan
+competence and quality. kualifikas yang sesuai.
+b. Have a quality management system that is b. Memiliki system manajamen mutu yang
+certified by an accreditation institution. tersertifikasi oleh lembaga akreditasi.
+c. Engineering Institutions which are c. Lembaga Engineering yang merupakan
+engineering companies, must be perusahaan engineering, harus berbadan
+incorporated in Indonesia. hukum Indonesia.
+d. Engineering Institutions, which are academic d. Lembaga Engineering yang merupakan
+institutions, must be Indonesian legal entities institusi akademis, harus berbadan hukum
+and have An Accreditation. Indonesia dan memiliki Akreditas A.
+e. Engineering Institutions must have a Letter of e. Lembaga Engineering harus mempunyai
+Business Capability to Support Oil and Gas at Surat Kemampuan Usaha Penunjang Migas
+least with a two-star category as an minimal dengan katagori bintang dua sebagai
+engineering company from the Directorate perusahaan engineering dari Direktorat
+General Jendral.
+5.4. Design Studies 5.4. Penelaahan Disain
+Design studies are carried out at least against: Penelaahaan disain dilakukan paling sedikit
+a. Conformity of standard use. terhadap:
+b. Risk management. a. Kesesuaian penggunaan standar.
+c. Environmental documents. b. Manajemen resiko.
+d. Technical specifications. c. Dokumen lingkungan.
+e. Application of good engineering rules. d. Spesifikasi teknis.
+f. Utilization of domestic goods, services, e. Penerapan kaidah keteknikan yang baik.
+technology, engineering, and design f. Pemanfaatan barang, jasa, teknologi,
+capabilities. kemampuan rekayasa dan rancang bangun
+dalam negeri.
+
+--- Halaman 10 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 10 of 20
+Design Review results contain at least: Hasil Penelaahan Disain paling sedikit memuat:
+a. The list of standards corresponds to the a. Daftar standar sesuai dengan lingkup
+scope of installation. instalasi.
+b. Risk analysis and mitigation. b. Analisa dan mitigasi resiko.
+c. Operating parameters and design c. Parameter operasi dan filosofi disain.
+philosophy. d. System proteksi keselamatan.
+d. Safety protection system. e. Teknologi yang digunakan.
+e. The technology used. f. Rincian komitmen tingkat komponen
+f. Details of domestic component-level dalam negeri.
+commitments.
+g. Environmental permits and/or g. Izin lingkungan dan/atau upaya
+environmental management efforts pengelolaan lingkungan dan/atau upaya
+and/or environmental monitoring efforts pemantauan lingkungan atau analisa
+or environmental impact analysis. mengenai dampak lingkungan hidup.
+h. Installation design age. h. Umur disain instalasi.
+5.5. Inspection and Safety Inspection 5.5. Inspeksi dan Pemeriksaan Keselamatan
+The Head of Engineering or the Board of Directors of Kepala Teknik atau Direksi Perusahaan Usaha
+the Supporting Business Company submits a Penunjang mengajukan surat permohonan
+requesting letter the implementation of safety pelaksanaan pemeriksaan keselamatan terhadap
+inspections of equipment and installations to the Head peralatan dan instalasi kepada Kepala Inspeksi, paling
+of Inspection, no later than 15 days before the lambat 15 hari sebelum pelaksanaan.
+implementation.
+To ensure the Safety of TGI Installations and Untuk menjamin Keselamatan Instalasi dan Peralatan
+Equipment, such TGI Installations and Equipment TGI, maka Instalasi dan Peralatan TGI tersebut harus
+must be carried out: dilakukan:
+a. Inspection and/or, a. Inspeksi dan/atau,
+b. Safety checks. b. Pemeriksaan keselamatan.
+The Head of Engineering must: Kepala Teknik harus:
+a. Inspect plan. a. Membuat rencana inspeksi.
+b. Conducting inspections. b. Melakukan inspeksi.
+In doing this, the Head of Engineering can be assisted Dalam melakukan hal ini, Kepala Teknik dapat dibantu
+by the Inspection Company. oleh Perusahaan Inspeksi.
+5.5.1. Inspection 5.5.1. Inspeksi
+The Chief of Inspection assigns the Oil and Gas Kepala Inspeksi menugaskan Inspektur Migas atau
+Inspector, or the Officer assigned to carry out the Pejabat yang ditugaskan untuk melaksanakan
+safety inspection pemeriksaan keselamatan
+The implementation of the Inspection is carried out by Pelaksanaan Inspeksi dilakukan oleh Perusahaan
+the Inspection Company. Inspeksi.
+The inspection company that will be used must obtain Perusahaan inspeksi yang digunakan harus
+an Oil and Gas Support Business Capability Letter, at mendapatkan Surat Kemampuan Usaha Penunjang
+least with a three-star category as an inspection Minyak dan Gas Bumi, minimal dengan katagori
+company from the Director General. bintang tiga sebagai perusahaan inspeksi dari Direktur
+The Head of Engineering issued a description of the Jenderal.
+results of the inspection. In the event that the Kepala Teknik mengeluarkan keterangan hasil
+implementation of the inspection is assisted by the inspeksi. Dalam hal pelaksanaan inspeksi dibantu oleh
+Inspection Company, the Inspection Company publish Perusahaan Inspeksi, Perusahaan Inspeksi
+an Inspection Certification. menerbitkan Sertifikasi Inspeksi.
+If the results of the Inspection or Inspection Certificate Jika hasil Inspeksi atau Sertifikat Inspeksi menyatakan
+state that the Installation and/or equipment is not fit bahwa Instalasi dan/atau peralatan tidak layak untuk
+for operation, the Head of Engineering reports to the dioperasikan, Kepala Teknik melaporkan kepada
+Chief Inspection. Kepala Inspeksi.
+A description of the inspection results or an Inspection Keterangan hasil inspeksi atau Sertifikat Inspeksi
+Certificate at least contains: paling sedikit memuat:
+a. Username and owner of the Installation or a. Nama pengguna dan pemilik Instalasi atau
+Equipment, Peralatan,
+b. Type of Installation or Equipment, b. Jenis Instalasi atau Peralatan,
+
+--- Halaman 11 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 11 of 20
+c. Design and operation data, c. Data disain dan operasi,
+d. Service life of the design, d. Umur layan disain,
+e. Safety equipment, e. Peralatan pengaman,
+f. Conclusion of the results of the Inspection, f. Kesimpulan hasil Inspeksi,
+g. Validity period, g. Masa berlaku,
+h. Accuracy of the handover measuring h. Akurasi sistem alat ukur serah terima.
+instrument system
+5.5.1.1. Types of Equipment 5.5.1.1. Jenis Peralatan
+The types of equipment that must be carried out Jenis peralatan yang wajib dilakukan Inspeksi dan
+Inspection and Safety Inspection on TGI gas pemeriksaan Keselamatan pada aktiftas distribusi
+distribution activities consist of: gas TGI terdiri dari:
+a. Safety devices used to protect the equipment. a. Alat pengaman yang digunakan untuk
+b. Vessels with design pressure above or below melindungi peralatan.
+atmospheric pressure and sized equal to or b. Bejana dengan tekanan disain di atas atau di
+more than Nominal Pipe Size 6. bawah tekanan atmosferik dan berukuran
+sama atau lebih dari Nominal Pipe Size 6.
+c. Storage tanks with atmospheric pressure c. Tangki penimbun dengan tekanan atmosferik
+used to store oil. yang digunakan untuk menyimpan minyak.
+d. Lift aircraft used to lift goods or people. d. Pesawat angkat yang digunakan untuk
+mengangkat barang atau orang.
+e. Rotary equipment is a pump or compressor e. Peralatan putar yaitu pompa atau kompresor
+used to drain oil and gas. yang digunakan untuk mengalirkan minyak
+dan gas bumi.
+f. Equipment that generates, distributes, and f. Peralatan yang membangkitkan,
+controls electric power systems includes mendistribusikan dan mengendalikan system
+power generators, power transformers and tenaga listrik meliputi power generator,
+distribution panels. power transformer dan panel distribusi.
+g. Building structures in the waters used in gas g. Bangunan struktur di perairan yang
+distribution activities. digunakan pada kegiatan distribusi gas.
+h. The handover measuring instrument system h. Sistim alat ukur serah terima yang digunakan
+used in gas distribution business activities pada kegiatan usaha distribusi gas.
+5.5.1.2 Inspection Implementation 5.5.1.2 Pelaksanaan Inspeksi
+Safety checks by the Oil and Gas Inspector or assigned Pemeriksaan keselamatan oleh Inspektur Migas
+Officer. atau Pejabat yang ditugaskan.
+The minimum requirements that TGI must provide for Persyaratan minimum yang harus disediakan TGI
+the inspection to be carried out are: agar pelaksanaan inspeksi dapat dilakukan adalah:
+a. Safety management system that has been a. System manajemen keselamatan yang
+implemented and audited. telah diterapkan dan diaudit.
+b. Quality management system that has been b. Sistem manajemen mutu yang telah
+certified by an accredited institution. tersertifikasi oleh lembaga yang
+terakreditasi.
+c. Certificate and/or results of conformity of type c. Sertifikat dan/atau hasil kesesuaian
+B inspection bodies in accordance with SNI lembaga inspeksi tipe B sesuai dengan SNI
+ISO/IEC 17020 from accredited institutions. ISO/IEC 17020 dari lembaga yang
+terakreditasi.
+d. Inspection implementing experts who have d. Tenaga ahli pelaksana inspeksi yang
+competence and qualifications according to memiliki kompetensi dan kualifikasi sesuai
+their skill. bidangnya.
+e. Inspection procedure in detail of the e. Prosedur inspeksi secara rinci terhadap
+installation. instalasi.
+f. Required inspection equipment. f. Peralatan inspeksi yang dibutuhkan.
+5.5.2. Safety Check 5.5.2. Pemeriksaan Keselamatan
+Safety Inspection is carried out by the Oil and Gas Pemeriksanaan Keselamatan dilaksanakan oleh Inspektur
+Inspector or an Official who has qualifications in Migas atau Pejabat yang memiliki kualifikasi sesuai
+
+--- Halaman 12 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 12 of 20
+accordance with his field assigned by the Head of dengan bidangnya yang ditugaskan oleh Kepala Inspeksi,
+Inspection, who will submit a report on the results of yang akan menyampaikan laporan hasil Pemeriksaan
+the Safety Inspection to the Head of Inspection. Keselamatan kepada Kepala Inspeksi.
+Safety Check may be performed at the time of Pemeriksaan Keselamatan dapat dilakukan pada saat
+Installation or Equipment: Instalasi atau Peralatan:
+a. Will be installed or built, a. Akan dipasang atau dibangun,
+b. Being installed or built, b. Sedang dipasang atau dibangun,
+c. Has been installed or built, c. Telah dipasang atau dibangun,
+d. Has been operating, d. Telah beroperasi,
+e. At any time if deemed necessary, e. Sewaktu-waktu apabila dianggap perlu
+f. A certain period of time, f. Jangka waktu tertentu,
+g. Or based on risk analysis. g. Atau berdasarkan analisa resiko.
+The Head of Engineering must apply for the Kepala Teknik wajib menyampaikan permohonan
+implementation of the Safety Inspection in writing to pelaksanaan Pemeriksaan Keselamatan secara tertulis
+the Head of Inspection. kepada Kepala Inspeksi.
+The requests for the implementation of Safety Permohonan pelaksanaan Pemeriksaan Keselamatan
+Inspections are submitted no later than 15 (fifteen) disampaikan paling lambat 15 (lima belas) hari kerja
+working days before the Implementation of Inspection sebelum dilaksanakan Inspeksi dan Pemeriksaan
+and Safety Inspection. Keselamatan.
+The application is submitted by attaching the Permohonan disampaikan dengan melampirkan rencana
+inspection plan in writing to the Head of Inspection by inspeksi secara tertulis kepada Kepala Inspeksi dengan
+attaching: melampirkan:
+a. Design Review Results, a. Hasil Penelaahan Disain,
+b. Risk Analysis Results (when using the Safety b. Hasil Analisis Risiko (bila menggunakan metode
+Check method based on the results of the Risk Pemeriksaan Keselamatan berdasarkan hasil
+Analysis), Analisis Risiko),
+c. The results of the assessment of the extension c. Hasil penilaian perpanjangan umur layan untuk
+of the service life for equipment that has peralatan yang telah melewati batas umur layan
+exceeded the design service life limit, disain,
+d. List of Installations and/or Equipment, d. Daftar Instalasi dan/atau Peralatan,
+e. Location of manufacture/installation of e. Lokasi pembuatan/pemasangan Instalasi
+Installation and/or equipment, dan/atau peralatan,
+f. Inspection Schedule, f. Jadwal Inspeksi,
+g. List of inspection implementing experts, g. Daftar tenaga ahli pelaksana Inspeksi,
+h. List of Inspection procedures and equipment. h. Daftar prosedur dan peralatan Inspeksi.
+i. The Chief Inspection carries out a Safety i. Kepala Inspeksi melaksanakan Pemeriksaan
+Check. Keselamatan.
+5.6. Application for Issuance of Approval for Proper 5.6. Permohonan Penerbitan Persetujuan Layak
+Operation Operasi
+The results of the implementation of the Inspection Hasil pelaksanaan Inspeksi dan Pemeriksaan
+and Safety Inspection are stated in the Report, as a Keselamatan dituangkan dalam Berita Acara, sebagai
+basis for issuing a Description of Inspection Results or dasar dalam penerbitan Keterangan Hasil Inspeksi
+Inspection Certificate. atau Sertifikat Inspeksi
+The Head of Engineering applies for the issuance of a Kepala Teknik mengajukan permohonan penerbitan
+Proper Approval for Operation after the Persetujuan Layak Operasi setelah dilaksanakan
+implementation of the Inspection and Safety Inspeksi dan Pemeriksaan Keselamatan kepada Kepala
+Inspection to the Head of Inspection by attaching at Inspeksi dengan melampirkan paling sedikit:
+least:
+a. Description of the results of the Inspection or a. Keterangan hasil Inspeksi atau Sertifikat
+Certificate of Inspection of the Equipment, Inspeksi atas Peralatan,
+b. Description of the results of the Inspection or b. Keterangan hasil Inspeksi atau Sertifikat
+Certificate of Inspection of the Installation. Inspeksi atas Instalasi.
+Kepala Inspeksi menugaskan Inspektur Migas/Staf
+The Chief of Inspection assigns the Oil and Gas untuk melakukan evaluasi terhadap permohonan
+Inspector/Staff to evaluate the issuance application. penerbitan.
+
+--- Halaman 13 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 13 of 20
+Based on the results of the evaluation of the Berdasarkan hasil evaluasi terbadap permohonan
+issuance application and the report on the results penerbitan dan laporan hasil Pemeriksaan
+of the Safety Inspection, the Head of Inspection Keselamatan, Kepala Inspeksi menerbitkan
+issues a Proper Approval for Operation or rejects Persetujuan Layak Operasi atau menolak
+the application for issuance of a Proper Operating permohonan penerbitan Persetujuan Layak Operasi
+Approval no later than 10 (ten) working days after paling lama 10 (sepuluh) hari kerja setelah
+the documents are received in complete. dokumen diterima secara lengkap.
+The approval is a formal acknowledgment that TGI Persetujuan tersebut merupakan pengakuan
+has carried out inspections that refer to good laws formal bahwa TGI telah melaksanakan Inspeksi
+and regulations, standards, and engineering rules. yang mengacu pada peraturan perundangan-
+undangan, Standar, dan kaidah keteknikan yang
+baik.
+5.7 Validity Period of Approval for Proper 5.7. Masa Berlaku Persetujuan Layak Operasi
+Operation
+For Installations that are carried out periodic Safety Terhadap Instalasi yang dilakukan Pemeriksaan
+Checks based on the certain period of time, have a Keselamatan secara berkala berdasarkan jangka
+validity period of Operable Approval of not more waktu tertentu, memiliki masa berlaku Persetujuan
+than 4 (four) years. Layak Operasi paling lama 4 (empat) tahun.
+For installations that have a remaining service life Terhadap Instalasi yang memiliki sisa umur layan
+of less than 4 (four) years, the validity period of the kurang dari 4 (empat) tahun, masa berlaku
+Feasible Operating Agreement is 1/2 (one-half) of Persetujuan Layak Operasi adalah ½ (satu per
+the remaining service life. dua) dari sisa umur layan.
+For Installations that are carried out Safety Checks Terhadap Instalasi yang dilakukan Pemeriksaan
+based on the results of the Risk Analysis, have a Keselamatan berdasarkan hasil Analisis Risiko,
+validity period of Proper Approval for Operation memiliki masa berlaku Persetujuan Layak Operasi
+based on the results of the Risk Analysis as long as berdasarkan hasil Analisis Risiko selama sisa umur
+the remaining service life is still fulfilled. layan masih terpenuhi.
+5.8 Documentation 5.8. Dokumentasi
+For the purposes of documenting TGI equipment Untuk keperluan dokumentasi data peralatan TGI
+data and issuing Proper Operating Approvals, the dan penerbitan Persetujuan Layak Operasi, Kepala
+Head of Engineering or Inspection Company shall Teknik atau Perusahaan Inspeksi wajib
+submit to the Head of Inspection among others: menyampaikan kepada Kepala Inspeksi antara
+lain:
+a. Minutes of Inspection results, a. Berita Acara hasil Inspeksi,
+b. Report on the results of the Inspection, b. Laporan hasil Inspeksi,
+c. Description of inspection results or c. Keterangan hasil Inspeksi atau Sertifikat
+Inspection Certificate. Inspeksi.
+5.9. Risk Analysis 5.9. Analisa Resiko
+TGI should carry out Risk Analysis as the basis of TGI harus melaksanakan Analisis Risiko sebagai
+Safety Checks dasar Pemeriksaan Keselamatan
+The implementation of Risk Analysis can be Pelaksanaan Analisa Risiko dapat dibantu Lembaga
+assisted by engineering institutions. Engineering.
+The results of the Risk Analysis contain at least: Hasil Analisis Risiko paling sedikit memuat:
+ List of Installations and/or equipment,  Daftar Instalasi dan/atau peralatan,
+ risk management,  Manajemen risiko,
+ Methods and techniques used,  Metode dan teknik yang dipergunakan,
+ Executor of Risk Analysis,  Pelaksana Analisis Risiko,
+ Recommendation of intervals and methods of  Rekomendasi interval dan metode Inspeksi.
+Inspection.
+For TGI, this comprehensive risk analysis method Untuk TGI, metode analisa resiko yang
+may refer to the procedure TGI-WP-07-37-04 komprehensif ini dapat merujuk pada prosedur
+Process Hazard Identification and Analysis TGI-WP-07-37-04 Prosedur Analisa Bahaya Proses
+Procedure
+
+--- Halaman 14 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 14 of 20
+5.10 Extension of the Remaining Service Life 5.10. Perpanjangan Sisa Umur Layan
+Installations and/or equipment that have exceeded Instalasi dan/atau peralatan yang telah melewati
+the design service life limit can remain in use after batas umur layan disain dapat tetap digunakan
+an assessment of the remaining service life and it setelah dilakukan penilaian sisa umur layan dan
+is stated that the service life can be extended. dinyatakan dapat diperpanjang umur layannya.
+Assessment of the extension of the remaining Penilaian perpanjangan sisa umur layan sesuai
+service life in accordance with the results of the dengan hasil analisis dengan mengutamakan
+analysis by prioritizing safety factors. faktor keselamatan.
+Installation or Equipment with a predetermined Instalasi atau Peralatan dengan perpanjangan sisa
+extension of the remaining service life, must be umur layan yang telah ditentukan, harus dilakukan
+carried out Inspection and Safety Inspection. Inspeksi dan Pemeriksaan Keselamatan.
+The assessment of the extension of the remaining Penilaian perpanjangan sisa umur layan
+service life is carried out by the Head of dilaksanakan oleh Kepala Teknik.
+Engineering.
+In carrying out the assessment of the extension of Dalam melaksanakan penilaian perpanjangan sisa
+the remaining service life, the Head of Engineering umur layan, Kepala Teknik dapat dibantu Lembaga
+may be assisted by the Engineering Institute as Engineering seperti yang disebutkan pada bagian
+mentioned in section 5.3. 5.3.
+The assessment of the extension of the remaining Penilaian perpanjangan sisa umur layan paling
+service life at least includes: sedikit meliputi:
+a. Review of Installation and/or Equipment a. Penelaahan dokumen teknis Instalasi dan/atau
+technical documents, Peralatan,
+b. Determination of the mechanism of damage, b. Penentuan mekanisme kerusakan,
+c. Determination of the scope of inspection of the c. Penentuan lingkup Inspeksi terhadap
+damage mechanism, mekanisme kerusakan,
+d. Inspection of the Installation and/or d. Pemeriksaan bagian Instalasi dan/atau
+Equipment section, Peralatan,
+e. The test check does not damage according to e. Pemeriksaan uji tidak merusak sesuai lingkup
+the scope of the Inspection, Inspeksi,
+f. Destructive test checks, if required, f. Pemeriksaan uji merusak, apabila diperlukan,
+g. Risk assessment of Installations and/or g. Penilaian risiko terhadap Instalasi dan/atau
+equipment, peralatan,
+h. Determination of the remaining service life, h. Penentuan sisa umur layan,
+i. Determination of inspection methods and i. Penentuan metode dan interval Inspeksi
+intervals during the extension of service life. selama perpanjangan umur layan.
+TGI installations and/or equipment that do not Instalasi dan/atau peralatan TGI yang tidak
+have technical documents and/or have no known memiliki dokumen teknis dan/atau tidak diketahui
+service life can only be given an extension of the umur layan disain, hanya dapat diberikan
+service life if re-engineering has been carried out perpanjangan umur layan apabila telah dilakukan
+and assessment of the remaining service life. disain ulang (re-engineering) dan penilaian sisa
+umur layan.
+
+--- Halaman 15 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 15 of 20
+6.Diagram alir ( Flowchart)
+6.1. Pengajuan Permohonan Penerbitan Layak Operasi
+Application for Issuance of Operational Eligibility
+Deskripsi Penanggung Jawab
+No
+Description Person in Charge
+Kepala Teknik atau Direksi Perusahaan Usaha Penunjang
+mengajukan surat permohonan pelaksanaan pemeriksaan
+keselamatan terhadap peralatan dan instalasi kepada Kepala
+Inspeksi, paling lambat 15 hari sebelum pelaksanaan Kepala Teknik
+1 The Head of Engineering or the Board of Directors of the
+Head of Engineering
+Supporting Business Company submits a letter requesting the
+implementation of safety inspections of equipment and installations
+to the Head of Inspection, no later than 15 days before the
+implementation
+Kepala Inspeksi menugaskan Inspektur Migas atau Pejabat yang Kepala Inspeksi
+2 ditugaskan untuk melaksanakan pemeriksaan keselamatan
+Chief Inspection
+The Chief of Inspection assigns the Oil and Gas Inspector, or the
+Officer assigned to carry out the safety inspection
+Pelaksanaan Inspeksi oleh Perusahaan Inspeksi (PI) dan
+pemeriksaan keselamatan oleh Inspektur Migas atau Pejabat yang
+3 ditugaskan
+Perusahaan Inspeksi
+Implementation of Inspections by Inspection Companies (PI) and
+safety checks by Oil and Gas Inspectors or assigned Officers Inspektur Migas atau
+Pejabat yang
+ditugaskan.
+Company Inspection
+Hasil pelaksanaan Inspeksi dan pemeriksaan keselamatan Oil and Gas Inspector
+dituangkan dalam Berita Acara, sebagai dasar dalam penerbitan or assigned Officer.
+4 Keterangan Hasil Inspeksi atau Sertifikat Inspeksi
+The results of the implementation of inspections and safety
+inspections are stated in the Minutes, as a basis for issuing a
+Description of Inspection Results or Inspection Certificate
+Kepala Teknik atau Direksi Perusahaan Usaha Penunjang
+mengajukan permohonan Penerbitan Persetujuan Layak Operasi
+(PLO) kepada Kepala Inspeksi Kepala Tekniik
+5 The Head of Engineering or the Board of Directors of the Supporting
+Head of Engineering
+Business Company applies for the Issuance of Operational Eligibility
+Approval (PLO) to the Head of Inspection
+
+--- Halaman 16 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 16 of 20
+Deskripsi Penanggung Jawab
+No
+Description Person in Charge
+Kepala Inspeksi menugaskan Inspektur Migas/Staf untuk
+melakukan evaluasi terhadap permohonan penerbitan Kepala Inspeksi
+6
+The Chief of Inspection assigns the Oil and Gas Inspector/Staff to
+Chief Inspection
+evaluate the issuance application.
+Evaluasi dokumen dilaksanakan maksimal 10 hari kerja setelah
+dokumen diterima secara lengkap (lihat diagram alir pada
+bagian 6.3) Inspektur Migas / Staf
+Document evaluation is carried out a maximum of 10 working
+7. Oil and Gas Inspector
+days after the document is received in full (see flow chart in
+/ Staff
+section 6.3)
+Kepala Inspeksi menerbitkan atau menolak permohonan
+Kepala Inspeksi
+8 penerbitan Persetujuan Layak Operasi (PLO) Instalasi
+The Head of Inspection issues or rejects an application for Chief Inspection
+issuance of a Proper Approval of Operation (PLO) of the
+Installation
+
+--- Halaman 17 ---
+
+6.2. Penerbitan Persetujuan Layak Operasi Pada Kegiatan Usaha Migas
+Issuance of Approval for Proper Operation in Oil and Gas Business Activities
+Pelaksana Kelengkapan Waktu (hari) Keterangan
+Output
+Kegiatan
+Executive Completeness Time (day) Remarks
+No
+Activities
+Katek Direktur Kabudit Kasie Staf
+Dokumen teknis, meliputi:
+a. Rencana inspeksi.
+b. Hasil Penelaahan Disain.
+c. Hasil Analisa Resiko.
+d. Hasi penilaian sisa umur layan (untuk
+peralatan yang telah melewati batas umur
+layan).
+TGI mengajukan surat e. Daftar instalasi dan/atau peralatan.
+permohonan pemeriksaan
+keselamatan kerja kepada f. Jadwal inspeksi.
+Surat
+Direktur Teknik dan
+g. Daftar tenaga ahli pelaksana inspeksi. permohonan
+Lingkungan Migas sebagai
+diterima oleh
+Kepala Inspeksi. h. Daftar prosedur dan peralatan inspeksi.
+bagian Admin.
+1 TGI submitted a letter Technical documents, including: 1
+The application
+requesting an occupational
+a. Inspection plan. letter is accepted
+safety inspection to the
+by the admin
+Director of Oil and Gas b. Design Review Results. section.
+Engineering and
+Environment as the Head c. Risk Analysis Results.
+of Inspection.
+d. Assessment of the remaining service life
+(for equipment that has passed the service
+life limit).
+e. List of installations and/or equipment.
+f. Inspection schedule.
+g. List of inspection implementing experts.
+h. List of inspection procedures and
+equipment.
+
+--- Halaman 18 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 18 of 20
+Membaca, meneliti dan
+menugaskan Kasubdit
+Rekomendasi dan
+untuk diproses lanjut atau Disposisi, surat permohonan dan dokumen
+disposisi.
+memberi catatan. teknis.
+2 1 Recommendation
+Read, research and assign Disposition, letter of application and technical
+s and
+the Sub-Directorate for documents.
+dispositions.
+further processing or giving
+notes.
+Membaca, meneliti dan
+menugaskan Kasie untuk Rekomendasi dan
+Disposisi Kasubdit, surat permohonan dan
+diselesaikan atau memberi disposisi.
+dokumen teknis.
+3 catatan. 1 Recommendation
+Disposition of the Sub-Directorate, application
+Read, research and assign s and
+letter and technical documents.
+Kasie to complete or give dispositions.
+notes.
+Membaca, meneliti dan
+menugaskan Staf untuk
+mengevaluasi kelengkapan
+dokumen dan mengatur Rekomendasi dan
+Disposisi Kasie, surat permohonan dan
+pelaksanaan pemeriksaan disposisi.
+dokumen teknis.
+4 keselamatan. Recommendation
+Kasie's disposition, application letter and
+Read, research and assign s and
+technical documents.
+Staff to evaluate the dispositions.
+completeness of documents
+and arrange the conduct of
+safety checks.
+
+--- Halaman 19 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 19 of 20
+Mengevaluasi kelengkapan
+dokumen dan memastikan
+kesiapan di lokasi inspeksi
+serta membuat rencana
+pemeriksaan keselamatan. Dokumen teknis. Hasil evaluasi.
+5 1
+Evaluate the completeness Technical Documents Evaluation results
+of documents and ensure
+readiness at the inspection
+site and create a safety
+inspection plan.
+Konsep
+rekomendasi
+(Surat Tugas
+Membaca, memverifikasi, atau Surat
+mengoreksi, menyetujui Y Jawaban).
+Dokumen teknis.
+6 konsep. 1 The concept of
+Technical Documents
+Read, verify, correct, recommendation
+approve drafts. (Letter of
+T Assignment or
+Letter of
+Answer).
+Nota Dinas dan
+Mengevaluasi konsep Surat Konsep
+Tugas Pemeriksaan Rekomendasi.
+Keselamatan Dokumen teknis.
+7 Official
+Evaluating the concept of a Technical Documents Memorandum
+Safety Inspection Task and
+Letter Recommendation
+Concept.
+Y
+
+--- Halaman 20 ---
+
+Doc No. TGI-WP-07-37-01
+Version / Rev. 0
+PROSEDUR IJIN OPERASI
+LICENSE TO OPERATE PROCEDURE
+Page Page 20 of 20
+T
+Memutuskan untuk Y
+menerbitkan atau menolak
+Dokumen teknis.
+8 konsep. 1
+Technical Documents
+Decide to publish or reject
+the concept. T
+Surat Tugas atau
+Surat Jawaban.
+Persetujuan atau
+9 penolakan. Rekomendasi. Letter of
+Recommendation Assignment or
+Consent or refusal. Letter of Reply.
+Berita Acara hasil
+pemeriksaan
+Melaksanakan Pemeriksaan keselamatan atau
+Surat Tugas atau Surat Jawaban.
+10 Keselamatan 4 Tindak Lanjut
+Letter of Assignment or Letter of Reply.
+Carrying out Safety Checks Report of safety
+inspection results
+or follow-up

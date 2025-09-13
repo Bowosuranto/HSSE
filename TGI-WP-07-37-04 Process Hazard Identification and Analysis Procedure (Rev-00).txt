@@ -1,0 +1,2771 @@
+
+
+--- Halaman 1 ---
+
+Dokumen Tidak Dikendalikan, apabila dicetak
+Document uncontrolled when printed
+PT TRANSPORTASI GAS INDONESIA Doc. No. : TGI-WP-07-37-04
+Page : Page 1 of 49
+PROSEDUR ANALISIS BAHAYA PROSES
+PROCESS HAZARD ANALYSIS PROCEDURE
+KENDALI DOKUMENTASI/ DOCUMENT CONTROL
+Manual ini dikelola di bawah kendali Departemen Facilty Integrity. Tiap perubahan dan pertanyaan terkait
+dengan dokumen ini, silakan kontak ke Phone Extension 64000.
+This Manual is managed under Facility Integrity Department. Any changes and question to this document please
+contact Phone Extension 64000.
+Version
+Author Reviewed by Approved by
+/ Rev.
+Sign: Sign: Sign:
+00
+Name: M.Abdul Mudlil Name: Meizol Thabran Name: A.A.P Bagus Putra
+Position: Static Equipment Position: FID Manager Position: Act. Engineering
+Mechanical Engineer Date: 28 Desember 2022 Director
+Date: 28 Desember 2022 Date: Desember 2022
+
+--- Halaman 2 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 2 of 49
+LEMBAR PERUBAHAN DOKUMEN
+Document Record of Changes
+Versi Tanggal
+/ Rev. Perubahan/
+Perubahan Isi
+Ke – Penerbitan Alasan Perubahan
+(Point No. . . .)
+Version Date of Reason for Change
+Content No. . . . changed
+/ Rev. changes or
+No. reissue
+
+--- Halaman 3 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 3 of 49
+TABLE OF CONTENTS
+DAFTAR ISI
+No Description Page
+1 Purpose ………………………………………………………………………………………………………………………… 6
+Tujuan
+2 Scope …………………………………………………………………………………………………………………………… 6
+Ruang Lingkup
+2.1 General ………………………………………………………………………………………………………………………… 6
+Umum
+2.2 PHA Time and Frequency ………………………………………………………………………………………………. 7
+Waktu dan Frekuensi PHA
+3 Definision……………………………………………………………………………………………………………………… 7
+Definisi
+4. Reference ……………………………………………………………………………………………………………………… 8
+Referensi
+5 Procedure ……………………………………………………………………………………………………………………… 8
+Prosedur
+5.1 Managements Resposibiliries …………………………………………………………………………………………… 8
+Tanggung Jawab Management
+5.1.1 Operation Director ……………………………………….……………………………………………………………….. 8
+5.1.2 Engineering Director ……………………………………………………………………………………………………… 8
+5.1.3 Regional Office Manager ……………...………………………………………………………………………………… 9
+5.1.4 Facility Integrity Manager ……………………………………………………………………………………………….. 9
+5.1.5 Pipeline Integrity Manager ………………………………………………………………………………………………. 10
+5.1.6 Project Management Office Manager…………………………………………………………………………………. 10
+5.1.7 Sb Komite PHA ………………………………………………………………………………………………………………. 11
+5.1.8 Team PHA……………………………………………………………………………………………………………………… 11
+5.2 Types of PHA Studies ……………………………………………………………………………………………………… 11
+Jenis Studi PHA
+5.2.1 PHA Study for New Network Facilities ………………………………………………………………………… 11
+Studi PHA untuk Fasilitas Jaringan baru
+
+--- Halaman 4 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 4 of 49
+5.2.2 PHA Study for Change …………………………………………………………………………………………………… 12
+Studi PHA untuk perubahan (Management of Change)
+5.2.3 PHA studies for network facilities that are already in operation …………………………………………. 12
+Studi PHA untuk fasilitas jaringan yang sudah beroperasi
+5.2.4 PHA studies for Facilities that are no longer utilized and/or will be dismantled …………………….. 12
+Studi PHA untuk Fasilitas yang tidak dimanfaatkan lagi dan/atau akan dibongkar
+5.2.5 PHA studies for specific cases within Incident Investigations ………………………………………………. 13
+Studi PHA untuk kasus tertentu di dalam Investigasi Insiden
+5.3 Overview proses PHA ……………………………………………………………………………………………………… 13
+PHA process overview
+5.4 Planning and Preparation ……………………………………………………………………………………………….. 13
+Perencanaan dan Persiapan
+5.4.1 Decree ………………………………………………………………………………………………………………………….. 14
+Surat Keputusan
+5.4.2 PHA Team Selection and Training ……………………………………………………………………………………. 14
+Pemilihan dan Pelatihan Tim PHA
+5.4.3 Team Preparation …………………………………………………………………………………………………………... 16
+Persiapan Tim
+5.4.4. Review of information from Process Safety Information and other sources ………………………….. 17
+Review informasi dari Process Safety Information dan sumber lainnya
+5.5 Hazard Identification ………………………………………………………………………………………………………. 18
+Identifikasi Bahaya
+5.5.1 Hazard identification techniques ………………………………………………………………………………………. 18
+Teknik teknik identifikasi bahaya
+5.5.2 Field-Tour …………………………………………………………………………………………………………………….. 18
+Tur Lapangan
+5.6 Consequence Analysis ……………………………………………………………………………………………………. 19
+Analisa Konsekuensi
+5.6.1 Condition ………………………………………………………………………………………………………………………. 19
+Persyaratan
+5.6.2 Approach ……………………………………………………………………………………………………………………… 20
+Pendekatan
+5.7 Hazard Evaluation ………………………………………………………………………………………………………….. 21
+Evaluasi Bahaya
+5.7.1 Condition 22
+Persyaratan
+5.7.2 Approach 22
+Pendekatan
+5.8 Human Factors ………………………………………………………………………………………………………………. 24
+Faktor Manusia
+5.8.1 Condition ……………………………………………………………………………………………………………………… 24
+Persyaratan
+5.8.2 Approach ……………………………………………………………………………………………………………………….. 24
+Pendekatan
+5.9 Facility Siting 26
+5.9.1 Condition ………………………………………………………………………………………………………………………. 27
+Persyaratan
+5.9.2 Approach ………………………………………………………………………………………………………………………. 27
+Pendekatan
+
+--- Halaman 5 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 5 of 49
+5.10 Inherently Safer Process (ISP) ………………………………………………………………………………………… 27
+5.10.1 Condition ………………………………………………………………………………………………………………………. 27
+Persyaratan
+5.10.2 Approach ………………………………………………………………………………………………………………………. 27
+Pendekatan
+5.11 Create and Manage Recommendations ……………………………………………………………………………. 28
+Membuat dan Mengelola Rekomendasi
+5.11.1 Risk Analysis of PHA findings ………………………………………………………………………………………….. 28
+Analisa Risiko dari temuan temuan PHA
+5.11.2 Making Recommendations and Improvement Opportunities ………………………………………………. 29
+Membuat Rekomendasi dan Peluang Perbaikan
+5.11.3 Documenting Recommendations …………………………………………………………………………………….. 29
+Mendokumentasikan Rekomendasi
+5.11.4 Management's Response to Recommendations …………………………………………………………………. 29
+Respond Manajemen Terhadap Rekomendasi
+5.11.5 Follow-up Recommendations ………………………………………………………………………………………….. 30
+Tindak Lanjut Rekomendasi
+5.12 PHA documentation ……………………………………………………………………………………………………….. 32
+Dokumentasi PHA
+5.12.1 PHA Final Report Objectives …………………………………………………………………………………………… 32
+Tujuan Laporan Akhir PHA
+5.12.2 General Matters Regarding The Final Report …………………………………………………………………….. 32
+Hal Umum Mengenai Laporan Akhir
+5.12.3 Final Report Distribution …………………………………………………………………………………………………. 32
+Distribusi Laporan Akhir
+5.12.4 Final Report Format ……………………………………………………………………………………………………….. 32
+Format Laporan Akhir
+5.12.5 Communication of PHA Findings and Recommendations ……………………………………………………. 32
+Komunikasi Temuan dan Rekomendasi PHA
+5.13 Management System ……………………………………………………………………………………………………… 33
+Sistem Manajemen
+5.13.1 Report ………………………………………………………………………………………………………………………….. 33
+Laporan
+5.13.2 Audit …………………………………………………………………………………………………………………………….. 33
+5.13.3 Standard PHA Proces Review …………………………………………………………………………………………… 33
+Proses Review Standard PHA
+5.13.4 Deviation Process …………………………………………………………………………………………………………… 33
+Proses Deviasi
+5.13.5 Training and Communication …………………………………………………………………………………………… 33
+Pelatihan dan Komunikasi
+5.13.6 Contact …………………………………………………………………………………………………………………………. 33
+Kontak
+6 Report Form 33
+Formulir Laporan
+7 PHA Study Flowchart 33
+Diagram Alir Studi PHA
+Lampiran A – Kualifikasi Tenaga Ahli PHA/ PHA Expert Qualifications 44
+Lampiran B – HAZID (What-if) Worksheet 45
+Lampiran C – HAZOP Worksheet 46
+Lampiran D – FMEA Worksheet 48
+Lampiran E – Risk Assessment Matrix 49
+
+--- Halaman 6 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 6 of 49
+1. GENERAL PURPOSE 1. TUJUAN UMUM
+Standards for conducting Process Hazard Analysis Prosedur ini memberikan petunjuk dan standard dalam
+(PHA). PHA is used to identify, evaluate, and develop melakukan Process Hazard Analysis (PHA). PHA
+methods for managing hazards assembled processes digunakan untuk identifikasi, evaluasi dan
+and malicious operations. These hazards generally mengembangkan metode untuk mengelola hazard
+include potentials that can cause fires, explosions, terakit proses dan operasi berbahaya. Hazard ini secara
+unwanted or uncontrolled chemical reactions, and the umum mencakup potensi yang dapat menyebabkan
+release of chemical energy. kebakaran, ledakan, reaksi kimia yang tidak diinginkan
+atau tidak terkontrol dan terlepasnya energi bahan
+kimia.
+PHA is an organized methodical approach, to achieving PHA merupakan pendekatan metodik yang terorganisir,
+multidisciplinary consensus in managing hazards and untuk mencapai konsensus dari multi disiplin ilmu dalam
+documenting study results for emergency response mengelola hazard, dan mendokumentasikan hasil studi
+planning, training personnel related to facility untuk perencanaan tanggap darurat, pelatihan personil
+operations and maintenance, and following up on yang terkait operasi dan pemeliharaan fasilitas, dan
+existing findings. PHA activities include hazard menindaklanjuti temuan yang ada. Aktifitas PHA
+identification, Consequence Analysis, Hazard mencakup identifikasi hazard, Consequence Analysis,
+Evaluation, interlock evaluation, Human Factor Hazard Evaluation, interlock evaluation, Human Factor
+evaluation, Facility Siting evaluation, Inherently Safer evaluation, Facility Siting evaluation, Inherently Safer
+Process (ISP) evaluation, and developing Process (ISP) evaluation dan mengembangkan
+recommendations rekomendasi.
+2. SCOPE 2. RUANG LINGKUP
+This procedure provides instructions and conditions for Prosedur ini memberikan petunjuk dan persyaratan
+conducting Process Hazard Identification and Analysis untuk melakukan Process Hazard Identification and
+(PHA) at the PT Transportasi Gas Indonesia (TGI) Analysis (PHA) di Fasilitas PT Transportasi Gas
+Facility. Any organizational function present in TGI Indonesia (TGI). Setiap fungsi organisasi yang ada di
+understands that regulations issued by government TGI memahami bahwa regulasi yang diterbitkan
+agencies may apply conditions that are not mentioned lembaga pemerintah dapat menerapkan persyaratan
+in this procedure. If this happens, then the most yang tidak disebutkan di prosedur ini. Jika hal ini terjadi,
+stringent Conditions apply. maka persyaratan yang paling ketat yang berlaku.
+2.1. General 2.1. Umum
+PHA is an effective tool for identifying, evaluating and PHA merupakan tool yang efektif untuk identifikasi,
+managing hazards at various levels and times evaluasi dan mengelola hazard di berbagai tingkatan
+throughout the TGI gas distribution process. PHA dan waktu sepanjang proses distribusi gas TGI. PHA
+should be performed on: harus dilakukan pada:
+ New facility: Project PHA.  Fasilitas baru: Project PHA.
+ Existing facilities: PHA Baseline and PHA  Fasilitas yang sudah ada: Baseline PHA dan
+Revalidation. Revalidasi PHA.
+ Facilities that were discontinued operations.  Fasilitas yang dihentikan operasinya.
+Note: The process area is likely to store Catatan: Area proses kemungkinan menyimpan
+hazardous chemicals, kinetic energy, thermal bahan kimia berbahaya, energi kinetik, energi
+energy, potential danger to breathing, etc. panas, potensi bahaya terhadap pernafasan, dll.
+ Dismantled facilities.  Fasilitas yang dibongkar.
+ Newly purchased facilities  Fasilitas yang baru dibeli.
+Other areas where PHAs can (but are not mandatory) Area lain yang mana PHA dapat (namun tidak wajib)
+to be effectively applied to identify and implement untuk diaplikasikan secara efektif untuk mengidentifikasi
+hazard evaluations include the following: dan melaksanakan hazard evaluation mencakup hal
+ Management of Change (MoC) related activities, berikut:
+including changes to the facilities and processes • Aktifitas terkait Management of Change (MoC),
+covered by the MoC. termasuk perubahan pada fasilitas dan proses
+ Incident Investigation. yang tercakup di MoC.
+ Recommendations of an audit. • Incident Investigation.
+• Rekomendasi suatu audit.
+
+--- Halaman 7 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 7 of 49
+PHA methodology should be applied according to the Metodologi PHA harus diaplikasikan sesuai dengan
+scope of study. ruang lingkup studi.
+2.2. PHA Time and Frequency 2.2. Waktu dan frekuensi PHA
+To ensure the safety of the gas distribution process Untuk menjamin amannya proses distribusi gas sesuai
+according to PSM procedures, PHA must be prosedur PSM, PHA harus dilaksanakan sebelum fasilitas
+implemented before the new network facility at the jaringan baru di startup untuk dioperasikan.
+startup is to be operated.
+For facilities and pipelines that are already in operation Untuk fasilitas dan jaringan pipa yang sudah beroperasi
+but do not yet have a PHA, a PHA baseline should be namun belum mempunyai PHA, sebuah baseline PHA
+implemented as soon as this procedure is authorized harus dilaksanakan segera sesudah prosedur ini
+and validated. disahkan dan divalidasi.
+For newly acquired facilities or newly acquired joint- Untuk fasilitas yang baru diakusisi, atau fasilitas joint-
+venture facilities, they must have a PHA that meets the venture yang baru diakusisi, harus mempunyai PHA
+conditions of this procedure, within a period of fewer yang memenuhi persyaratan prosedur ini, dalam jangka
+than 3 years after acquisition. waktu kurang dari 3 tahun setelah akusisi.
+Throughout the operating life of a facility, PHA Sepanjang umur operasi suatu fasilitas, revalidasi PHA
+revalidation should be performed regularly with a harus dilakukan secara rutin dengan frekuensi tidak
+frequency of no more than once every five years. lebih dari lima tahun sekali.
+3. Definition 3. Definisi
+Consequence Analysis – An analysis that calculates the Consequence Analysis – Analisa yang menghitung
+worst impact of the consequences for the occurrence of dampak terburuk dari konsekuensi atas terjadinya
+hazards identified in hazard identification. bahaya yang teridentifikasi dalam identifikasi bahaya.
+Facility Siting – Evaluasi dari lokasi dan lay-out
+Facility Siting – Evaluation of the site and layout of the bangunan untuk melihat apakah bangunan yang
+building to see if the building occupied by humans and ditempati manusia dan peralatan penting aman pada
+essential equipment is safe in a dangerous situation. situasi yang berbahaya.
+Facilities– Facilities for funds or assets owned by TGI Fasilitas – Fasilitas dana atau asset yang dimiliki TGI
+to support TGI's operational activities. untuk menunjang kegiatan opersional TGI.
+Human Factors – Analysis of all aspects of human Human Factors – Analisa dari segala aspek
+knowledge, Conditions, and environment related to pengetahuan, kondisi dan lingkungan manusia yang
+routine operations and situations of berhubungan dengan operasi rutin dan keadaan
+danger/emergency. bahaya/darurat.
+Hazard Identification – The process of identifying Hazard Identification – Proses identifikasi bahaya yang
+hazards in and around the process consisting of ada didalam dan disekitar proses yang terdiri dari
+chemical hazards (including toxins and chemical bahaya kimia (termasuk racun dan reaksi kimia),
+reactions), mechanical, electrical, fire, heat, explosion, mekanik, listrik, api, panas, ledakan dan lain-lain.
+and others.
+Inherently Safer Process – A process that is inherently Inherently Safer Process – Proses yang secara inheren
+safe to operate and does not pose a hazard that must aman dioperasikan dan tidak menimbulkan bahaya yang
+be addressed through equipment modification and harus ditanggulangi melalui modifikasi peralatan dan
+special protection perlindungan perlindungan khusus.
+Hazard Evaluation – Process hazard analysis using Hazard Evaluation – Analisa bahaya proses dengan
+several methods such as What-If, FMEA, and HAZOP. menggunakan beberapa metode seperti What-If, FMEA
+dan HAZOP.
+
+--- Halaman 8 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 8 of 49
+Line of Defence – A way of lowering risk which can Line of Defence – Suatu cara menurunkan resiko yang
+prevent the release of a potential hazard or can mitigate mana cara tersebut dapat mencegah terlepasnya suatu
+the consequences that occur. potensi bahaya atau dapat memitigasi konsekuensi yang
+terjadi.
+Process Safety Management (PSM) – the application of Process Safety Management (PSM) – aplikasi kontrol dan
+control and management systems (e.g., programs, sistem managemen (misalnya program, prosedur, audit
+procedures, audits or evaluations) to a process in such atau evaluasi) untuk sebuah proses sedemikian rupa
+a way that potential process hazards are identified, sehingga potensi bahaya proses teridentifikasi,
+understood, and controlled so that injuries and dipahami, dan dikontrol sehingga cedera dan insiden
+incidents related to the process can be prevented. terkait dengan proses dapat dicegah.
+Tim PHA – Adalah Tim yang dibentuk Manajemen untuk
+PHA Team – Is a Team formed by Management to carry melaksanakan studi Process Hazard Analysis. Tim PHA
+out a Process Hazard Analysis study. This PHA team ini bertugas melakukan Study PHA terhadap fasilitas
+oversees conducting a PHA Study of the facilities to be yang akan dilakukan di-assess. Fasilitas yang akan di-
+assessed. The facility to be assessed can be in the form assess dapat berupa satu fasilitas atau beberapa
+of one facility or several facilities, where this assignment fasilitas, yang mana penugasan ini dinyatakan dalam
+is stated in the Decree (explained in point 5.4.1) of the Surat Keputusan (dijelaskan pada point 5.4.1)
+appointment of the PHA Team. The PHA Team's penunjukkan Tim PHA tersebut. Persyaratan kompetensi
+competency Conditionss are explained at point (5.4.2). Tim PHA dijelaskan pada point (5.4.2).
+4. Reference 4. Referensi
+a. Government Regulation of the Republic of a. Peraturan Pemerintah Republik Indonesia Nomor 50
+Indonesia Number 50 of 2012 concerning the Tahun 2012 Tentang Penerapan Sistem Manajemen
+Implementation of Occupational Safety and Health Keselamatan dan Kesehatan Kerja.
+Management System. b. Keputusan Menteri Tenaga Kerja Nomor:
+b. Decree of the Minister of Manpower Number: KEP.187/MEN/1999 Tentang Pengendalian Bahan
+KEP.187 / MEN / 1999 concerning Control of Kimia Berbahaya Di Tempat Kerja.
+Hazardous Chemicals in the Workplace.
+c. OSHA 3132-2000. c. OSHA 3132-2000.
+d. ISO – 17776 2nd Ed. (2016) Petroleum & Natural d. ISO – 17776 2nd Ed. (2016) Petroleum & Natural
+Gas Industries, Offshore Production Installations, Gas Industries, Offshore Production Installations,
+Guidelines on Tools and Techniques for Hazard Guidelines on Tools and Techniques for Hazard
+Identification and Risk Assessment Identification and Risk Assessment
+5. Procedure 5. Prosedur
+5.1 Management Responsibilities 5.1. Tanggung Jawab Management
+5.1.1. Operation Director 5.1.1. Operation Director
+Responsible for demonstrating leadership and Bertanggung jawab mendemonstrasikan kepemimpinan
+commitment to the ARC program, providing resources dan komitmen terhadap program PHA, memberikan
+(availability of personnel and budget), and evaluating sumber daya (ketersediaan personil serta anggaran) dan
+program effectiveness by building audits of PHA mengevaluasi efektifitas program dengan membangun
+activities and results. audit terhadap aktifitas PHA dan hasilnya.
+In addition, the Operation Director is also responsible for Selain itu Operation Director juga bertanggung jawab
+completing the PHA according to the planned time and untuk menyelesaikan PHA sesuai waktu yang
+implementing the PHA recommendations received. direncanakan dan mengimplementasikan rekomendasi
+PHA yang diterima.
+The Operation Director and/or Engineering Director is Operation Director dan / atau Engineering Director
+responsible for issuing a formal Decree (SK) as the basis bertanggung jawab untuk mengeluarkan Surat
+for teamwork. Keputusan (SK) formal sebagai dasar kerja tim.
+5.1.2. Engineering Director 5.1.2. Engineering Director
+Responsible for demonstrating leadership and Bertanggung jawab mendemonstrasikan kepemimpinan
+commitment to the PHA program, providing resources dan komitmen terhadap program PHA, memberikan
+
+--- Halaman 9 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 9 of 49
+(personnel availability and budget) required by the sumber daya (ketersediaan personil serta anggaran)
+Operations Directorate and evaluating program yang diperlukan oleh Operation Directorate dan
+effectiveness by building an audit of PHA activities and mengevaluasi efektifitas program dengan membangun
+their results. audit terhadap aktifitas PHA dan hasilnya.
+In addition, the Engineering Director is also responsible Selain itu Engineering Director juga bertanggung jawab
+for completing the PHA according to the planned time untuk menyelesaikan PHA sesuai waktu yang
+and implementing the PHA recommendations received. direncanakan dan mengimplementasikan rekomendasi
+PHA yang diterima.
+The Engineering Director and/or Engineering Director is Engineering Director dan/atau Engineering Director
+responsible for issuing a formal Decree (SK) as the basis bertanggung jawab untuk mengeluarkan Surat
+for teamwork. Keputusan (SK) formal sebagai dasar kerja tim.
+5.1.3. Regional Officer Manager 5.1.3. Regional Officer Manager
+The Regional Office Manager is responsible for Regional Office Manager bertanggung jawab
+implementing a good PHA program in the Facilities area mengimplementasikan program PHA yang baik di area
+under his responsibility, such as: Fasilitas yang berada di bawah tanggung jawabnya,
+yaitu:
+• Coordinates with the Facility Integrity Manager • Berkoordinasi dengan Facility Integrity Manager
+and/or Pipeline Integrity Manager to determine dan/atau Pipeline Integrity Manager untuk
+PHA schedules in the Facilities and Pipelines under menentukan jadwal PHA di Fasilitas dan Pipeline
+their responsibility. yang berada di bawah tanggung jawabnya.
+• Provide resources (personnel availability and • Menyediakan sumber daya (ketersediaan personil
+budget) to complete the PHA on a planned time dan anggaran) untuk menyelesaikan PHA sesuai
+and implement the PHA recommendations. waktu yang direncanakan dan
+mengimplementasikan rekomendasi PHA.
+ Ensure personnel are affected by the process, get • Memastikan personil yang terpengaruh dengan
+the opportunity to get involved and provide input. proses, mendapatkan kesempatan untuk terlibat
+dan memberikan masukan.
+ Provide adequate resources to the PHA Team, • Memberikan sumber daya yang memadai kepada
+including creating provisions that allow team Tim PHA, termasuk membuat ketentuan yang
+members to attend and participate in PHA memungkinkan anggota tim untuk hadir dan
+meetings. berpartisipasi pada meeting PHA.
+ Supervise related to progress of the PHA Team's • Mengawasi perkembangan kinerja Tim PHA.
+performance.
+ Provide input on recommendations made by the • Memberikan masukan terhadap rekomendasi yang
+PHA Team. dibuat oleh Tim PHA.
+ Provide adequate resources and priorities to • Memberikan sumber daya dan prioritas yang
+implement the PHA recommendations, as per the memadai untuk mengimplementasikan
+agreed time. rekomendasi PHA, sesuai waktu yang disepakati.
+ Supervise recommendations to help ensure • Mengawasi rekomendasi untuk membantu
+appropriate completion, with predetermined memastikan penyelesaian yang sesuai, dengan
+deadlines. tenggat waktu yang telah ditentukan.
+ Communicate PHA results to affected personnel. • Mengkomunikasikan hasil PHA kepada personil
+yang terpengaruh.
+5.1.4. Facility Integrity Manager 5.1.4. Facility Integrity Manager
+The Facility Integrity Manager is responsible for Facility Integrity Manager bertanggung jawab
+implementing the PHA program in the Facility areas mengimplementasikan program PHA di area Fasilitas
+under his responsibility, such as: yang berada di bawah tanggung jawabnya, yaitu:
+ Maintain the PHA that is being created in • Menjaga PHA yang sedang dibuat sesuai dengan
+accordance with this PHA procedure. prosedur PHA ini.
+ Coordinate with the Regional Office Manager to • Berkoordinasi dengan Regional Office Manager
+determine the PHA schedule at the TGI Facility. untuk menentukan jadwal PHA di Fasilitas TGI.
+ Ensure personnel are affected by the process, get • Memastikan personil yang terpengaruh dengan
+the opportunity to get involved and provide input. proses, mendapatkan kesempatan untuk terlibat
+dan memberikan masukan.
+
+--- Halaman 10 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 10 of 49
+ Supervise related to progress of the PHA Team's • Mengawasi perkembangan kinerja Tim PHA.
+performance. • Memberikan sumber daya yang memadai kepada
+ Provide adequate resources to the PHA Team, Tim PHA, termasuk membuat ketentuan yang
+including creating provisions that allow team memungkinkan anggota tim untuk hadir dan
+members to attend and participate in PHA berpartisipasi pada meeting PHA.
+meetings. • Memberikan masukan terhadap rekomendasi yang
+ Provide input on recommendations made by the dibuat oleh Tim PHA.
+PHA Team. • Memberikan sumber daya dan prioritas yang
+ Provide adequate resources and priorities to memadai untuk mengimplementasikan
+implement the PHA recommendations, as per the rekomendasi PHA, sesuai waktu yang disepakati.
+agreed time  Mengawasi rekomendasi untuk membantu
+ Supervise recommendations to help ensure memastikan penyelesaian yang sesuai, dengan
+appropriate completion, with predetermined tenggat waktu yang telah ditentukan.
+deadlines. • Mengkomunikasikan hasil PHA kepada personil
+ Communicate PHA results to affected personnel. yang terpengaruh.
+5.1.5. Pipeline Integrity Manager 5.1.5. Pipeline Integrity Manager
+The Pipeline Integrity Manager is responsible for Pipeline Integrity Manager bertanggung jawab
+implementing PHA programs on pipeline lines that are mengimplementasikan program PHA di jalur Pipeline
+under its responsibility, namely: yang berada di bawah tanggung jawabnya, yaitu:
+ Maintain the PHA that is being created in • Menjaga PHA yang sedang dibuat sesuai dengan
+accordance with this PHA procedure. prosedur PHA ini.
+ Coordinate with the Regional Office Manager to • Berkoordinasi dengan Regional Office Manager
+determine the PHA schedule in Pipeline TGI. untuk menentukan jadwal PHA di PipelineTGI.
+ Ensure personnel are affected by the process, get • Memastikan personil yang terpengaruh dengan
+the opportunity to get involved and provide input. proses, mendapatkan kesempatan untuk terlibat dan
+memberikan masukan.
+ Supervise related to the progress of the PHA • Mengawasi perkembangan kinerja Tim PHA.
+Team's performance.
+ Provide adequate resources to the PHA Team, • Memberikan sumber daya yang memadai kepada
+including creating provisions that allow team Tim PHA, termasuk membuat ketentuan yang
+members to attend and participate in PHA memungkinkan anggota tim untuk hadir dan
+meetings. berpartisipasi pada meeting PHA.
+ Provide input on recommendations made by the • Memberikan masukan terhadap rekomendasi yang
+PHA Team. dibuat oleh Tim PHA.
+ Provide adequate resources and priorities to • Memberikan sumber daya dan prioritas yang
+implement the PHA recommendations, as per the memadai untuk mengimplementasikan rekomendasi
+agreed time. PHA, sesuai waktu yang disepakati.
+ Monitor recommendations to help ensure • Mengawasi rekomendasi untuk membantu
+completion that meets predetermined deadlines. memastikan penyelesaian yang sesuai dengan
+tenggat waktu yang telah ditentukan.
+ Communicate PHA results to affected personnel. • Mengkomunikasikan hasil PHA kepada personil yang
+terpengaruh.
+5.1.6. Project Management Office Manager 5.1.6. Project Management Office Manager
+In accordance with the recommendations of the Sesuai dengan rekomendasi dari Regional Manager,
+Regional Manager, Facility Integrity Manager, Pipeline Facility Integrity Manager, Pipeline Integrity Manager,
+Integrity Manager, PHA Sub-Committee and PHA team, Sub Komite PHA dan tim PHA, Project Management
+the Project Management Office Manager should Office Manager harus mengimplementasikan program
+implement the PHA program in the project areas under PHA di area proyek yang berada di bawah tanggung
+his responsibility, such as: jawabnya, yaitu:
+ Maintain the PHA that is being created in • Menjaga PHA yang sedang dibuat sesuai dengan
+accordance with this PHA procedure. prosedur PHA ini.
+ Create a PHA schedule in the project. • Membuat jadwal PHA di proyek.
+ Ensure personnel are affected by the process, get • Memastikan personil yang terpengaruh dengan
+the opportunity to get involved and provide input. proses, mendapatkan kesempatan untuk terlibat
+dan memberikan masukan.
+
+--- Halaman 11 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 11 of 49
+ Supervise related to the progress of the PHA • Mengawasi perkembangan kinerja Tim PHA.
+Team's performance.
+ Provide adequate resources to the PHA Team, • Memberikan sumber daya yang memadai kepada
+including creating provisions that allow team Tim PHA, termasuk membuat ketentuan yang
+members to attend and participate in PHA memungkinkan anggota tim untuk hadir dan
+meetings. berpartisipasi pada meeting PHA.
+ Provide input on recommendations made by the • Memberikan masukan terhadap rekomendasi yang
+PHA Team. dibuat oleh Tim PHA.
+ Provide adequate resources and priorities to • Memberikan sumber daya dan prioritas yang
+implement the accepted PHA recommendations, as memadai untuk mengimplementasikan
+per the agreed time. rekomendasi PHA yang diterima, sesuai waktu
+yang disepakati.
+ Give approval to changes in content, timing, and • Memberikan persetujuan pada perubahan isi,
+personnel responsible for existing PHA waktu dan personil yang bertanggung jawab
+recommendations. terhadap rekomendasi PHA yang ada.
+ Keep an eye on recommendations to help ensure • Mengawasi rekomendasi untuk membantu
+completion that fits the deadline. memastikan penyelesaian yang sesuai dengan
+tenggat waktu.
+ Communicate PHA results to affected personnel. • Mengkomunikasikan hasil PHA kepada personil
+yang terpengaruh.
+5.1.7. PHA Sub Committee 5.1.7. Sub Komite PHA
+The PHA Sub Committee is responsible for maintaining Sub Komite PHA bertanggung jawab untuk menjaga
+this procedure, planning the PHA program, establishing prosedur ini, merencanakan program PHA, membentuk
+a PHA Team, overseeing the implementation of the PHA Tim PHA, mengawasi pelaksanaan Studi PHA dan
+Study and the completion of its recommendations. The penyelesaian rekomendasinya. Ketua dan anggota Sub
+Chairman and members of this Sub-Committee must Komite ini harus memiliki pengetahuan yang luas
+have extensive knowledge of the PHA and be able to mengenai PHA dan mampu memberikan bimbingan
+provide guidance to the team or personnel conducting kepada tim atau personil yang melakukan PHA.
+the PHA.
+The PHA Sub-Committee is also responsible for ensuring Sub Komite PHA juga bertanggung jawab memastikan
+that PHA procedures are maintained continuously and prosedur PHA ini terjaga terus-menerus dan
+establishing a system to oversee recommendations to be membangun sistem untuk mengawasi rekomendasi agar
+completed within agreed deadlines. diselesaikan sesuai tenggat waktu yang disepakati.
+The PHA Sub-Committee must also conduct periodic Sub Komite PHA juga harus melakukan audit
+audits of the implementation of the PHA program to pelaksanaan program PHA secara periodik untuk
+ensure that the PHA program runs well and the PHA memastikan program PHA berjalan dengan baik dan
+carried out is of good quality. PHA yang dilakukan mempunyai kualitas yang baik.
+5.1.8 Team PHA 5.1.8. Tim PHA
+It is a team formed to carry out PHA Studies and Merupakan tim yang dibentuk untuk melaksanakan
+generally consists of cross-functional teams such as Studi PHA dan pada umumnya terdiri dari cross-
+operations, engineering, and maintenance. functional tim seperti operasi, engineering dan
+pemeliharaan.
+The PHA team is responsible for carrying out the PHA Tim PHA bertanggung jawab untuk melaksanakan Studi
+Study according to the schedule set by the PHA Sub- PHA sesuai jadwal yang telah ditetapkan Sub Komite
+Committee. The task of the PHA Team ends when the PHA. Tugas dari Tim PHA berakhir apabila temuan
+findings of the study are presented to management and temuan studi dipresentasikan kepada manajemen dan
+given answers by management. diberi jawaban oleh manajemen.
+5.2 Types of PHA Studies 5.2. Jenis Studi PHA
+5.2.1 PHA Study for New Network Facilities 5.2.1. Studi PHA untuk Fasilitas Jaringan Baru
+TGI must carry out Process Hazard Analysis as early as TGI harus melaksanakan Process Hazard Analysis sedini
+possible in project planning and design to identify mungkin di dalam perencanaan dan disain proyek untuk
+
+--- Halaman 12 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 12 of 49
+hazards, so that there is not much change in the scope mengidentifikasi bahaya, sehingga tidak terjadi banyak
+of work in the future. perubahan ruang lingkup pekerjaan dikemudian hari.
+The PHA planning and design phase must have been PHA tahap perencanaan dan disain harus sudah
+completed, authorized, and documented prior to project diselesaikan, diotorisasi dan didokumentasikan sebelum
+commissioning. This PHA study becomes the PHA commissioning project. Studi PHA ini menjadi baseline
+baseline for the facility or pipeline in question. PHA untuk fasilitas atau pipeline yang bersangkutan.
+5.2.2. PHA Study for Change in Process Safety 5.2.2. Studi PHA untuk perubahan (Management of
+Management Change) pada Process Safety Management
+TGI must implement PHA in the event of a change in the TGI harus melaksanakan PHA apabila terjadi perubahan
+PSM element. This PHA study is required as a condition pada elemen PSM. Studi PHA ini diperlukan sebagai
+for issuing authorization and permission for changes to syarat dikeluarkannya otorisasi dan ijin untuk perubahan
+occur. yang terjadi.
+5.2.3. PHA studies for Network Facilities that are 5.2.3. Studi PHA untuk fasilitas jaringan yang
+Already in Operation sudah beroperasi
+5.2.3.1 Baseline PHA 5.2.3.1 Baseline PHA
+The PHA baseline is an initial review that is the Baseline PHA adalah reviu awal yang merupakan
+foundation for future PHA revalidation. Baseline PHA pondasi untuk revalidasi PHA di masa mendatang.
+should be carried out in depth, intensively, Baseline PHA harus dilakukan secara mendalam,
+systematically, and completely, in accordance with this intensif, sistematik dan lengkap, sesuai dengan prosedur
+procedure. ini.
+PHA baseline should be done in accordance with the Baseline PHA harus dilakukan sesuai dengan Process
+current Process Safety Information. Safety Information yang terkini.
+5.2.3.2 PHA Revalidation Frequency 5.2.3.2 Frekuensi Revalidasi PHA
+After the PHA baseline is performed, the PHA Setelah baseline PHA dilakukan, frekuensi revalidasi PHA
+revalidation frequency must be determined and harus ditentukan dan didokumentasikan untuk
+documented to determine the schedule. The frequency menentukan jadwalnya. Frekuensi revalidasi PHA harus
+of PHA revalidation should be consistent with the konsisten dengan potensi bahaya proses dan juga
+potential hazards of the process as well as existing peraturan yang ada.
+regulations.
+The frequency of revalidation must be performed at Frekuensi revalidasi harus dilakukan minimum sekali
+least once in five years, calculated from the date on dalam lima tahun, dihitung dari tanggal di mana Tim
+which the PHA Team signed the completion of the PHA PHA menandatangan penyelesaian laporan baseline PHA
+baseline report or previous PHA revalidation. atau revalidasi PHA sebelumnya.
+Consideration should be given to shorten the frequency Pertimbangan harus diberikan untuk mempersingkat
+of revalidation to less than five years for processes that frekuensi revalidasi menjadi kurang dari lima tahun
+experience many PSM incidents, have the potential for untuk proses yang mengalami banyak insiden PSM,
+extreme hazards or undergo many changes in the PSM. mempunyai potensi bahaya yang ekstrim atau banyak
+mengalami perubahan pada PSM.
+5.2.4. PHA studies for Facilities that are no longer 5.2.4. Studi PHA untuk Fasilitas yang tidak
+utilized and/or will be dismantled. dimanfaatkan lagi dan/atau akan dibongkar.
+To prevent hazards resulting from non-operation of a Untuk mencegah bahaya akibat tidak dioperasikannya
+TGI Facility, it is necessary to conduct a PHA to manage suatu Fasilitas TGI, perlu dilakukan PHA untuk
+the potential hazards that exist due to non-operation of mengelola potensi bahaya yang ada yang disebabkan
+the Facility. tidak dioperasikannya Fasilitas tersebut.
+Likewise, for the facility demolition process, it is also Demikian juga untuk proses pembongkaran Fasilitas,
+necessary to conduct a PHA to identify hazards related perlu juga dilakukan PHA untuk mengidentifikasi bahaya
+
+--- Halaman 13 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 13 of 49
+to demolition, and their relationship with the operation yang berhubungan dengan pembongkaran, dan juga
+of the facility that is still in operation. hubungannya dengan operasi Fasilitas yang masih
+beroperasi.
+5.2.5. PHA studies for specific cases within 5.2.5. Studi PHA untuk kasus tertentu di dalam
+Incident Investigations Investigasi Insiden
+If an incident investigation recommends a PHA Study at Jika investigasi insiden merekomendasikan Studi PHA
+a TGI Facility, the PHA Study should be conducted in pada suatu Fasilitas TGI, Studi PHA harus dilaksanakan
+accordance with those recommendations. sesuai dengan rekomendasi tersebut.
+5.3 Overview proses PHA 5.3 Overview proses PHA
+The steps of performing a PHA are generally divided into Langkah melakukan PHA secara umum dibagi menjadi
+ten steps, which are performed sequentially, as follows: sepuluh langkah, yang dilakukan secara berurutan,
+sebagai berikut:
+1. Planning and preparation for conducting a PHA. 1. Perencanaan dan persiapan untuk melakukan PHA.
+a. Issued an official Decree to the PHA Team. a. Mengeluarkan Surat Keputusan resmi untuk
+b. Selection and training of PHA Teams. Tim PHA.
+c. Team preparation and determining the b. Pemilihan dan pelatihan Tim PHA.
+schedule of PHA activities. c. Persiapan tim dan menentukan jadwal
+d. Review of Process Safety Information (PSI) aktifitas PHA.
+documents and other important information. d. Reviu dokumen Process Safety Information
+(PSI) dan informasi penting lainnya.
+2. Hazard Identification (HI). 2. Identifikasi bahaya (Hazard Identification – HI).
+a. Hazard identification techniques, using a a. Teknik identifikasi bahaya, menggunakan
+general hazard identification checklist. checklist identifikasi bahaya umum.
+b. Field-tour. b. Field-tour.
+3. Consequence Analysis. 3. Consequence Analysis.
+4. Hazard Evaluation: 4. Hazard Evaluation:
+a. Methodology selection (What-If, HAZOP, a. Pemilihan metodologi (What-If, HAZOP,
+FMEA) FMEA)
+b. Line of Defence Identification. b. Identifikasi Line of Defence.
+5. Evaluation of the interlock. 5. Evaluasi interlock.
+6. Human Factor Analysis. 6. Analisa Human Factor.
+7. Facility Siting Analysis. 7. Analisa Facility Siting.
+8. Inherently Safer Process Analysis. 8. Analisa Inherently Safer Process.
+9. Create and manage recommendations. 9. Membuat dan mengelola rekomendasi.
+a. Evaluate the risk of the identified hazards. a. Evaluasi resiko dari hazard yang
+b. Develop recommendations. teridentifikasi.
+c. Documenting recommendations. b. Mengembangkan rekomendasi.
+d. Respond management of the c. Mendokumentasikan rekomendasi.
+recommendations made. d. Respond management dari rekomendasi
+e. Follow up on recommendations. yang dibuat.
+e. Menindaklanjuti rekomendasi.
+10. PHA documentation. 10. Dokumentasi PHA.
+a. PHA Report a. Laporan PHA
+b. Communicate PHA results. b. Mengkomunikasikan hasil PHA.
+5.4 Planning and Preparation 5.4 Perencanaan dan Persiapan
+The PHA team must be formally determined by being Tim PHA harus ditentukan secara formal dengan
+stated in a Decree to appoint team members, provide dinyatakan dalam sebuah Surat Keputusan untuk
+resources and training to the team as needed, adjust menunjuk anggota tim, memberikan sumber daya dan
+team member priorities in accordance with the pelatihan kepada tim sesuai keperluan, menyesuaikan
+objectives of the PHA Study. Appropriate provisions prioritas anggota tim sesuai dengan tujuan Studi PHA.
+must be made by the leadership in the Engineering Ketentuan yang sesuai harus dibuat oleh pimpinan di
+Directorate or Operation Directorate so that members of Engineering Directorate atau Operation Directorate agar
+the PHA Team can attend and participate in PHA anggota Tim PHA dapat menghadiri dan berpartisipasi di
+
+--- Halaman 14 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 14 of 49
+meetings, including operators and mechanics, if meeting PHA, termasuk para operator dan mekanik, jika
+necessary. diperlukan.
+5.4.1 Decree 5.4.1 Surat Keputusan
+The Engineering Director or Operation Director must Engineering Director atau Operation Director harus
+give approval and issue a decree defining the memberikan persetujuan dan mengeluarkan surat
+responsibilities, duties of the team as well as the keputusan yang mendefinisikan tanggung jawab, tugas
+objectives of the PHA Study. A copy of the decree must tim serta tujuan dari Studi PHA. Salinan dari surat
+be attached to the PHA report. keputusan harus dilampirkan di laporan PHA.
+The Decree must include work schedules, process area Surat Keputusan harus mencakup jadwal kerja, batasan
+limitations, expectations, and other objectives, and this area proses, harapan, dan tujuan lainnya, dan hal ini
+should be expressed and clarified at the beginning of the harus diutarakan dan diperjelas di awal proses PHA agar
+PHA process so that the team can make good tim dapat melakukan persiapan yang baik (misalnya 6-
+preparations (e.g., 6-12 months before the PHA due 12 bulan sebelum tanggal jatuh tempo PHA).
+date).
+The Decree does not need to be applied to PHAs carried Surat Keputusan tidak perlu diterapkan untuk PHA yang
+out related to Management of Change activities. dilakukan terkait aktifitas Management of Change.
+5.4.2 PHA Team Selection and Training 5.4.2 Pemilihan dan Pelatihan tim PHA
+PID/FID/PMO The manager must select the team leader PID/FID/PMO Manager harus memilih pemimpin tim dan
+and his members and arrange the necessary training. anggotanya dan mengatur pelatihan yang diperlukan.
+5.4.2.1 Selection of PHA Team Members 5.4.2.1 Seleksi Anggota tim PHA
+The selection of team members should be based on the Pemilihan anggota tim harus berdasarkan keahlian yang
+skills needed for the area the PHA will undertake. dibutuhkan untuk area yang akan dilakukan PHA.
+The team consists of multi-disciplines. Team members Tim terdiri dari multi disiplin ilmu. Anggota tim harus
+should consist of individuals with the following expertise: terdiri dari individu dengan keahlian di bawah ini:
+ In-depth understanding of technology and • Pemahaman mendalam tentang teknologi dan
+basic science related to the operation of ilmu pengetahuan dasar terkait operasi dari
+processes and equipment, as well as proses dan peralatan, dan juga equipment
+equipment design base. design basis.
+ First-hand experience of the process or • Pengalaman langsung tentang proses atau
+operating system. This includes knowing how sistem operasi. Termasuk mengetahui
+the Facility should operate. bagaimana seharusnya Fasilitas beroperasi.
+ First-hand experience of maintenance • Pengalaman langsung tentang proses atau
+processes or systems. This includes knowing sistem pemeliharaan. Termasuk mengetahui
+how the Facility should be maintained. bagaimana seharusnya Fasilitas dipelihara.
+ In-depth training on the selection and • Pelatihan mendalam tentang pemilihan dan
+application of Hazard Evaluation methods or aplikasi metode Hazard Evaluation, atau
+having previous experience of the methods to mempunyai pengalaman sebelumnya tentang
+be used. These personnel can be the leaders metode yang akan digunakan. Personil ini
+of the PHA Team. dapat menjadi pimpinan Tim PHA.
+ Other knowledge and experience appropriate • Pengetahuan dan pengalaman lain yang sesuai
+to achieve PHA objectives (e.g., expertise on untuk mencapai tujuan PHA (misalnya keahlian
+mechanical integrity, instruments, etc.). tentang mechanical integrity, instrumen, dll).
+The PHA team must have permanent members who Tim PHA harus mempunyai anggota tetap yang
+participate in all PHA team activities, to achieve the berpartisipasi pada seluruh kegiatan tim PHA, untuk
+goals, set out in the Decree. This member may consist mencapai tujuan yang sudah ditetapkan dalam Surat
+of Supervisors, Technicians, Operators of the Operation Keputusan. Anggota ini dapat terdiri dari Supervisor,
+Directorate and/or Engineering Directorate Teknisi, Operator dari struktur organisasi Operation
+organizational structure, for which the PHA team Directorate dan/atau Engineering Directorate, yang
+members are not only responsible for their structural mana anggota tim PHA selain bertanggung jawab
+terhadap tugas strukturalnya, juga bertanggung jawab
+
+--- Halaman 15 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 15 of 49
+duties, but also responsible for the running of the PHA terhadap berjalannya Studi PHA yang menjadi tanggung
+Study for which they are responsible. jawabnya.
+Supervisors, Technicians, Operators, specialized Supervisor, Teknisi, Operator, tenaga ahli khusus dan
+experts, and consultants can be involved to achieve the konsultan dapat dilibatkan untuk mencapai tujuan dari
+objectives of the PHA Study. If circumstances do not Studi PHA. Jika keadaan tidak memungkinkan
+allow involving the same Technician or Operator during melibatkan Teknisi atau Operator yang sama selama
+the PHA process, multiple Technicians or Operators may proses PHA, beberapa Teknisi atau Operator dapat
+be used on a part-time basis to help ensure participation digunakan secara part-time untuk membantu
+of their functions. memastikan partisipasi dari fungsi mereka.
+But for other team members, it should be a permanent Namun untuk anggota tim yang lain, sebaiknya bersifat
+member. One permanent member of the team must be anggota tetap. Satu anggota tetap dari tim harus
+appointed to the leader of the PHA Team. At least one ditunjuk menjadi pimpinan Tim PHA. Paling tidak satu
+team member must have qualifications as a PHA expert anggota tim harus mempunyai kualifikasi sebagai
+and have qualifications from PHA experience and tenaga ahli PHA dan mempunyai kualifikasi dari
+training. pengalaman dan pelatihan PHA.
+Before selecting team members, workers at the Facility Sebelum memilih anggota tim, pekerja di Fasilitas yang
+to whom the PHA will be conducted should be notified akan dilakukan PHA harus diberitahu untuk memberikan
+to give them the opportunity to be selected as team kesempatan kepada mereka dipilih sebagai anggota tim,
+members, or to provide input on a variety of atau untuk memberikan masukan terhadap berbagai isu
+occupational safety issues or concerns that they think atau masalah terkait keselamatan kerja yang menurut
+the PHA Team should respond to. mereka harus ditanggapi oleh Tim PHA.
+The personnel of PHA Team members varies, depending Jumlah anggota Tim PHA bervariasi, tergantung
+on the needs and objectives of the PHA. In general, the kebutuhan dan tujuan PHA. Secara umum sebaiknya
+number of members should be 5 people for project PHA, jumlah anggota adalah 5 orang untuk PHA proyek,
+PHA baseline and PHA revalidation. baseline PHA dan revalidasi PHA.
+5.4.2.2 Team Members Training 5.4.2.2 Pelatihan Anggota Tim
+Adequate training The PHA team should be provided to Pelatihan yang memadai Tim PHA harus diberikan untuk
+help ensure good quality PHA analysis and reports. membantu memastikan kualitas analisa dan laporan PHA
+Training will be more effective if it is provided before the yang baik. Pelatihan akan lebih efektif jika diberikan
+PHA begins. sebelum PHA dimulai.
+PHA Team members should receive training on the use, Anggota Tim PHA harus mendapatkan pelatihan tentang
+application, and methodology of Hazard Evaluation. This penggunaan, aplikasi dan metodologi Hazard
+training should be documented in the PHA report. Evaluation. Pelatihan ini harus didokumentasikan di
+dalam laporan PHA.
+It is recommended that training overview of hazard Disarankan agar pelatihan overview prosedur dan
+evaluation procedures and methodology applications be aplikasi metodologi Hazard Evaluation dilakukan saat
+conducted at the beginning of the PHA process and awal proses PHA, dan diberikan oleh personil yang
+provided by personnel who are PHA experts or by other menjadi tenaga ahli PHA atau oleh sumber daya lain
+qualified resources conducting and providing PHA yang berkualifikasi melakukan dan memberikan
+training. pelatihan PHA.
+Once the training is provided, Team Members present at Setelah pelatihan diberikan, Anggota Tim yang hadir
+the training may be issued a Certificate from within TGI dalam pelatihan dapat diberikan Sertifikat dari internal
+or from a third party (training institution), however this TGI atau dari pihak ketiga (lembaga pelatihan), namun
+Certificate is not a must. The important thing to note is Sertifikat ini bukan suatu keharusan. Hal yang penting
+that team members could conduct PHA Studies in diperhatikan adalah bahwa anggota Tim mempunyai
+accordance with this procedure. kemampuan untuk melakukan Study PHA sesuai dengan
+prosedur ini.
+If TGI feels the need to invite a third party to assist in Jika TGI merasa perlu mengundang pihak ketiga untuk
+the implementation of the PHA Study, then TGI can membantu pelaksanaan Study PHA, maka TGI dapat
+
+--- Halaman 16 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 16 of 49
+invite a third party to become a PHA Study Facilitator. mengundang pihak ketiga untuk menjadi Fasilitator
+However, it is recommended that the Team Leader and Study PHA. Namun disarankan agar Ketua Tim dan Juru
+Typist from within TGI. Ketik dari internal TGI.
+5.4.3 Team Preparation 5.4.3 Persiapan Tim
+5.4.3.1 Review and Receive a Decree 5.4.3.1 Reviu dan Menerima Surat Keputusan
+The co-chair of the PHA Team members must clearly Ketua bersama anggota Tim PHA harus memahami
+understand the expectations placed on the Team. This dengan jelas harapan yang diberikan kepada Tim.
+discussion should include the limitations of the PHA Diskusi ini harus mencakup batasan Studi PHA (yaitu
+Study (i.e., which ones are covered, and which are not), mana yang tercakup dan mana yang tidak), jangka
+the timeframe for completion, whether Team members waktu penyelesaian, apakah anggota Tim bertanggung
+are responsible for communicating PHA results to jawab mengkomunikasikan hasil PHA ke orang-orang
+affected people, and what resources are provided for the yang terpengaruh, sumber daya apa saja yang
+Team to work with, who to contact if needed help and disediakan untuk Tim bekerja, siapa yang dihubungi jika
+how to prioritize conflicts. perlu bantuan dan bagaimana memprioritaskan konflik.
+5.4.3.2 Team Assignment and Work Schedules 5.4.3.2 Penugasan Tim dan Jadwal Kerja
+The PHA team should develop a plan to conduct the Tim PHA harus mengembangkan sebuah rencana untuk
+PHA, include the assignment of Team members, and melakukan PHA, mencakup penugasan anggota Tim,
+determine the overall timings for completing the PHA dan menentukan pengaturan waktu secara keseluruhan
+Study. untuk menyelesaikan Studi PHA.
+5.4.3.3 Team Responsibilities 5.4.3.3 Tanggung jawab Tim
+The Team Leader must do the following: Ketua Tim harus melakukan hal berikut:
+ Organizing PHA and working with PHA • Mengorganisasikan PHA dan bekerja sama
+experts (if held by different individuals) to dengan tenaga ahli PHA (jika dijabat oleh
+conduct studies using analytical methods individu yang berbeda) untuk melakukan studi
+consistently. menggunakan metode analisa secara
+ Direct team activities and activities. konsisten.
+ Maintain the depth of study and consistency • Mengarahkan kegiatan dan aktifitas Tim.
+of PHA Studies in accordance with the Decree • Menjaga kedalaman studi dan konsistensi Studi
+and applicable procedures. PHA sesuai Surat Keputusan dan prosedur yang
+ Guide the analysis and complete the PHA berlaku.
+Study report document until it is completed • Memandu analisa dan menyelesaikan dokumen
+according to the specified period. laporan Studi PHA sampai selesai sesuai jangka
+ Inform the PHA Sub-Committee on the waktu yang ditentukan.
+progress of the PHA Study, including the • Menginformasikan kepada Sub Komite PHA
+identification of important new findings or tentang perkembangan Studi PHA, termasuk
+barriers. identifikasi temuan atau barrier baru yang
+penting.
+Team Members must do the following: Anggota Tim harus melakukan hal berikut:
+ Actively participate in PHA Studies. • Berpartisipasi aktif dalam Studi PHA.
+ Giving priority to his task of completing the • Memberikan prioritas tugasnya menyelesaikan
+PHA according to the schedule that has been PHA sesuai dengan jadwal yang telah
+set in the Team. ditetapkan dalam Tim.
+ Conduct field-tours assigned to him • Melakukan Field-Tour yang ditugaskan
+periodically to increase his understanding of kepadanya secara periodik untuk menambah
+equipment, controls, procedures, tasks, pemahamannya tentang peralatan, kontrol,
+consequences in the event of an upset or prosedur, tugas, konsekuensi jika terjadi upset
+failure, vulnerability to outside factors, etc atau kegagalan, kerentanan terhadap faktor
+ Hazard identification, and if needed, make dari luar, dan lainya.
+specific recommendations to reduce risk, • Identifikasi hazard, dan jika diperlukan,
+where recommendations are made with a membuat rekomendasi yang spesifik untuk
+clear foundation and scope. menurunkan resiko, yang mana rekomendasi
+
+--- Halaman 17 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 17 of 49
+ Conclude and document whether the dibuat dengan suatu landasan dan ruang
+analyzed Facility is safe to operate or not. lingkup yang jelas.
+• Menyimpulkan dan mendokumentasikan
+apakah Fasilitas yang dianalisa aman untuk
+beroperasi atau tidak.
+5.4.4 Review of information from Process Safety 5.4.4 Reviu informasi dari Process Safety
+Information and other sources Information dan sumber lainnya
+5.4.4.1 Process Safety Information 5.4.4.1 Process Safety Information
+Process Safety Documents as the latest information is Dokumen Process Safety Informasi yang terkini
+an important Conditions for the completeness and merupakan syarat penting untuk kelengkapan dan
+accuracy of the PHA Study conducted. Process Safety akurasinya Studi PHA dilakukan. Process Safety
+Information basically includes the following documents: Information pada dasarnya mencakup dokumen berikut:
+ Hazards from the materials/media used, in • Bahaya dari material/media yang digunakan,
+this case gases and other chemicals. dalam hal ini gas dan bahan bahan kimia
+ Process Design Base which includes facility lainnya.
+process design. • Process Design Basis yang mencakup disain
+ Equipment design base (including detailed process Fasilitas.
+drawing of equipment, piping & • Equipment design basis (termasuk gambar
+instrumentation diagrams, plot plan, logical detail peralatan, piping & instrumentation
+diagram of instruments, electrical diagrams, plot plan, diagram logik instrumen,
+classification drawings and electrical gambar klasifikasi listrik dan diagram
+diagrams). kelistrikan).
+The PHA team should review the information and data Tim PHA harus mereviu informasi dan data dari Process
+from the Process Safety Information for the Facility that Safety Information untuk Fasilitas yang akan dilakukan
+the PHA will perform and ensure that the information PHA dan memastikan bahwa informasi yang ada cukup
+available is accurate enough to conduct the review. The akurat untuk melakukan reviu. Tim harus melakukan
+team should make corrections to minor errors found, or perbaikan terhadap kesalahan kecil yang ditemukan,
+document them for the purposes of updates and fixes as atau mendokumentasikannya untuk keperluan update
+something to be followed up outside of PHA Studies. dan perbaikan sebagai hal yang harus ditindaklanjuti di
+luar Studi PHA.
+5.4.4.2 Other Important Information 5.4.4.2 Informasi penting lainnya
+For PHA revalidation, the following important documents Untuk revalidasi PHA, dokumen dan informasi penting
+and information should be collected for review and use berikut ini harus dikumpulkan untuk direviu dan
+on the PHA Study: digunakan pada Studi PHA:
+ Management of Change documents that exist since • Dokumen Management of Change yang ada sejak
+the previous PHA. PHA sebelumnya.
+ PSM incident reports since the previous PHA. • Laporan insiden PSM sejak PHA sebelumnya.
+Other important documents and information that must Dokumen dan informasi penting lain yang harus
+be collected for review and use in a PHA include, but are dikumpulkan untuk reviu dan digunakan di PHA
+not limited to: mencakup, namun tidak terbatas pada:
+ Operating procedures. • Prosedur operasi.
+ Standard operating Conditions. • Standard operating condition (batas operasi yang
+aman).
+ Previous PHA (with the same scope). • PHA sebelumnya (dengan lingkup yang sama).
+ PHA of the same process elsewhere, if applicable. • PHA dari proses yang sama di tempat lain, jika
+berlaku.
+The PHA team should also review the quality and Tim PHA juga harus mereviu kualitas dan kecukupan
+adequacy of previous PHAs, pay attention to the status PHA sebelumnya, memperhatikan status rekomendasi
+of recommendations and determine whether remedial dan menentukan apakah tindakan perbaikan masih
+action is still needed. diperlukan.
+
+--- Halaman 18 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 18 of 49
+5.5 Hazard Identification 5.5 Identifikasi Hazard
+Existing hazards of the Facility process must be Hazard yang ada proses Fasilitas harus diidentifikasi dan
+identified and summarized at the initial PHA process. dirangkum pada proses awal PHA. Hazard ini melekat
+This hazard is attached to certain chemicals (e.g., flame pada bahan kimia tertentu (misalnya tingkat nyala api,
+level, toxin level, reactivity and corrosion level) and tingkat racun, reaktifitas dan tingkat korosi) dan kondisi
+Conditions of use (e.g., high pressure or temperature) penggunaanya (misalnya tekanan atau temperatur
+in the process being reviewed. tinggi) di proses yang direviu.
+These hazards generally have the potential to cause Hazard tersebut pada umumya mempunyai potensi
+unwanted dangerous events such as explosions, fires, or menimbulkan kejadian berbahaya yang tidak diinginkan
+large energy releases, or leakage of toxic or dangerous seperti ledakan, kebakaran, atau terlepasnya energi
+materials, which can cause consequences such as yang besar, atau bocornya material beracun atau
+human injury, permanent disability, massive berbahaya, yang dapat menimbulkan konsekuensi
+environmental pollution, and damage to assets of great seperti cidera pada manusia, cacat tetap, pencemaran
+value. lingkungan yang masif dan kerusakan aset yang bernilai
+besar.
+5.5.1 Hazard Identification Techniques 5.5.1 Teknik teknik identifikasi bahaya
+The following are some techniques and ways that can Berikut ini adalah beberapa teknik dan cara yang bisa
+be used in identifying hazards: dipergunakan dalam mengidentifikasi hazard:
+ A review of the PSM incidents that have occurred • Reviu dari insiden PSM yang pernah terjadi pada
+in the process that the PHA Study is currently proses yang sedang dilakukan Studi PHA.
+conducting. • Reviu dari informasi hazard di dokumen PSI proses
+ Review of hazard information in the PSI document yang sedang dilakukan Studi PHA.
+process that the PHA Study is currently conducting. • Reviu dari dokumen MOC (Apa dampak perubahan
+ Review of the MOC document (What impact do terhadap process safety? Apakah perubahan yang
+changes have on process safety? Do the changes dilakukan menimbulkan hazard baru?)
+made create new hazards?) • Reviu dari PHA yang pernah dilakukan sebelumnya
+ Reviews of PHAs that have been conducted before untuk proses yang sedang dipelajari atau fasilitas
+for the process being studied or similar facilities yang serupa di tempat lain.
+elsewhere. • Menggunakan konsultan yang berpengalaman baik
+ Using an experienced consultant in either the field dibidang PHA atau PSM, akan membantu
+of PHA or PSM, will help identify hazards. mengidentifikasi hazard.
+5.5.2 Tour Lapangan
+5.5.2 Field Tour
+Untuk PHA yang dilakukan terkait Fasilitas yang sudah
+For PHAs made regarding existing Facilities (i.e., PHA ada (yaitu revalidasi PHA atau baseline PHA, atau
+revalidation or PHA baseline, or modifications made as modifikasi yang dilakukan sebagai bagian dari MOC),
+part of the MOC), the PHA Team must conduct a Field- Tim PHA harus melakukan Field-Tour pada Fasilitas yang
+Tour of the Facility conducted the PHA Study. dilakukan Studi PHA.
+Untuk Fasilitas yang baru dibangun, Field-Tour perlu
+For newly built facilities, a Field-Tour needs to be carried juga dilakukan. Dalam kasus ini, tim dapat melakukan
+out as well. In this case, the team can do a field Field- Field-Tour lapangan atau menggunakan model secara
+Tour or use the model virtually. Whether field-touring virtual. Baik Field-Tour lapangan atau menggunakan
+the field or using a model, the results must be model, hasilnya harus didokumentasikan di laporan PHA.
+documented in the PHA report.
+Selama Field-Tour anggota Tim yang berpengalaman
+During the Field-Tour team members who are terhadap proses yang dilakukan Studi PHA, harus
+experienced with the process that the PHA Study menjadi pemandu. Tujuan Field-Tour adalah agar
+performs, should be guides. The purpose of the Field- anggota Tim:
+Tour is for Team members: • Memahami dan mendapatkan gambaran yang jelas
+ Understand and get a clear picture of the process mengenai proses yang sedang dipelajari dan
+being studied and the equipment operating peralatan peralatan yang beroperasi
+• Membandingkan Process Safety Information
+termasuk kesesuaian gambar, lay out dan P&I
+diagram dengan keadaan aktual di lapangan
+
+--- Halaman 19 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 19 of 49
+ Comparing Process Safety Information including • Mempelajari hazard yang ada di dalam proses,
+conformity of images, lay outs and P&I diagrams peralatan dan situasi situasi tidak aman secara
+with actual state in the field umum
+ Learn about hazards in the process, equipment, • Mempelajari lokasi peralatan, bangunan (terutama
+and situations of unsafe situations in general yang ditempati) dan lingkungan sekitar untuk
+mendapatkan gambaran dan masukan masukan
+ Study equipment locations, buildings (especially untuk Facility Siting
+occupied ones) and the surrounding environment • Mempelajari lokasi tempat kerja operator, ruang
+to get an overview and input for the Facility Siting kontrol dan interview dengan pekerja untuk
+mendapatkan masukan mengenai Human Factors
+ Learn about operator workplace locations, control • Membuat rangkuman mengenai bahaya yang
+rooms and interviews with workers for input on ditemukan di lapangan untuk masukan di dalam
+Human Factors Hazard Evaluation Jika diperlukan kunjungan
+ Make a summary of the hazards found in the field lapangan dapat dilaksanakan lebih dari satu kali.
+for input in Hazard Evaluation
+Jika diperlukan kunjungan lapangan dapat dilaksanakan
+lebih dari satu kali.
+If necessary, site visit can be carried out more than 5.6 Consequence Analysis
+once.
+Consequence Analysis meliputi evaluasi dampak dari
+5.6 Consequence Analysis suatu kejadian berbahaya yang tidak diharapkan seperti
+kebakaran, ledakan dan terlepasnya bahan berbahaya
+Consequence Analysis includes evaluating the impact of atau beracun yang diakibatkan oleh hilangnya kontrol
+an unexpected hazardous event such as fire, explosion, engineering dan administrasi terhadap proses.
+and release of hazardous or toxic materials resulting
+from loss of engineering and administrative control over Evaluasi ini meliputi perkiraan jumlah dan kondisi bahan
+the process. berbahaya yang terlepas, atau kekuatan dan besarnya
+kebakaran atau ledakan, serta dampaknya terhadap
+This evaluation includes estimates of the number and lingkungan, keselamatan dan kesehatan manusia.
+condition of the released hazardous material, or the
+strength and magnitude of a fire or explosion, as well as Tujuan dari analisa ini menolong agar Tim PHA lebih
+its impact on the environment, human safety, and memahami dan mengerti akibat dari terjadinya suatu
+health. peristiwa yang tidak diharapkan tersebut dan
+The purpose of this analysis helps the PHA Team better kemungkinan tingkat kecelakaan serta kerusakan yang
+understand and understand the consequences of the dapat diakibatkan serta area yang dapat terkena
+occurrence of an unexpected event and the possible dampaknya.
+extent of accidents and damage that can be caused and
+the areas that can be affected. 5.6.1 Persyaratan
+Tim PHA harus mengidentifikasi dan memahami
+5.6.1 Conditions konsekuensi yang diakibatkan oleh berbagai
+kemungkinan terjadinya kejadian yang tidak
+The PHA team must identify and understand the diharapkan. Informasi berikut ini harus diperhitungkan
+consequences resulting from the possibility of dalam membuat Consequence Analysis:
+unexpected events. The following information should be • Jenis kejadian (seperti kabakaran, ledakan,
+considered in making a Consequence Analysis: reaksi kimia yang tidak diinginkan dan tidak
+ Type of occurrence (such as fires, explosions, terkontrol, terlepasnya energi berbahaya atau
+unwanted and uncontrolled chemical reactions, terlepasnya bahan kimia beracun).
+release of harmful energy or detachment of • Perkiraan kuantitas bahan kimia yang terlepas.
+toxic chemicals). • Konsekuensi dari kejadian (yaitu perkiraan
+ Approximate quantity of released chemicals. jarak sesuai kejadian seperti konsentrasi racun,
+ Consequences of the event (i.e. the efek panas yang ditimbulkan, tekanan
+approximate distance according to the event berlebihan atau pengaruhnya terhadap
+such as the concentration of toxins, the effects lingkungan).
+of heat caused, excessive pressure or its effect • Kemungkinan pengaruh keselamatan dan
+on the environment). kesehatan kerja terhadap personil dan
+ Possible effects of occupational safety and masyarakat di sekitar area Fasilitas, termasuk
+health on personnel and communities
+
+--- Halaman 20 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 20 of 49
+surrounding the Facility area, including perkiraan jenis dan tingkat keparahan cidera
+estimates of the type and severity of injuries yang mungkin terjadi.
+that may occur.
+5.6.2 Pendekatan
+Adalah sangat penting untuk melaksanakan
+5.6.2 Approach Consequence Analysis ditahap awal Studi PHA. Ini
+memungkinkan Tim PHA untuk mendapatkan
+It is very important to carry out a Consequence Analysis pengertian umum mengenai kemungkinan terjadinya
+at the beginning of the PHA Study. This allows the PHA cidera, kerusakan properti dan kerusakan lingkungan
+Team to gain a general understanding of the possibility sebelum melaksanakan Process Hazard Evaluation. Area
+of injury, property damage and environmental damage yang perlu mendapatkan perhatian dapat diidentifikasi
+before carrying out the Process Hazard Evaluation. yang mana sumber informasi, data dan teknis yang ada
+Areas that need attention can be identified where akan membantu Tim PHA memahami kemungkinan
+existing sources of information, data and technicalities terjadinya konsekuensi dari suatu kejadian berbahaya.
+will help the PHA Team understand the possible
+consequences of a dangerous event. Tahapan di dalam pelaksanaan Consequence Analysis
+adalah sebagai berikut:
+The stages in the implementation of Consequence • Lakukan reviu terhadap Fasilitas, aktifitas yang ada,
+Analysis are as follows: dokumen process safety information, insiden proses
+yang pernah terjadi, dan temuan identifikasi hazard,
+ Review facilities, existing activities, process safety untuk membantu mengidentifikasi kemungkinan
+information documents, process incidents that kejadian berbahaya.
+have occurred, and hazard identification findings, • Tentukan skenario kejadian. Tim PHA harus
+to help identify possible hazardous events. menentukan skenario terburuk atas bahaya yang
+ Define the event scenario. The PHA team must tidak diharapkan akibat hilangnya kontrol terhadap
+determine the worst-case scenario of unexpected proses. misalnya (pipa pecah, instrumen tidak
+harm resulting from loss of control over the berfungsi, bahaya dari luar, dan sebagainya).
+process. for example (broken pipes, • Perkirakan konsekuensi kejadian, termasuk jenisnya,
+malfunctioning instruments, external hazards, etc). jumlah kemungkinan bahan berbahaya yang
+ Estimate the consequences of the event, including terlepas, area yang terpengaruh, dan kemungkinan
+its type, the amount of possible hazardous material efeknya terhadap keselamatan, kesehatan dan
+detached, the area affected, and its possible lingkungan.
+effects on safety, health and the environment.
+Tim PHA harus mempunyai pemahaman yang baik
+terhadap potensi bahaya dari proses di Fasilitas yang
+sedang dilakukan PHA dan bagaimana proses dijaga
+The PHA team must have a good understanding of the terhadap potensi bahaya ini dengan line of defense. Ini
+potential hazards of the processes in the Facility that akan membantu Tim PHA mengevaluasi resiko terkait
+the PHA is conducting and how the process is guarded kemungkinan terjadinya kejadian berbahaya.
+against these potential hazards with a line of defense.
+This will help the PHA Team evaluate the risks
+associated with the possibility of a dangerous event. 5.6.2.1 Identifikasi skenario
+Tim PHA harus mempertimbangkan skenario suatu
+5.6.2.1 Scenario Identification kejadian berbahaya, dengan berasusmi bahwa semua
+engineering dan administrative kontrol yang ada
+The PHA team must consider the scenario of a mengalami kegagalan, yang dapat mengakibatkan
+hazardous event, if all existing engineering and terlepasnya gas methan, ledakan, kebakaran, tumpahan
+administrative controls fail, which can result in methane dan kejadian lainnya.
+gas release, explosions, fires, spills and other events. Semua kemungkinan kejadian berbahaya harus
+dipertimbangkan, mulai dari lubang kecil di pipa sampai
+kejadian yang lebih besar dan buruk, untuk membantu
+All possible dangerous events should be considered, mengelola kemungkinan konsekuensi yang timbul.
+from small holes in the pipeline to larger and worse
+events, to help manage the possible consequences that
+arise.
+
+--- Halaman 21 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 21 of 49
+5.6.2.2 Estimating Degree of Consequence 5.6.2.2 Memperkirakan tingkat konsekuensi
+The qualitative picture can be used to understand the Gambaran kualitatif dapat digunakan untuk memahami
+consequences that can occur, so that it is understood by konsekunesi yang dapat terjadi, sehingga dipahami oleh
+the PHA Team. A simple assumption can be used by Tim PHA. Asumsi sederhana dapat digunakan yaitu
+qualitatively estimating the number of leaks, the areas dengan memperkirakan secara kualitatif jumlah
+affected and the possible consequences. Qualitative kebocoran, area yang terpengaruh dan kemungkinan
+estimates based on the process of incidents that have konsekuensi. Perkiraan kualitatif berdasarkan proses
+occurred or simple calculations, can be used to help the insiden yang pernah terjadi atau kalkulasi sederhana,
+PHA Team understand the likelihood of dangerous dapat digunakan untuk membantu Tim PHA memahami
+consequences. kemungkinan terjadinya konsekuensi berbahaya.
+In some cases, creating a model can help the PHA Team Dalam beberapa kasus, membuat model dapat
+understand more deeply and be able to estimate the membantu Tim PHA memahami lebih dalam dan dapat
+likelihood of injury, property damage or environmental memperkirakan kemungkinan cidera, kerusakan properti
+pollution. There are many ways to create models to atau pencemaran lingkungan. Banyak cara untuk
+calculate or estimate the affected areas, explosions, fires membuat model untuk menghitung atau memperkirakan
+and chemical releases. area yang terpengaruh, ledakan, kebakaran dan
+terlepasnya bahan kimia.
+The result of creating a model is the definition of Hasil dari membuat model adalah definisi area yang
+potentially affected areas, according to the data entered berpotensi terpengaruh, sesuai dengan data yang
+to create the modeling and the level of attention given. dimasukkan untuk membuat modeling dan tingkat
+perhatian yang diberikan.
+The PHA team then interpreted the model created to Tim PHA lalu menginterpretasikan model yang dibuat
+evaluate the type, severity and number of injuries, their untuk mengevaluasi jenis, tingkat keparahan dan jumlah
+possible effects on the facility and the environment. It cidera, kemungkinan pengaruhnya terhadap Fasilitas
+also allows The PHA teams to consider how many people dan lingkungan. Hal ini juga memungkinkan Tim untuk
+are exposed. mempertimbangkan berapa banyak orang yang
+terpapar.
+5.6.2.3 Considering Line of Defence 5.6.2.3 Mempertimbangkan Line of Defence
+After estimating the consequences, a line of defence Setelah memperkirakan konsekuensi, line of defence
+should be identified to help the PHA Team understand harus diidentifikasi untuk membantu Tim PHA
+and consider the role of protective equipment in memahami dan mempertimbangkan peran dari alat
+preventing and mitigating possible consequences. In pelindung dalam mencegah dan memitigasi
+some cases, creating a consequence model can be used kemungkinan konsekuensi. Dalam beberapa kasus,
+to evaluate the effectiveness of the Line of Defence in membuat model konsekuensi dapat digunakan untuk
+lowering the likelihood of consequences. mengevaluasi efektifitas Line of Defence dalam
+menurunkan kemungkinan terjadinya konsekuensi.
+This Line of Defence review is aimed at providing Reviu Line of Defence ini ditujukan untuk memberikan
+understanding and to provide a point of view to the PHA pemahaman dan untuk memberikan sudut pandang
+Team when conducting Consequence Analysis. A more kepada Tim PHA saat melakukan Consequence Analysis.
+detailed Line of Defence analysis was carried out during Analisa Line of Defence yang lebih detail dilakukan saat
+Hazard Evaluation. Hazard Evaluation
+.
+5.7 Hazard Evaluation 5.7 Evaluasi Bahaya
+Natural gas is a flammable and explosive material, so Gas alam adalah bahan yang mudah terbakar dan
+the potential for fire and explosion is an inherent danger meledak, sehingga potensi kebakaran dan ledakan
+that exists in the TGI Facility. Disturbances to the merupakan bahaya melekat yang ada pada Fasilitas TGI.
+environment may occur due to the release of high- Gangguan terhadap lingkungan mungkin terjadi akibat
+pressure gases adanya pelepasan gas bertekanan tinggi.
+
+--- Halaman 22 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 22 of 49
+5.7.1 Conditions 5.7.1 Persyaratan
+The PHA team must select and use the appropriate Tim PHA harus memilih dan menggunakan metode
+Hazard Evaluation method for the reviewed process. Hazard Evaluation yang sesuai untuk proses yang
+direviu.
+Line of defense that protects every dangerous event, Line of defence yang melindungi setiap kejadian
+including understanding the importance of the existence berbahaya, ternasuk pemahaman pentingnya
+and reliability of each Line of Defense. keberadaan dan kehandalan masing-masing Line of
+Defence.
+The purpose of Hazard Evaluation is to identify: Tujuan Hazard Evaluation adalah untuk
+mengidentifikasi:
+ Specific dangerous events. • Kejadian berbahaya yang spesifik.
+ Pathways that can cause dangerous events. • Jalur yang dapat menyebabkan kejadian
+ Line of defence that protects any dangerous berbahaya.
+events, as well as an understanding of the • Line of defence yang melindungi setiap
+importance of the existence and reliability of kejadian berbahaya, ternasuk pemahaman
+each Line of Defence. pentingnya keberadaan dan kehandalan
+masing-masing Line of Defence.
+When conducting Hazard Evaluation, the PHA Team Saat melakukan Hazard Evaluation, Tim PHA harus
+must develop a scenario of identified hazardous events, mengembangkan skenario kejadian berbahaya yang
+which are described starting from the event that started teridentifikasi, yang dijelaskan mulai dari kejadian yang
+them, to developing how the operator acts in responding mengawalinya, sampai mengembangkan cara
+to information from process instrumentation. bagaimana tindakan operator dalam merespond
+informasi dari instrumentasi proses.
+5.7.2 Approach 5.7.2 Pendekatan
+5.7.2.1 Methodology Selection 5.7.2.1 Pemilihan metodologi
+In general, "What If" is the basic method for most Secara umum "What If" merupakan metode dasar untuk
+portions of PHA Studies. More structured approaches sebagian besar porsi Studi PHA. Pendekatan yang lebih
+(such as HAZOP and FMEA) can also be used. terstruktur (seperti HAZOP dan FMEA) juga dapat
+digunakan.
+At a minimum all PHA baselines should use What-If, Minimal semua baseline PHA harus menggunakan What-
+HAZOP or FMEA as the basic Hazard Evaluation If, HAZOP atau FMEA sebagai metodologi dasar Hazard
+methodology. Evaluation.
+If local regulations require the use of other approaches, Jika peraturan lokal mengharuskan penggunaan
+this approach should be used in addition to the above pendekatan lain, pendekatan ini harus digunakan
+basic methods. sebagai tambahan dari metolodi dasar di atas.
+Below is a brief explanation of hazard evaluation Di bawah ini merupakan penjelasan singkat metdologi
+methodology: Hazard Evaluation:
+ HAZID (What-if). • HAZID (What-if).
+The most important aspect of the what-of method Aspek terpenting dari metode what-of adalah
+is the order in which both methods are performed. urutan di mana kedua metode tersebut dilakukan.
+The What If method should be used first to push Metode What If harus digunakan dulu untuk
+spontaneously and creatively What If questions. mendorong pertanyaan What If secara spontan
+For the HAZID worksheet can be seen in Appendix dan kreatif.
+B. Untuk worksheet HAZID dapat dilihat pada
+Lampiran B.
+ FMEA (Failure Mode Effect Analysis) • FMEA (Failure Mode Effect Analysis)
+The FMEA method is a structured method for Metode FMEA merupakan metode terstruktur
+studying the possible failures of each component untuk mempelajari kemungkinan kegagalan setiap
+and their effect on the system. The results of komponen dan pengaruhnya terhadap sistem
+
+--- Halaman 23 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 23 of 49
+studies using FMEA can be used to identify secara keseluruhan. Hasil dari studi menggunakan
+component failure modes that can lead to a FMEA dapat digunakan untuk identifikasi mode
+malicious event. kegagalan komponen yang dapat mengarah pada
+suatu kejadian berbahaya.
+• HAZOP (Hazard and Operability Study)
+ HAZOP (Hazard and Operability Study) Metode HAZOP merupakan metode yang
+The HAZOP method is a structured method of terstruktur terhadap deviasi dari sistem disain dan
+deviation from the design system and its potential potensi pengaruhnya terhadap seluruh sistem. Ini
+effect on the entire system. This is a disciplined merupakan pendekatan yang disiplin untuk
+approach to the study of continuous chemical mempelajari proses kimia yang kontinue.
+processes.
+With this method, the analyzed process is divided Dengan metode ini, proses yang dianalisa dibagi
+into several nodes that have a unique and specific menjadi beberapa node yang mempunyai tujuan
+design purpose. Word guides are paired with disain yang unik dan spesifik. Guide word
+process parameters in the analyzed nodes to dipasangkan dengan parameter proses dalam
+develop deviations that are evaluated to determine node yang dianalisa untuk mengembangkan
+if they can cause a malicious event. The prescribed deviasi yang dievaluasi untuk mengetahui apakah
+line of defense is documented, and dapat menyebabkan suatu kejadian berbahaya.
+recommendations are made (if needed) to lower Line of defence yang ditentukan didokumentasikan
+the risk. dan rekomendasi dibuat (jika diperlukan) untuk
+menurunkan resiko.
+5.7.2.2 Aplication of Methodology 5.7.2.2 Aplikasi metodologi
+Hazard Evaluation methodology is a tool, some useful in Metodologi Hazard Evaluation merupakan suatu tools,
+every PHA study, some suitable for specific cases. beberapa berguna pada setiap Studi PHA, beberapa
+Basically, all methodologies are different ways to ask cocok untuk kasus tertentu. Pada dasarnya, semua
+and answer What If questions. The task of the PHA metodologi merupakan cara yang berbeda untuk
+Team in conducting Hazard Evaluation is to do its best bertanya dan menjawab pertanyaan What If. Tugas dari
+to help ensure that all What If questions are created and Tim PHA dalam melakukan Hazard Evaluation adalah
+answered correctly. melakukan yang terbaik untuk membantu memastikan
+bahwa semua pertanyaan
+The What If methodology can be used in almost any What If dibuat dan dijawab dengan benar. Metodologi
+situation but may not be the best tool for every situation. What If dapat digunakan pada hampir semua situasi,
+namun mungkin bukan merupakan tools terbaik untuk
+setiap situasi. namun mungkin bukan merupakan tools
+terbaik untuk setiap situasi.
+5.7.2.3 Line of Defence Identification 5.7.2.3 Identifikasi Line of Defence
+Recommendations cannot be made without a full Rekomendasi tidak dapat dibuat tanpa memahami
+understanding of the integrity of existing Line of Defence secara penuh integritas dari peralatan Line of Defence
+equipment. Identifying the Line of Defence is already yang ada. Mengindentifikasi Line of Defence sudah
+contained in the Hazard Evaluation methodology (What termaktub di metodologi Hazard Evaluation (What If,
+If, HAZOP, FMEA). HAZOP, FMEA).
+To understand the level of adequacy of the Line of Untuk memahami tingkat kecukupan Line of Defence,
+Defence, the PHA Team must consider the following Tim PHA harus mempertimbangkan beberapa kriteria
+criteria: berikut ini:
+ Independence. For Line of Defence to work • Independence. Agar Line of Defence bekerja dengan
+properly, does it depend on other operating baik, apakah tergantung dari sistem operasi yang
+systems? lain?
+ Dependability. Does Line of Defence work with a • Dependability. Apakah Line of Defence bekerja
+high level of reliability (such as relief valves, dikes, dengan tingkat reliability yang tinggi (seperti relief
+containment vessels, or restricted access)? Does valve, dike, containment vessel, atau akses
+Human Factor have an effect? terbatas)? Apakah Human Factor berpengaruh?
+ Auditability. Is the Line of Defence designed to be • Auditability. Apakah Line of Defence didisain agar
+able to be tested and validated regularly? dapat di lakukan testing dan validasi secara regular?
+
+--- Halaman 24 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 24 of 49
+ Integrity. Has the Line of Defence been installed • Integrity. Apakah Line of Defence telah di-instal dan
+and maintained in the right way? If so, are tests or dipelihara dengan cara yang benar? Jika ya, apakah
+validations done regularly? test atau validasi dilakukan secara teratur?
+5.8 Human Factors 5.8 Human Factors
+Human Factor analysis covers all aspects of how humans Analisa Human Factor mencakup semua aspek
+interact with their work environment, whether under bagaimana manusia berinteraksi dengan lingkungan
+normal circumstances or in emergency situations. Within kerjanya, baik dalam keadaan normal atau dalam situasi
+the scope of the PHA Study, Human Factors concern the darurat. Dalam cakupan Studi PHA, Human Factor
+interaction between humans and equipment, systems, menyangkut interaksi antara manusia dengan peralatan,
+and information in their work environment. This PHA sistem dan informasi di dalam lingkungan kerjanya.
+study looked at how the physical aspects of this Studi PHA ini melihat bagaimana aspek fisik interaksi ini
+interaction (the number of operators relative to the (jumlah operator relatif terhadap ruang lingkup kerja,
+scope of work, the equipment handled and the lay-out) peralatan yang ditangani serta lay-out nya) maupun
+as well as the cognitive aspects (the intellectual ability aspek kognitif (kapabilitas intelektual untuk
+to collect and process data and act on the information mengumpulkan dan memproses data serta mengambil
+obtained). tindakan atas informasi yang diperoleh).
+The focus in this PHA Study is to identify and avoid Fokus dalam Studi PHA ini adalah untuk mengidentifikasi
+situations where human error may occur, both in the dan menghindari situasi di mana human error mungkin
+process, the maintenance of equipment and systems terjadi, baik di dalam proses, pemeliharan peralatan dan
+related to the process. sistem yang berhubungan dengan proses.
+5.8.1 Conditions 5.8.1 Persyaratan
+To minimize the possibility of incidents in the future, the Untuk meminimalisasi kemungkinan terjadinya insiden
+PHA Team must always pay attention to Human Factors dikemudian hari, Tim PHA harus selalu memperhatikan
+in the PHA Study process. The human factor should Human Factor di dalam proses Studi PHA. Faktor
+always be observed and researched during the Field- manusia harus selalu diamati dan diteliti saat Field-
+Tour, when implementing the Hazard Evaluation Tour,saat mengimplementasikan metodologi Hazard
+methodology and when considering the Line of Defence. Evaluation dan saat mempertimbangkan Line of
+Defence.
+5.8.2 Approach 5.8.2 Pendekatan
+PHA studies highlight the expertise and experience of Studi PHA mengutamakan keahlian dan pengalaman
+PHA Teams, including Technicians and Operators, to Tim PHA termasuk Teknisi dan Operator, untuk
+identify situations where human interaction with mengidentifikasi situasi di mana interaksi manusia
+processes has an influence and impact on process dengan proses mempunyai pengaruh dan dampak
+disruption, escalation of process incidents or loss of terhadap terganggunya proses, eskalasi insiden proses
+attention to process protection (Line of Defence). maupun hilangnya perhatian terhadap perlindungan
+Situations affected by human error include, but are not proses (Line of Defence).
+limited to, the following: Situasi yang dipengaruhi human error mencakup, tetapi
+ Incomplete procedure. tidak terbatas pada hal hal berikut ini:
+ Violation of procedure. • Prosedur yang tidak lengkap.
+ Incomplete instrumentation, malfunctioning and • Pelanggaran prosedur.
+confusing. • Instrumentasi yang kurang lengkap, tidak
+ Lay out a workspace that is not good or not berfungsi dan membingungkan.
+ergonomic. • Lay out ruangan kerja yang kurang baik atau tidak
+ Poor work design, mental load and long enough ergonomis.
+work concentration without breaks or interludes. • Disain pekerjaan yang tidak baik, beban mental
+ Not good communication. dan konsentrasi kerja yang cukup lama tanpa
+ Priority conflicts. istirahat atau selingan.
+ A work environment that causes excessive fatigue. • Komunikasi yang tidak baik.
+
+--- Halaman 25 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 25 of 49
+5.8.2.1 Field Tour 5.8.2.1 Tour Lapangan
+The field tour is a good opportunity to identify Human Filed tour merupakan kesempatan yang baik untuk
+Factors, especially gained from the experience of mengidentifikasi Human Factor, terutama diperoleh dari
+Technicians and Operators in the work area. During the pengalaman para Teknisi dan Operator di area kerja.
+Field-Tour, the PHA Team must observe the areas where Selama Field-Tour, Tim PHA harus mengamati area di
+interactions between workers and machines occur and mana interaksi antara pekerja dan mesin terjadi dan
+underscore the interactions that are important in menggarisbawahi interaksi yang penting dalam menjaga
+maintaining process safety. process safety.
+The field tour should include a control room. The PHA Field tour harus mencakup ruang kontrol. Tim PHA harus
+team should review the display of important information, mereviu display informasi penting, lokasi dan label
+the location and label of the interlock keys, instrument tombol interlock, label instrumen, jenis alarm, dan item
+labels, alarm types, and other control items. An kontrol lainnya. Faktor penting yang perlu diamati
+important factor that needs to be observed is the adalah lingkungan kerja ruang kontrol (cahaya,
+working environment of the control room (light, komunikasi, kebisingan, layout). Faktor lain adalah
+communication, noise, and layout). Another factor is the adanya sistem pelindung atau alat pelindung diri yang
+presence of a protective system or personal protective melindungi operator untuk melakukan pekerjaannya
+equipment that protects the operator to do his job when saat terjadi suatu insiden.
+an incident occurs.
+Depending on the Hazard Evaluation methodology used, Tergantung dari metodologi Hazard Evaluation yang
+several issues related to Human Factors may arise when digunakan, beberapa isu terkait Human Factor dapat
+the study is conducted. In applying the methodology, muncul saat studi dilakukan. Dalam mengaplikasikan
+the Team must pay attention to situations where the metodologi tersebut, Tim harus memberikan perhatian
+operator is the initiator of a corrective step. For example, situasi di mana operator merupakan inisiator terhadap
+does the operator understand the clear instructions in suatu langkah perbaikan. Misalnya, apakah operator
+performing the corrective steps he performed, or the memahami instruksi yang jelas dalam melakukan
+existing instructions are ambiguous? In a process that is langkah perbaikan yang dilakukannya, atau instruksi
+highly dependent on the actions of the operator, the yang ada bersifat ambigu? Pada proses yang sangat
+review of the sequence of steps in the operating tergantung dari tindakan operator, reviu terhadap
+procedure, which focuses on identifying situations in urutan langkah di prosedur operasi, yang berfokus pada
+which human error may occur, needs to be deepened. identifikasi situasi di mana kesalahan manusia mungkin
+terjadi, perlu diperdalam.
+5.8.2.2 Line of Defence Analysis 5.8.2.2 Analisa Line of Defence
+PHA teams should pay attention to Human Factors when Tim PHA harus memperhatikan Human Factor saat
+reviewing the Line of Defence in managing potential mereviu Line of Defence dalam mengelola potensi
+hazards. For example, does the Operator understand the bahaya. Contoh, apakah Operator memahami prosedur
+written procedure for intervening in an important tertulis untuk melakukan intervensi pada urutan proses
+sequence of processes (as a back-up of automated penting (sebagai back-up dari peralatan yang otomatis),
+equipment), or is it the type of alarm as a medium that atau apakah jenis alarm sebagai media yang
+tells the Operator to take a step? The team must memberitahukan Operator untuk mengambil suatu
+consider whether the Operator could perform the action langkah? Tim harus mempertimbangkan apakah
+correctly, as well as other factors that could potentially Operator mempunyai kemampuan untuk melakukan
+prevent the operator from performing the action tindakan dengan benar, juga faktor lain yang berpotensi
+correctly. menghalangi operator dari melakukan tindakan dengan
+benar.
+5.8.2.3 Something to Consider 5.8.2.3 Beberapa hal yang perlu mendapat
+pertimbangan
+Some things that need attention related to Human Beberapa hal yang perlu mendapatkan perhatian terkait
+Factors are: Human Factor adalah:
+ Ergonomics. In this context, ergonomics does not • Ergonomik. Dalam konteks ini, ergonomik bukan
+refer to the possibility of stress or injury to the merujuk pada kemungkinan terjadinya tekanan
+human body. However, it is the accessibility of atau cidera pada tubuh manusia. Namun adalah
+emergency response equipment and controls. The aksesibilitas peralatan dan kontrol tanggap
+
+--- Halaman 26 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 26 of 49
+issue of the physical capabilities of the operator darurat. Isu mengenai kemampuan fisik operator
+can be taken into consideration when emergency dapat dijadikan pertimbangan saat kontrol
+control requires physical strength, dexterity, or emergency memerlukan kekuatan fisik,
+dimensions of the access and operation area. ketangkasan, atau dimensi area akses dan operasi.
+ Emergency response access. Questions the PHA • Akses tanggap darurat. Pertanyaan yang Tim PHA
+Team needs to consider include the following: Are perlu pertimbangkan mencakup hal berikut:
+emergency buttons quickly accessible when an Apakah tombol emergensi dapat diakses secara
+emergency occurs? Do dangerous situations hinder cepat saat terjadi emergensi? Apakah situasi
+or prevent access to control tools? berbahaya menghalangi atau mencegah akses ke
+alat kontrol?
+ Human interaction with equipment. The Human • Interaksi manusia dengan peralatan. Aspek Human
+Factor aspect that needs attention is the clarity of Factor yang perlu mendapat perhatian adalah
+the design of the panel board and video display kejelasan dari disain papan panel dan terminal
+terminal. Is emergency control clearly marked? Is display video. Apakah emergency control diberi
+activation emergency, clear and direct, or tanda dengan jelas? Apakah aktifasi emergency,
+complex? Is emergency or control equipment jelas dan langsung, atau kompleks? Apakah
+confusing with each other because it is close peralatan emergency atau kontrol
+together? membingungkan satu dengan lainnya karena
+berdekatan?
+ Habituation (which causes boredom) and excessive • Pembiasaan (yang menimbulkan rasa bosan) dan
+anxiety (panic) can increase the occurrence of rasa cemas berlebihan (panik) dapat
+mistakes. Control design should include this factor meningkatkan terjadinya kesalahan. Disain kontrol
+as a consideration. harus memasukkan faktor ini sebagai
+pertimbangan.
+ Annoyance. The PHA team must evaluate what the • Gangguan. Tim PHA harus mengevaluasi seperti
+existing work environment is like, whether to apa lingkungan kerja yang ada, baik untuk
+perform routine work or during emergencies. melakukan pekerjaan rutin atau saat terjadi
+emergensi.
+ Training, expertise, and performance. PHA teams • Pelatihan, keahlian dan kinerja. Tim PHA harus
+should consider the effectiveness of personnel mempertimbangkan efektifitas pelatihan personil
+training to manage something abnormal and untuk mengelola sesuatu yang tidak normal dan
+emergency response. How is the effectiveness of tanggap darurat. Bagaimana efektifitas
+the program, and what actions are taken to programnya, dan Tindakan apa yang diambil untuk
+improve substandard performance? If emergency memperbaiki kinerja di bawah standard? Jika
+response procedures are available, are there drills prosedur tanggap darurat tersedia, apakah ada
+to measure the extent of their effectiveness? Does drill untuk mengukur sejauh mana efektifitasnya
+forced work and overtime schedules inflict pelaksanaannya? Apakah jadwal kerja dan lembur
+excessive fatigue in personnel that can affect yang dipaksakan menimbulkan kelelahan berlebih
+performance when important situations occur? pada personil yang dapat mempengaruhi kinerja
+saat terjadi situasi penting?
+ Replacement of workers (turnover). The rate and • Penggantian pekerja (turnover). Tingkat dan
+management of turnover is an important factor in pengelolaan turnover merupakan faktor penting
+determining the reliability of workers. PHA teams dalam menentukan keandalan pekerja. Tim PHA
+should consider turnover rates. harus mempertimbangkan tingkat turnover.
+ Operating procedures. The accuracy of operating • Prosedur operasi. Akurasi prosedur operasi secara
+procedures in general relates to the performance umum berhubungan dengan kinerja pekerja.
+of workers. Operating procedures related to Prosedur operasi yang berhubungan dengan
+dangerous event situations should be reviewed to situasi kejadian berbahaya harus di-reviu untuk
+maintain their level of accuracy and evaluated menjaga tingkat akurasinya dan dievaluasi apakah
+whether they are easy for workers to understand. mudah dipahami oleh pekerja. Prosedur emergensi
+Emergency procedures must be clear, explicit, fast, harus jelas, eksplisit, cepat, dan mudah diakses.
+and accessible.
+5.9 Facility Siting 5.9 Facility Siting
+Facility Siting Analysis is intended to help the PHA Team Analisa Facility Siting ditujukan untuk membantu Tim
+understand the risks to building occupants in the event PHA memahami resiko yang pada penghuni bangunan
+
+--- Halaman 27 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 27 of 49
+of a process-related event at the Facility outside the jika terjadi kejadian terkait proses di Fasilitas di luar
+building. bangunan tersebut.
+In conducting Facility Siting, the PHA Team must Di dalam melakukan Facility Siting, Tim PHA harus
+evaluate existing buildings to see if they are designed to melakukan evaluasi terhadap bangunan yang ada guna
+be well designed to protect humans and important parts melihat apakah bangunan ini didisain cukup baik untuk
+of the Facility against a dangerous event (which is melindungi manusia dan bagian penting di Fasilitas
+specified in the Consequence Analysis). terhadap suatu kejadian berbahaya (yang ditentukan
+pada Consequence Analysis).
+5.9.1 Conditions 5.9.1 Persyaratan
+The PHA should include an analysis of the Facility Siting PHA harus mencakup analisa mengenai Facility Siting
+related to the process being reviewed, both for terkait proses yang direviu, baik untuk bangunan
+temporary and permanent buildings. The PHA team sementara maupun permanen. Tim PHA harus
+must carry out a Facility Siting analysis. The goal is to melaksanakan analisa Facility Siting. Tujuannya adalah
+analyze the impact of the hazards of the process on the untuk menganalisa dampak dari bahaya proses terhadap
+surrounding buildings so that the building itself does not bangunan di sekitarnya agar bangunan itu sendiri tidak
+add to the risk to residents and other important menambah risiko terhadap penghuni dan peralatan
+equipment of the process. The following needs to be penting proses lainnya. Hal-hal berikut ini perlu
+considered in the Facility Siting analysis: dipertimbangkan di dalam analisa Facility Siting:
+ Design, function, and occupancy rate of the • Disain, fungsi dan tingkat hunian bangunan.
+building. • Screening terhadap konsekuensi berdasarkan
+ Screening of consequences based on building kriteria jarak bangunan dan model yang dibuat
+spacing criteria and models created for the area. untuk area tersebut.
+ Screening of hazard risks based on qualitative and • Screening terhadap risiko bahaya berdasarkan
+quantitative hazard analysis. analisa bahaya kualitatif dan kuantitatif.
+5.10 Inherently Safer Process (ISP) 5.10 Inherently Safer Process (ISP)
+The process is made inherent safe by eliminating or Proses dibuat aman secara melekat dengan
+eliminating potential hazards, rather than controlling menghilangkan atau mengeliminasi potensi bahaya
+them. With this approach the process is designed and yang ada, bukan mengontrolnya. Dengan pendekatan
+operated more safely. This method relies on the safe cara ini proses didisain dan dioperasikan lebih aman.
+characteristics inherent in the processes and equipment Cara ini mengandalkan karakteristik aman yang melekat
+used, rather than relying on control systems, interlocks pada proses dan peralatan yang digunakan, bukan
+or procedures that must be adhered to prevent incidents mengandalkan sistem kontrol, interlock atau prosedur
+from occurring. yang harus ditaati untuk mencegah terjadinya insiden.
+5.10.1 Conditions 5.10.1 Persyaratan
+For all PHA baselines, the PHA Team should always think Untuk semua baseline PHA, Tim PHA harus selalu
+about including the Inherently Safer Process in the memikirkan untuk memasukkan Inherently Safer
+process being analyzed. PHA revalidation should review Process di dalam proses yang sedang dianalisa.
+existing processes to identify opportunities for ISP Revalidasi PHA harus mereviu proses yang ada sebagai
+concept applications, both in existing processes and for usaha untuk mengidentifikasi peluang aplikasi konsep
+the future. ISP, baik di proses yang ada maupun untuk masa
+mendatang.
+If the "What If" method is used, ISP evaluation can be Jika metode ”What If” digunakan, evaluasi ISP dapat
+integrated using the appropriate questions. diintegrasikan dengan mengunakan pertanyaan yang
+sesuai.
+5.10.2 Approach 5.10.2 Pendekatan
+Some principles that can be used to apply the ISP Beberapa prinsip yang dapat digunakan untuk
+approach are: mengaplikasikan pendekatan ISP adalah:
+ Intensification (or minimization) of the use of • Intensifikasi (atau minimalisasi) penggunaan
+hazardous materials in as small quantities as material berbahaya dalam jumlah yang sesedikit
+possible, for example making and then mungkin, misalnya membuat dan kemudian segera
+
+--- Halaman 28 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 28 of 49
+immediately using toxic intermediate materials, to menggunakan material intermediate yang
+limit their quantity. beracun, untuk membatasi kuantitasnya.
+ Substitution that is, replacing hazardous materials • Substitusi, yaitu mengganti material berbahaya
+with relatively non-hazardous materials. dengan material yang relatif tidak berbahaya.
+ Moderation, i.e. by using fewer hazardous • Moderasi, yaitu dengan menggunakan kondisi
+Conditions (e.g. lower pressure or temperature). berbahaya yang lebih sedikit (misalnya tekanan
+atau temperatur yang lebih rendah).
+Limiting its effect in the event of a process failure, Membatasi pengaruhnya jika terjadi suatu
+by designing facilities to minimize the impact of the kegagalan proses, dengan mendisain fasilitas
+release of hazardous chemicals, for example by untuk meminimalkan impak dari terlepasnya bahan
+making pressure vessels strong enough to kimia berbahaya, misalnya dengan membuat
+withstand the highest pressure that can occur, bejana tekan cukup kuat untuk menahan tekanan
+thereby eliminating the possibility of overpressure tertinggi yang dapat terjadi, sehingga
+failure and the use of pressure relief devices. menghilangkan kemungkinan kegagalan yang
+disebabkan tekanan berlebih dan penggunaan
+pressure relief device.
+ Simplification, namely by designing the facility so • Simplifikasi, yaitu dengan mendisain fasilitas
+that the possibility of errors in the operation sehingga kemungkinan terjadinya error terhadap
+process can be lowered. proses operasi dapat diturunkan.
+The opportunity to make changes to get an ISP can Kesempatan melakukan perubahan untuk
+be done at any time. PHA studies provide this mendapatkan ISP dapat dilakukan kapan saja.
+opportunity, and this opportunity should be utilized Studi PHA memberikan kesempatan ini, dan
+to the best of our ability to obtain an inherent safe kesempatan ini harus dimanfaatkan sebaik
+process. mungkin untuk mendapatkan proses yang aman
+secara melekat (inherent).
+The best method is to think of an ISP at the time Metode terbaik adalah untuk memikirkan ISP pada
+of designing a process. If changes to apply the ISP saat disain suatu process. Jika perubahan untuk
+method are made when the facility is already mengaplikasikan metode ISP dilakukan saat
+operational, it usually becomes less easy and fasilitas sudah beroperasi biasanya menjadi tidak
+relatively high cost. begitu mudah dan relative berbiaya tinggi.
+5.11 Create and Management Recommendations 5.11 Membuat dan Mengelola Rekomendasi
+5.11.1 Risk Analysis of PHA Findings 5.11.1 Analisa Risiko dari temuan temuan PHA
+The PHA team must consider the hazard risks identified Tim PHA harus memperhitungkan risiko bahaya yang
+in Hazard Evaluation. This level of danger will determine teridentifikasi pada Hazard Evaluation. Tingkat bahaya
+the priority scale of recommendations that will be made ini yang akan menentukan skala prioritas rekomendasi
+according to the level of danger. Risk is the product of yang akan dibuat sesuai tingkat bahayanya. Risiko
+the degree of impact of the seriousness of the possible adalah produk dari tingkat dampak keseriusan
+consequences of a danger, with the possibility of the kemungkinan konsekuensi suatu bahaya, dengan
+frequency of the danger being an incident. To evaluate kemungkinan frekuensi bahaya tersebut menjadi suatu
+the risk, the PHA Team must identify the hazard and insiden. Untuk mengevaluasi risiko, Tim PHA harus
+determine the impact of the hazard if it occurs, through mengidentifikasi bahaya dan menentukan dampak dari
+a Consequence Analysis. akibat bahaya tersebut jika terjadi, melalui Consequence
+Analysis.
+To evaluate risk, the PHA Team must look at all hazards Untuk mengevaluasi risiko, Tim PHA harus melihat
+identified in Hazard Evaluation and look at their impact semua bahaya yang teridentifikasi di dalam Hazard
+through Consequence Analysis. Furthermore, the PHA Evaluation dan melihat dampaknya melalui
+Team must carry out probability analysis (incident Consequence Analysis. Selanjutnya Tim PHA harus
+history data) to see the possibility of a dangerous melaksanakan analisa probabilitas (data sejarah insiden)
+incident process. untuk melihat kemungkinan terjadinya proses insiden
+berbahaya.
+
+--- Halaman 29 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 29 of 49
+5.11.2 Making Recommendations and 5.11.2 Membuat Rekomendasi dan Peluang
+Improvement Opportunities Perbaikan
+5.11.2.1 PHA Recommendations 5.11.2.1 Rekomendasi PHA
+Once the risk has been evaluated, dangerous events Setelah resiko dievaluasi, kejadian berbahaya yang
+that may occur and require additional measures or mungkin terjadi dan memerlukan tambahan tindakan
+additional safety devices, need to be managed. atau alat pengaman tambahan, perlu dikelola.
+The following factors should be observed to make PHA Faktor berikut ini harus diperhatikan untuk membuat
+recommendations: rekomendasi PHA:
+ A clear relationship between the danger of the • Hubungan yang jelas antara bahaya proses dan
+process and the dangerous occurrence. kejadian yang berbahaya.
+ Risk Level. • Tingkat Risiko.
+If the PHA Team considers the risks and concludes that Jika Tim PHA mempertimbangkan resiko dan
+the PHA recommendations are appropriate, they should menyimpulkan bahwa rekomendasi PHA sudah sesuai,
+be specific and actionable. rekomendasi tersebut harus spesifik dan dapat
+dilakukan.
+Details of actions to complete the recommendations Detail tindakan untuk menyelesaikan rekomendasi harus
+should be submitted and discussed to the personnel disampaikan dan didiskusikan kepada personil yang
+assigned the task of completing the recommendations. diberi tugas untuk menyelesaikan rekomendasi tersebut.
+If a recommendation is made, the PHA Team should Jika rekomendasi dibuat, Tim PHA harus mengajukan
+submit what interim actions or controls need to be tindakan atau kontrol interim apa yang perlu
+considered (if any), to mitigate the risk of a dangerous dipertimbangkan (jika ada), untuk memitigasi resiko
+event, until the recommendation is finalized. kejadian berbahaya, sampai rekomendasi diselesaikan.
+5.11.3 Documenting Recommendations 5.11.3 Mendokumentasi Rekomendasi
+The documentation of each recommendation must be Dokumentasi setiap rekomendasi harus jelas sesuai
+clear according to the possible dangerous events under kemungkinan kejadian berbahaya yang menjadi
+consideration, the PHA Team's risk assessment, and how pertimbangan, assessment resiko Tim PHA, dan
+the implementation of these recommendations can bagaimana implementasi dari rekomendasi tersebut
+reduce risk. In documenting recommendations, the PHA dapat menurunkan resiko. Dalam mendokumentasikan
+Team must: rekomendasi, Tim PHA harus:
+ Includes or refers to specific findings during Hazard • Mencakup atau merujuk kepada temuan yang
+Evaluation (i.e., HAZOPS, What-If, or other spesific saat Hazard Evaluation (yaitu lembar kerja
+worksheets of the PHA where the recommendation HAZOPS, What-If, atau lainnya) atau porsi lain dari
+comes from (i.e., Human Factor, ISP or Facility PHA di mana rekomendasi tersebut berasal (yaitu
+Siting). Human Factor, ISP atau Facility Siting).
+ Use clear and concise language. The mindset and • Gunakan bahasa yang jelas dan ringkas. Pola pikir
+logic of the PHA Team to make recommendations dan logika dari Tim PHA untuk membuat
+should be well documented in the rekomendasi harus didokumentasikan dengan baik
+recommendations section of the PHA report. di bagian rekomendasi laporan PHA.
+The personnel that assigned to create solutions to Personil yang ditugaskan membuat solusi untuk
+complete recommendations should be provided with menyelesaikan rekomendasi harus diberi informasi
+detailed information. detail.
+5.11.4 Management's Response to 5.11.4 Respond Manajemen Terhadap
+Recommendations Rekomendasi
+When the PHA is over, the PHA Team leader should meet Saat PHA selesai, ketua Tim PHA harus bertemu dengan
+with TGI Management to review the PHA results and Manajemen TGI untuk mereviu hasil dan rekomendasi
+recommendations. Management should review the PHA. Manajemen harus mereviu rekomendasi PHA
+PHA's recommendations. Management should document tersebut. Manajemen harus mendokumentasikan
+each response to each recommendation, whether it respond masing-masing pada setiap rekomendasi, baik
+
+--- Halaman 30 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 30 of 49
+accepts as is, accepts with modifications, or rejects itu menerima apa adanya, menerima dengan modifikasi,
+recommendations. atau menolak rekomendasi.
+Respond management must have a rational reason or Respond manajemen harus mempunyai alasan rasional
+basis for modification or rejection of existing atau dasar dari modifikasi atau penolakan terhadap
+recommendations. With the existing response it is rekomendasi yang ada. Dengan respond yang ada perlu
+necessary to appoint personnel who are responsible for ditunjuk personil yang bertanggung jawab
+following up and the date of completion of each menindaklanjuti dan tanggal penyelesaiannya dari
+recommendation received. The turnaround time for the setiap rekomendasi yang diterima. Waktu penyelesaian
+recommendations received should be based on the untuk rekomendasi yang diterima harus berdasarkan
+urgency of the existing situation and the realistic urgensi dari situasi yang ada dan perkiraan yang realistik
+estimate of the expected work, the presence of dari pekerjaan yang diharapkan, keberadaan sumber
+resources for performing the work and the importance daya untuk melakukan pekerjaan dan pentingnya
+of completing the equipment installation process. penyelesaian proses pemasangan peralatan.
+After reviewing the PHA and related recommendations, Setelah mereivew PHA dan rekomendasi terkait,
+Management must sign a PHA report, which indicates Manajemen harus menandatangani laporan PHA, yang
+acceptance of the PHA Team's work. Recommendations menunjukkan penerimaan hasil kerja Tim PHA.
+received that require higher authorization regarding Rekomendasi yang diterima yang memerlukan otorisasi
+fees, must also be authorized by the authorized member lebih tinggi terkait biaya, juga harus diotorisasi oleh
+of Management to obtain a financing commitment. anggota Manajemen yang mempunyai otorisasi untuk
+mendapatkan komitmen pembiayaan.
+For all recommendations, the PHA and Management Untuk semua rekomendasi, Tim PHA dan Manajemen
+Team should consider what interim actions or controls harus mempertimbangkan tindakan atau kontrol interim
+should be in place (if any) until a permanent solution apa yang harus ada (jika ada) sampai solusi permanen
+is implemented. diimplemantasikan.
+Management may modify and reject recommendations Manajemen dapat memodifikasi dan menolak
+with clear justification based on existing evidence, rekomendasi dengan justifikasi yang jelas berdasakan
+where one or more of the following Conditions are met: bukti yang ada, yang mana salah satu atau lebih dari
+kondisi di bawah ini terpenuhi:
+ The basis of the analysis of the recommendations • Dasar dari analisa rekomendasi mengandung
+contains factual errors. kesalahan fakta.
+ Recommendations are not important to protect the • Rekomendasi tidak penting untuk melindungi
+health and safety of workers or contractors. kesehatan dan keselamatan pekerja atau
+ Other alternatives will provide more adequate kontraktor.
+protection. • Alternatif lain akan memberikan proteksi yang lebih
+ The recommendations made, technically cannot be memadai.
+made. • Rekomendasi yang dibuat, secara teknis tidak
+dapat dilakukan.
+Documentation of justifying or rejecting Dokumentasi dari pembenaran atau menolak
+recommendations should be covered in the rekomendasi harus tercakup di respond Manajemen.
+Management response.
+5.11.5 Follow-up Recommendations 5.11.5 Rekomendasi Tindak Lanjut
+5.11.5.1 Overseeing the Completion of 5.11.5.1 Mengawasi Penyelesaian Rekomendasi
+Recommendations
+A formal system should be established to monitor the Sebuah sistem yang formal harus dibuat untuk
+progress of the completion of recommendations. mengawasi progres penyelesaian rekomendasi. Laporan
+Periodic reports containing unfinished recommendations periodik yang berisi rekomendasi yang belum selesai
+should be published at least once every three months harus dipublikasikan paling tidak setiap tiga bulan sekali
+and distributed to Regional Managers, Facility Integrity dan didistribusikan kepada Regional Manager, Facility
+Managers, Pipeline Integrity Managers, other managers Integrity Manager, Pipeline Integrity Manager, Manager
+related to recommendations, all personnel assigned to lain yang terkait rekomendasi, semua personil yang
+follow up on recommendations, and their supervisors. ditugaskan untuk menindaklanjuti rekomendasi, dan
+atasannya.
+
+--- Halaman 31 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 31 of 49
+The report should underscore recommendations that are Laporan tersebut harus menggarisbawahi rekomendasi
+past their deadline. Recommendations should not be yang melewati batas waktunya. Rekomendasi tidak
+excluded from the monitoring system without boleh dikeluarkan dari sistem monitoring tanpa
+documentation and explanations that have good dokumentasi dan penjelasan yang mempunyai alasan
+reasons. kuat.
+5.11.5.2 Resolving Recommendations 5.11.5.2 Menyelesaikan Rekomendasi
+When Management has provided an answer, existing Saat Manajemen telah memberikan jawaban,
+recommendations may be modified or closed with the rekomendasi yang ada dapat dimodifikasi atau ditutup
+following actions: dengan tindakan berikut:
+ Complete recommendations (as written in the PHA • Menyelesaikan rekomendasi (seperti yang tertulis
+report). dalam laporan PHA).
+The settlement documentation must clearly state Dokumentasi penyelesaian harus menyatakan
+the actions taken to complete the dengan jelas tindakan yang diambil untuk
+recommendations. menyelesaikan rekomendasi.
+ Modification of recommendations. • Modifikasi rekomendasi.
+In some cases, modification of PHA Dalam beberapa kasus, modifikasi rekomendasi
+recommendations can be done by providing PHA dapat dilakukan dengan memberikan solusi
+alternative solutions to the solutions listed in the alternatif dari solusi yang tertera di rekomendasi.
+recommendations. Reasons for modifying Alasan memodifikasi rekomendasi dapat mencakup
+recommendations can include process changes perubahan proses yang membatalkan rekomendasi
+that invalidate previous recommendations, sebelumnya, penemuan solusi yang lebih baik,
+discovery of better solutions, lower-cost solutions solusi berbiaya lebih rendah dengan hasil yang
+with similar results, or new data. sama, atau data baru.
+If a PHA recommendation is modified, the justification Jika rekomendasi PHA dimodifikasi, justifikasi modifikasi
+for that modification should be documented. Alternative tersebut harus didokumentasikan. Solusi alternatif harus
+solutions should be presented to manage potential ditampilkan untuk mengelola potensi bahaya dengan
+hazards with minimal effectiveness equal to the initial efektifitas minimal sama dengan rekomendasi awal.
+recommendations. • Mengubah tanggal tenggat waktu sebuah
+ Change the deadline date of a rekomendasi.
+recommendation. Jika rekomendasi tidak dapat diselesaikan
+If the recommendation cannot be sesuai tenggat waktu yang ditetapkan,
+completed within the established deadline, otorisasi tertulis harus dibuat untuk
+a written authorization must be made to menentukan tenggat waktu yang baru.
+determine the new deadline. Such Otorisasi tersebut harus mendapat
+authorization must be approved by the persetujuan dari Manager dan Direktur dari
+Manager and the Director of the personnel personil yang bertanggung jawab
+responsible for completing the menyelesaikan rekomendasi.
+recommendations. • Membatalkan rekomendasi yang telah
+ Cancel recommendations that have been diterima.
+accepted. Sebuah rekomendasi dapat dibatalkan
+A recommendation may be canceled upon setelah diterima karena perubahan proses
+receipt due to a process change or the atau adanya informasi baru yang
+presence of new information that membatalkan rekomendasi awal.
+invalidates the original recommendation.
+There must be complete and detailed documentation Harus ada dokumentasi yang lengkap dan detail yang
+stating the justification for the cancellation of a menyatakan justifikasi dari pembatalan sebuah
+recommendation. The documentation should include the rekomendasi. Dokumentasi harus mencakup alasan dan
+reasons and logic that support the change plus the logika yang mendukung perubahan ditambah
+documentation or calculations that support it. The same dokumentasi atau perhitungan yang mendukungnya.
+criteria are used to justify the rejection of a Kriteria yang sama digunakan untuk menjustifikasi
+recommendation used to invalidate a previously penolakan sebuah rekomendasi yang digunakan untuk
+accepted recommendation. membatalkan rekomendasi yang diterima sebelumnya.
+
+--- Halaman 32 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 32 of 49
+All existing modifications and completions must be Semua modifikasi dan penyelesaian yang ada harus
+documented, formally approved by Management, and didokumentasikan, disetujui secara formal oleh
+placed as a PHA. Manajemen, dan ditempatkan sebagai PHA.
+5.12 PHA Documentations 5.12 Dokumentasi PHA
+5.12.1 PHA Final Report Objective 5.12.1 Tujuan Laporan Akhir PHA
+The purpose of the final PHA report is to formally Tujuan dari laporan akhir PHA adalah untuk
+document the work of the PHA Team. This document mendokumentasikan secara formal hasil kerja dari Tim
+contains a report on the findings obtained by the PHA PHA. Dokumen ini berisi laporan mengenai temuan yang
+Team to be submitted to TGI Management. diperoleh Tim PHA untuk diserahkan kepada Manajemen
+TGI.
+5.12.2 General Matters Regarding the Final Report 5.12.2 Hal Umum Mengenai Laporan Akhir
+The final report must be accurate, detailed with Laporan akhir harus akurat, detail dengan penjelasan
+explanations that give the reader a good understanding yang memberikan pengertian yang baik kepada
+of the hazards that are being processed, the potential pembacanya mengenai bahaya yang ada diproses,
+occurrence of dangerous situations, mitigation and potensi terjadinya situasi berbahaya, mitigasi dan
+control of the hazards and consequences resulting from kontrol terhadap bahaya dan konsekuensi akibat
+the loss of the Line of Defense. hilangnya Line of Defence.
+Copies of the final report are permanently stored as Kopi laporan akhir disimpan permanen sebagai dokumen
+formal TGI documents, and should include all formal TGI, dan harus mencakup semua dokumentasi
+documentation of teamwork, calculations and material dari kerja tim, perhitungan dan daftar referensi material
+reference lists and other supporting documents. Copies serta dokumen pendukung lainnya. Kopi dokumen
+of such documents constitute permanent records and tersebut merupakan catatan permanen dan harus
+shall be kept for the life of the Facility in question. disimpan selama umur Fasilitas yang bersangkutan.
+5.12.3 Final Report Distribution 5.12.3 Distribusi Laporan Akhir
+The final PHA report should be distributed as follows: Laporan akhir PHA harus didistribusikan sebagai berikut:
+ Chairman of the PHA Sub-Committee. • Ketua Sub Komite PHA.\
+ Chairman of the PSM Sub-Committee. • Ketua Sub Komite PSM.
+ Manager of the area where the PHA is • Manager area di mana dilaksanakan PHA.
+implemented. • Masing masing anggota Tim PHA.
+ Each member of the PHA Team. • Bagian Facility atau Pipeline Integrity Manager
+ Facility or Pipeline Integrity Manager Section for untuk central file.
+the central file.
+5.12.4 Final Repot Format 5.12.4 Format Laporan Akhir
+The format of the final report can be seen in point 6. Format laporan akhir dapat dilihat di point 6. Format ini
+This format should be used for baseline PHA and harus digunakan untuk PHA baseline dan revalidasi.
+revalidation.
+5.12.5 Communication of PHA Findings and 5.12.5 Komunikasi Temuan dan Rekomendasi PHA
+Recommendations
+Management should help ensure all PHA findings, Manajemen harus membantu memastikan semua
+including actions taken, are communicated to all workers temuan PHA, termasuk tindakan yang diambil,
+serving at the Facility in question, personnel affected by dikomunikasikan kepada semua pekerja yang bertugas
+the recommendations or personnel completing PHA di Fasilitas yang bersangkutan, personil yang
+recommendations. terpengaruh dengan rekomendasi atau personil yang
+menyelesaikan rekomendasi PHA.
+
+--- Halaman 33 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 33 of 49
+5.13 Management System 5.13 Sistem Manajemen
+5.13.1 Report 5.13.1 Laporan
+PHA result reports should be kept in accordance with Laporan hasil PHA harus disimpan sesuai dengan
+TGI's document retention policy. kebijakan penyimpanan dokumen TGI.
+PHA reports should be kept for the life of the Facility in Laporan PHA harus disimpan sepanjang umur Fasilitas
+question. Facility/Pipeline Integrity Managers and yang bersangkutan. Facility/Pipeline Integrity Manager
+Regional Managers are responsible for ensuring the dan Regional Manager bertanggung jawab untuk
+documentation system is present and maintained. memastikan sistem dokumentasi ada dan terjaga.
+5.13.2 Audit 5.13.2 Audit
+PHA procedures, schedules, PHA reports and PHA Prosedur PHA, jadwal, laporan PHA dan dokumentasi
+recommendation documentation should be audited to rekomendasi PHA harus diaudit untuk membantu
+help ensure these standards are implemented. The audit memastikan standard ini diimplementasikan. Audit
+can be carried out in conjunction with the PSM audit. dapat dilakukan bersamaan dengan audit PSM.
+5.13.3 PHA Standard Review Process 5.13.3 Proses Reviu Standard PHA
+This procedure must be reviewed and revised, not more Prosedur ini harus direviu dan direvisi, tidak lebih dari
+than five years from the date of the last revision, The lima tahun dari tanggal revisi terakhir, Sub Komite PHA
+PHA Sub Committee is responsible for conducting the bertanggung jawab untuk melakukan reviu. Sub Komite
+review. The PSM Sub-Committee is responsible for PSM bertanggung jawab membantu memastikan bahwa
+helping ensure that reviews are carried out. reviu dilakukan.
+5.13.4 Deviation Process 5.13.4 Proses Deviasi
+Deviations from this procedure should be authorized by Deviasi dari prosedur ini harus diotorisasi oleh
+Management after consultation with the PHA Sub Manajemen setelah berkonsultasi dengan Sub Komite
+Committee and HSSE Manager. The deviation must be PHA dan HSSE Manager. Deviasi harus
+documented, and the documentation must include the didokumentasikan, dan dokumentasi tersebut harus
+facts that support the decision to make the deviation. mencakup fakta relefan yang mendukung keputusan
+Authorization for the deviation made must be renewed untuk melakukan deviasi. Otorisasi terhadap deviasi
+periodically and not older than three years. yang dibuat harus diperbaharui secara periodik dan
+tidak lebih dari tiga tahun.
+5.13.5 Training and Communication 5.13.5 Pelatihan dan Komunikasi
+The PHA Sub-Committee is responsible for establishing Sub Komite PHA bertanggung jawab untuk membangun
+PHA training programs in accordance with the program pelatihan PHA sesuai dengan metodologi pada
+methodology on this procedure. prosedur ini.
+Communication of the results of the PHA Study is also Komunikasi hasil Studi PHA juga dilaksanakan oleh Sub
+carried out by the PHA Sub-Committee. Komite PHA.
+5.13.6 Contact 5.13.6 Kontak
+The contact regarding this document is the PHA Sub- Kontak terkait dokumen ini adalah Sub Komite PHA.
+Committee.
+6. Report Form 6 Formulir Laporan
+B.1 General Explanation B.1 Penjelasan Umum
+PHA baseline and revalidation requires a Baseline dan revalidasi PHA memerlukan format
+comprehensive and well-organized PHA format in PHA yang komprehensif dan terorganisir dengan
+terms of its content and structure. baik dalam hal isi dan strukturnya.
+B.2 Format PHA B.2 Format PHA
+
+--- Halaman 34 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 34 of 49
+Item Halaman / Bagian Item Halaman / Bagian
+Home Page i Halaman Muka i
+Approval and Persetujuan dan
+ii ii
+Authorizations Otorisasi
+Table of Contents iii Daftar Isi iii
+Explanation and Penjelasan dan
+Chapter A Bagian A
+Overview Overview
+Management Rekomendasi dan
+Bagian B
+Recommendation and Chapter B Jawaban Manajemen
+Answer Anggota dan Kualifitas
+Bagian C
+PHA Team Members Tim PHA
+Chapter C
+and Quality Kesimpulan Hasil
+Bagian D
+PHA Meeting Result Meeting PHA
+Chapter D
+Conclusion Pelatihan Tim Bagian E
+Team Training Chapter E Penjelasan Proses dan
+Bagian F
+Process and Peralatan
+Chapter F
+Equipment Explained Perubahan Process
+Process Safety Safety Information
+Bagian G
+Information (PSI) (PSI) Sejak PHA
+Chapter G
+Changes Since the Last Terakhir
+PHA Analisa PSI Bagian H
+PSI Analysis Chapter H Hazard Material Bagian I
+Hazard Material Chapter I Hazard, Kejadian
+Hazard, Dangerous Berbahaya dan Line of Bagian J
+Events and Line of Chapter J Defense
+Defense Consequence Analysis Bagian K
+Consequence Analysis Chapter K Konsekuensi Dari
+Consequences of Kegagalan Kontrol
+Bagian L
+Engineering and Engineering dan
+Chapter L
+Administrative Control Administrasi
+Failure Reviu Terhadap
+Review of Incidents in Insiden Pada Proses Bagian M
+Chapter M
+Facility Processes Fasilitas
+Field Tour Chapter N Obervasi Lapangan
+Bagian N
+Hazard Evaluation (Field Tour)
+Chapter O
+Methodology Metodologi Hazard
+Bagian O
+Hazard Evaluation Evaluation
+Chapter P
+Worksheet Lembar Kerja Hazard
+Bagian P
+Facility Siting Chapter Q Evaluation
+Inherently Safer Facility Siting Bagian Q
+Chapter R
+Selection Proces Pemilihan Inherently
+Bagian R
+Human Factors Bagian S Safer Process
+Evaluasi Interlock Bagian T Human Factors Bagian S
+Referensi Bagian U Evaluasi Interlock Bagian T
+PHA Result Referensi Bagian U
+Bagian V
+Communication Komunikasi Hasil PHA Bagian V
+Lampiran Bagian W Lampiran Bagian W
+B.2.1. Home Page B.2.1. Halaman Muka
+The PHA report home page should contain the title and Halaman Muka laporan PHA harus berisi judul dan
+date of the PHA. Other information, such as tanggal PHA. Informasi lain, seperti nomor identifikasi
+identification number (if any) and PHA type, may also be (jika ada) dan jenis PHA, dapat juga dimasukkan.
+entered.
+B.2.2. Approvals and Authorizations B.2.2. Persetujuan dan Otorisasi
+
+--- Halaman 35 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 35 of 49
+The PHA report should include an approval and Laporan PHA harus mencakup halaman persetujuan dan
+authorization page, which includes a PHA Team otorisasi, yang mencakup halaman tanda tangan
+member's signature page. The signature page must anggota Tim PHA. Halaman tanda tangan harus
+clearly state that the facility being analyzed is safe or menyatakan dengan jelas bahwa Fasilitas yang dianalisa
+unsafe to operate. A consensus statement with the right adalah aman atau tidak aman untuk dioperasikan.
+language, placed on this page, followed by the names, Statemen konsensus dengan bahasa yang tepat,
+titles and signatures of all full-time members of the PHA ditempatkan di halaman ini, diikuti oleh nama, jabatan
+Team. dan tanda tangan seluruh anggota full-time Tim PHA.
+If the team concludes that the process is unsafe to
+operate, the Facility's process must be halted until Jika tim menyimpulkan bahwa proses tidak aman untuk
+appropriate follow-up is performed for the operation to dioperasikan, proses Fasilitas tersebut harus dihentikan
+proceed safely. sampai tindak lanjut yang sesuai dilakukan agar operasi
+dapat berjalan dengan selamat.
+In addition, the name, job title and signature of the Sebagai tambahan, nama, jabatan dan tanda tangan
+approving and authorizing management must be manajemen yang menyetujui dan meng-otorisasi harus
+present on the team member's signature page or a ada di halaman tanda tangan anggota tim atau halaman
+separate page. terpisah.
+B.2.3. Table of Contents B.2.3. Daftar Isi
+The PHA baseline should have a table of contents page Baseline PHA harus mempunyai halaman daftar isi
+in accordance with the format shown above. sesuai dengan format yang ditunjukkan di atas.
+B.2.4. Part A – Explanation and Overview B.2.4. Bagian A – Penjelasan dan Overview
+The PHA report should include an explanation and Laporan PHA harus mencakup bagian penjelasan dan
+overview section. This section briefly describes the overview. Bagian ini menjelaskan secara singkat tentang
+process under review and the scope of the PHA. proses yang sedang di-reviu dan ruang lingkup PHA.
+B.2.5. Part B – Management B.2.5. Bagian B – Rekomendasi dan Jawaban
+Recommendation and Answer Manajemen
+The PHA report should include a recommendation and Laporan PHA harus mencakup bagian rekomendasi dan
+management response section. This section should jawaban manajemen. Bagian ini harus memberikan
+provide full documentation of the recommendations dokumentasi lengkap dari rekomendasi yang dibuat oleh
+made by the team as a result of the PHA activities and tim sebagai hasil dari aktifitas PHA dan memberikan
+provide space for management's response to those tempat untuk jawaban manajemen terhadap
+recommendations. Various detailed explanations that rekomendasi tersebut. Berbagai penjelasan detail yang
+support recommendations must be documented in such mendukung rekomendasi harus didokumentasikan
+a way with a clear mindset and logic. sedemikian rupa dengan pola pikir dan logika yang jelas.
+As a suggestion, the following formats can be used: Sebagai saran, format di bawah ini dapat digunakan:
+Recommendation : A number or other No. : Suatu nomor atau identifikasi
+No. identification. Rekomendasi lain.
+Description : A detailed description of Deskripsi : Penjelasan detail mengenai
+the specific actions of the tindakan spesifik dari
+recommendations set by rekomendasi yang ditetapkan
+the PHA Team. oleh Tim PHA.
+Reason : A detailed discussion of Alasan : Pembahasan detail mengenai
+why the PHA Team made alasan Tim PHA membuat
+recommendations and rekomendasi dan referensi
+references to supporting dokumen pendukungnya.
+documents. Analisa Risiko : Kesimpulan dari analisa resiko
+Risk Analysis : The conclusion of the risk terhadap potensi kejadian
+analysis of potentially berbahaya yang
+dangerous events that give memunculkan rekomendasi.
+rise to recommendations.
+
+--- Halaman 36 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 36 of 49
+B.2.6. Part C – Team Member Membership and B.2.6. Bagian C – Keanggotaan dan Kualifitas
+Quality Anggota Tim
+The PHA report should include the membership and Laporan PHA harus mencakup bagian keanggotaan dan
+quality of the team. This section describes a detailed list kualifitas tim. Bagian ini menjelaskan daftar detail
+of full-time members of the PHA Team. If there are anggota full-time Tim PHA. Jika ada anggota adhoc atau
+adhoc or part-time members should also be written. The part time juga harus ditulis. Saran formatnya adalah
+format suggestions are as follows: sebagai berikut:
+ Name
+ Job title • Nama
+ Affiliates (third parties or internal companies) • Jabatan kerja
+ Expertise in PHA (e.g., operator or process • Afiliasi (pihak ketiga atau internal perusahaan)
+engineer) • Keahlian dalam PHA (misanya operator atau
+ Length of work experience in a company or process engineer)
+industry • Lama pengalaman kerja di perusahaan atau
+ Length of experience in the process or area being industry
+reviewed • Lama pengalaman di proses atau area yang
+ Previous PHA training sedang direviu
+ Previous PHA experience. • Pelatihan PHA sebelumya
+• Pengalaman PHA sebelumnya.
+B.2.7. Part D – PHA Team Meeting B.2.7. Bagian D – Meeting Tim PHA
+The PHA report should include the PHA Team meeting Laporan PHA harus mencakup bagian meeting Tim PHA
+section and its conclusions. At a minimum, this section dan kesimpulannya. Minimum, bagian ini harus
+should include a list of PHA Team meetings conducted mencakup daftar meeting Tim PHA yang dilakukan dan
+and a list of attendees. For teams that want to include daftar hadirnya. Untuk tim yang ingin memasukkan
+minutes of each meeting, it can be added to this section. risalah setiap meeting, dapat ditambahkan pada bagian
+ini.
+B.2.8. Part E – Team Training B.2.8. Bagian E – Pelatihan Tim
+The PHA report should include a section on team Laporan PHA harus mencakup bagian tentang pelatihan
+member training. This can include a description of the anggota tim. Hal ini dapat mencakup deskripsi tentang
+training provided to the team. This section should pelatihan yang diberikan kepada tim. Bagian ini harus
+include documentation on training overview of PHA mencakup dokumentasi tentang pelatihan overview
+procedures and hazard evaluation applications selected prosedur PHA dan aplikasi Hazard Evaluation yang dipilh
+for PHA Studies. untuk Studi PHA.
+B.2.9. Part F – Process and Equipment Explained B.2.9. Bagian F – Penjelasan Proses dan Peralatan
+The PHA report should include an explanatory section on Laporan PHA harus mencakup bagian penjelasan
+the process and equipment. The limitations of a PHA tentang proses dan peralatan. Batasan dari Studi PHA
+Study should be described in detail in this section. This harus dijelaskan secara detail di bagian ini. Bagian ini
+section aims to provide a detailed explanation of the bertujuan untuk memberikan penjelasan detail dari
+process and equipment, in such a way that readers who proses dan peralatan, sedemikian rupa sehingga
+are not familiar with the process can understand it pembaca yang tidak familiar dengan proses dapat
+clearly. If required, a description of chemical processes, memahaminya dengan jelas. Jika diperlukan, deskripsi
+material management and operating units should be proses kimia, pengelolaan material dan unit operasi
+included. Simplified process diagrams, images and harus dimasukkan. Diagram proses yang
+photos can also be included to increase the reader's disederhanakan, gambar dan photo juga dapat
+understanding. dimasukkan untuk menambah pemahaman pembaca.
+B.2.10. Part G – Process Safety Information (PSI) B.2.10. Bagian G – Perubahan Process Safety
+Changes Since the Last PHA Information (PSI) Sejak PHA Terakhir
+The PHA report should include changes to the PSI since Laporan PHA harus mencakup perubahan pada PSI
+the last PHA was created. For PHA revalidation, this sejak PHA terakhir dibuat. Untuk revalidasi PHA, bagian
+
+--- Halaman 37 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 37 of 49
+section provides a place to list and conclude MoC ini memberikan tempat untuk membuat daftar dan
+reviews as part of the PHA and discusses the importance kesimpulan reviu MoC sebagai bagian dari PHA, dan
+of those changes to the process. membahas pentingnya perubahan tersebut pada proses.
+B.2.11. Part H – PSI Analysis B.2.11. Bagian H – Analisa PSI
+The PHA report should include a PSI analysis section. Laporan PHA harus mencakup bagian analisa PSI.
+This section aims to provide information related to the Bagian ini bertujuan untuk memberikan informasi terkait
+team's activities in reviewing and confirming the aktifitas tim dalam me-reviu dan mengkonfirmasikan
+adequacy of PSI, or an overview of identified kecukupan PSI, atau gambaran defisiensi yang
+deficiencies to be improved, with an emphasis on the teridentifikasi agar dilakukan perbaikan, dengan
+process design bases and equipment design bases of the penekanan pada komponen process design bases dan
+PSI elements. equipment design basis dari elemen PSI.
+Any deviations to the code and standards identified, and Segala deviasi terhadap code dan standar yang
+other issues related to how the equipment is designed teridentifikasi, dan masalah lain terkait bagaimana
+and installed must conform to the code and standards, disain dan instalasi peralatan harus sesuai dengan code
+and need to be addressed in the PHA, should be dan standar, dan perlu ditanggapi di PHA, harus
+documented in this section. didokumentasikan di bagian ini.
+B.2.12. Part I – Material Hazard B.2.12. Bagian I – Hazard Material
+The PHA report should include a section describing Laporan PHA harus mencakup bagian yang menjelaskan
+material hazards. This section should contain a list of all tentang hazard material. Bagian ini harus berisi daftar
+materials present in the process, including raw semua material yang ada di proses, termasuk bahan
+materials, semi-finished, waste products, end products, mentah, setengah jadi, produk buangan, produk akhir,
+utilities, and construction materials. utiliti dan material konstruksi.
+B.2.13. Part J – Hazard, Dangerous Events and Line B.2.13. Bagian J – Hazard, Kejadian Berbahaya dan
+of Defense Line of Defense
+The PHA team must identify and understand broadly the Tim PHA harus mengidentifikasi dan memahami secara
+consequences of a hazardous event related to the luas tentang konsekuensi dari suatu kejadian berbahaya
+process at the Facility. Based on the characteristics of terkait dengan proses di Fasilitas. Berdasarkan
+this incident, the following information should be karateristik kejadian ini, informasi berikut harus
+considered in the Consequence Analysis: dipertimbangkan pada Consequence Analysis:
+ Type of occurrence. • Jenis kejadian.
+ Approximate amount of released chemicals. • Perkiraan jumlah bahan kimia yang terlepas.
+ The consequences of events. • Konsekuensi dari kejadian.
+ Its effect on the occupational health and safety of • Pengaruhnya terhadap kesehatan dan
+personnel in the facility and the surrounding keselamatan kerja personil di fasilitas dan
+community. komunitas di sekitarnya.
+This section should describe the conclusions of the Bagian ini harus menjelaskan kesimpulan dari hazard
+identified hazard, the hazardous events that can occur yang teridentifikasi, kejadian berbahaya yang dapat
+as part of the hazard in the process, and the line of terjadi sebagai bagian dari hazard pada proses, dan line
+defense that lowers or eliminates the possibility of such of defense yang menurunkan atau menghilangkan
+dangerous events. kemungkinan terjadinya kejadian berbahaya tersebut.
+This section can also be used to document estimates of Bagian ini juga dapat digunakan untuk
+the quantity of hazard materials that can be released, mendokumentasikan perkiraan kuantitas material
+their consequences and effects on the occupational bahaya yang dapat terlepas, konsekuensinya dan efek
+safety and health of facility personnel and surrounding terhadap keselamatan dan kesehatan kerja personil
+communities. fasilitas dan komunitas di sekitarnya.
+One of the purposes for which this section was created Salah satu tujuan dibuatnya bagian ini adalah untuk
+was to divide the process into segments. Then, for each membagi proses menjadi beberapa segmen. Lalu, untuk
+segment, the hazards in each of these segments can be tiap segmen, hazard yang ada di masing-masing
+listed. Each hazard, a specific hazardous event that segmen tersebut dapat dibuat daftarnya. Pada setiap
+
+--- Halaman 38 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 38 of 49
+needs to be considered, can be listed. if appropriate, an hazard, kejadian berbahaya yang spesifik dan perlu
+estimate of the quantity of hazardous material release. dipertimbangkan, dapat dibuat daftarnya, mencakup,
+jika sesuai, perkiraan kuantitas terlepasnya bahan
+berbahaya.
+For each event, a qualitative explanation of the possible Untuk setiap kejadian, penjelasan kualitatif dari
+consequences (including the effect on personnel in the konsekuen yang mungkin terjadi (termasuk efek
+Facility and surrounding communities) and safeguards, terhadap personil di Fasilitas dan komunitas di
+or lines of defense should be given. Example: sekitarnya) dan safeguard, atau line of defense harus
+diberikan. Contoh:
+Segment : Jabung Compressor Segmen : Stasiun Kompresor Jabung.
+Station. Hazard : Gas methane bertekanan tinggi
+(1060 psig) yang mudah terbakar.
+Hazard : Flammable high-pressure
+Tingkat resiko: Loss of containment gas methan
+methane gas (1060
+dari kebocoran pipa, yang dapat
+psig).
+menimbulkan ledakan api dan
+Risk Level : Loss of containment of
+kebakaran besar.
+methane gas from pipe
+leaks, which can cause
+explosions of fire and
+large fires.
+Konsekuensi : Potensi terjadinya cidera serius
+Consequences : The potential for serious
+kepada personil, namun
+injury to personnel, but
+berpotensi lebih besar, sebagai
+potentially greater, as a
+fungsi dari lokasi kebocoran,
+function of the leak site,
+ukuran dan durasinya, terhadap
+its size and duration, to
+kerusakan peralatan dan aset.
+damage to equipment
+Terlepasnya methane dapat
+and assets. The release
+bervariasi, mulai dari kebocoran
+of methane can vary from
+kecil sampai pecahnya jalur pipa,
+small leaks to ruptures of
+yang jika tidak dikelola akan
+pipelines, which if left
+menyebabkan terlepasnya gas
+unmanaged will lead to
+methane bertekanan tinggi ke
+the release of high-
+atmosphere, yang dapat berakibat
+pressure methane gas
+kebakaran dan ledakan besar
+into the atmosphere,
+dalam jangka waktu yang lama.
+which can result in fires
+and large explosions over
+a long period of time.
+Safeguard : Pipa didisain dan diinspeksi sesuai
+Safeguard : Pipes are designed and
+Code pipa.
+inspected according to the
+Patroli operator di area fasilitas
+pipe code.
+empat kali dalam satu shift.
+Patrol operators in the
+Valve yang dapat ditutup dari
+facility area four times in
+GTM.
+one shift.
+Block valve di upstream dan
+Valve that can be closed
+downstream stasiun kompresor.
+from GTM.
+Block valves in the
+upstream and downstream
+of the compressor station.
+Perlu diperhatikan bahwa hazard non bahan kimia
+Note that non-chemical hazards (such as heat and
+(seperti panas dan energi kinetik) bisa jadi ada di proses
+kinetic energy) may be present in the facility process
+fasilitas yang dianalisa, dan hal ini juga perlu disebutkan
+being analyzed, and this also needs to be mentioned in
+di bagian ini.
+this section.
+
+--- Halaman 39 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 39 of 49
+B.2.14. Part K – Consequence Analysis B.2.14. Bagian K – Consequence Analysis
+The PHA report should have a Consequence Analysis Laporan PHA harus mempunyai bagian Consequence
+section. This section discusses the results of the Analysis. Bagian ini membahas hasil Consequence
+Consequence Analysis and provides basic conclusions Analysis dan memberikan kesimpulan dasar yang
+drawn from the Consequence Analysis. It is diambil dari Consequence Analysis. Disarankan agar
+recommended that the discussion of existing pembahasan konsekuensi yang ada dimasukkan di
+consequences be included in section J of this report. bagian J dari laporan ini. Beberapa penjelasan tentang
+Some explanations of the consequences are also konsekuensi juga dibahas di lembar kerja Hazard
+discussed in the Hazard Evaluation worksheet. Evaluation.
+The purpose of this section is to provide conclusions and Tujuan dari bagian ini adalah untuk memberikan
+discussions of the Consequence Analysis created to kesimpulan dan pembahasan dari Consequence Analysis
+support the PHA report. The results of the analysis using yang dibuat untuk mendukung laporan PHA. Hasil
+modeling (software: Aloha, Phast, etc.) can also be analisa dengan menggunakan modeling (software:
+included in this section. Aloha, Phast, dll) juga dapat dimasukkan di bagian ini.
+B.2.15 Part L – Consequences of Engineering and B.2.15 Bagian L – Konsekuensi Dari Kegagalan
+Administrative Control Failures Kontrol Engineering dan Administrasi
+This section is used to document in detail the possible Bagian ini digunakan untuk mendokumentasikan secara
+consequences. detail konsekuensi yang mungkin terjadi.
+Examples of sentences written in this section: Contoh kalimat yang ditulis di bagian ini:
+High-pressure gas (1060 psig) in the Jabung Station Gas bertekanan tinggi (1060 psig) di area Stasiun
+area, in the event of a leak that causes fire and Jabung, jika terjadi kebocoran yang menyebabkan
+explosion, will have the potential to cause serious injury, kebakaran dan ledakan, akan berpotensi menyebabkan
+may even cause the death of more than three personnel, cidera serius, bahkan dapat menyebabkan kematian
+and damage to assets of great value, under certain lebih dari tiga personil, dan kerusakan aset dengan nilai
+Conditions that occur due to failure of engineering and besar, pada kondisi tertentu yang terjadi karena
+administrative control of the Facility. gagalnya kontrol engineering dan administrasi pada
+Fasilitas.
+B.2.16. Part M – Review of Incidents at Facilities B.2.16. Bagian M – Reviu Terhadap Insiden Pada
+Fasilitas
+The PHA report should contain a section to review Laporan PHA harus berisi suatu bagian untuk mereviu
+process incidents. Any serious incident report reviewed insiden proses. Setiap laporan insiden serius yang
+in the PHA should be listed and inferred (i.e., date, title, direviu di PHA harus dibuat daftarnya dan disimpulkan
+and explanation of what happened). Any learnings or (yaitu tanggal, judul, dan penjelasan apa yang terjadi).
+conclusions resulting from a PHA review should be Setiap pembelajaran atau kesimpulan yang dihasilkan
+discussed, including all lists or discussions of key factors dari reviu PHA harus dibahas, termasuk semua daftar
+identified from the root cause analysis. atau diskusi dari faktor kunci yang teridentifikasi dari
+analisa akar masalah.
+B.2.17. Part N – Field Observation (Field Tour) B.2.17. Bagian N – Observasi Lapangan (Field Tour)
+The PHA report should contain a section documenting Laporan PHA harus berisi bagian yang
+the dates and findings of the field observations made mendokumentasikan tanggal dan temuan dari observasi
+during the PHA review. lapangan yang dilakukan selama reviu PHA.
+B.2.18. Part O – Hazard Evaluation Methodology and B.2.18. Bagian O – Metodologi Hazard Evaluation
+Reasons for Its Selection dan Alasan Pemilihannya
+The PHA report should contain a section describing the Laporan PHA harus berisi bagian yang menjelaskan
+Hazard Evaluation method chosen to conduct the PHA metode Hazard Evaluation yang dipilih untuk melakukan
+Study, and a rational explanation behind its selection. Studi PHA, dan penjelasan rasional dibalik pemilihannya.
+
+--- Halaman 40 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 40 of 49
+B.2.19. Part P – Hazard Evaluation Working Sheet B.2.19. Bagian P – Lembaran Kerja Hazard
+Evaluation
+The PHA report should contain a section containing Laporan PHA harus berisi bagian yang berisi detail
+detailed records and documentation used on the Hazard catatan dan dokumentasi yang digunakan pada
+Evaluation methodology. These worksheets, which are metodologi Hazard Evaluation. Lembar kerja ini, yang
+usually created using MS-Excel or MS-Word applications biasanya dibuat dengan menggunakan aplikasi MS-Excel
+or other software, for "What If, HAZOP and FMEA, atau MS-Word atau software lain, untuk “What If,
+should be included in this section. HAZOP dan FMEA, harus dimasukkan di bagian ini.
+For PHA revalidation, hazard evaluations conducted in Untuk revalidasi PHA, Hazard Evaluation yang dilakukan
+previous PHAs can be reviewed, updated, and/or reused pada PHA sebelumnya dapat di-reviu, di-update,
+in PHA Studies, in addition to new studies conducted. dan/atau digunakan lagi dalam Studi PHA, sebagai
+tambahan terhadap studi baru yang dilakukan.
+B.2.20. Part Q – Facility Siting B.2.20. Bagian Q – Facility Siting
+The PHA report should contain a section that discusses, Laporan PHA harus berisi bagian yang membahas dan
+and documents aspects of the Facility Siting related to mendokumentasikan aspek Facility Siting terkait proses
+the process being studied. yang sedang dipelajari.
+B.2.21. Part R – Selection of Inherently Safer B.2.21. Bagian R – Pemilihan Inherently Safer
+Process (ISP) Process (ISP)
+The PHA report should contain sections to document the Laporan PHA harus berisi bagian untuk
+PHA Team's consideration of inherently safe mendokumentasikan pertimbangan Tim PHA terhadap
+technologies and their recommendations. In addition to teknologi yang inherently safe dan rekomendasinya.
+recommendations for ISP improvements in existing Sebagai tambahan terhadap rekomendasi perbaikan ISP
+processes, we recommend documenting the features in di proses yang ada, sebaiknya dokumentasikan fitur
+the process and changes that have existed since the last yang ada di proses dan perubahan yang ada sejak PHA
+PHA, reflecting the concept of ISP. terakhir, yang merefleksikan konsep ISP.
+B.2.22. Part S – Human Factor B.2.22. Bagian S – Human Factor
+The PHA report should include a section that discusses Laporan PHA harus mencakup bagian yang membahas
+Human Factors. The process of how the PHA Team Human Factor. Proses bagaimana Tim PHA membahas
+discusses Human Factors should be documented. In Human Factor harus didokumentasikan. Dalam
+some cases, this Conditions can be met by conducting beberapa kasus, persyaratan ini dapat dipenuhi dengan
+one or more field observations focused on Human melakukan satu kali atau lebih obervasi lapangan yang
+Factors and conducting a "What If" analysis. fokus kepada Human Factor, dan melakukan analisa
+“What If”.
+B.2.23.Part T – Interlock Evaluation B.2.23.Bagian T – Evaluasi Interlock
+The PHA report should contain an interlock evaluation Laporan PHA harus mengandung bagian evaluasi
+section. Interlocks used as safeguards or the result of interlock. Interlock yang digunakan sebagai safeguard
+Hazard Evaluation recommendations, the interlock atau hasil rekomendasi Hazard Evaluation, katagori
+category must be determined and documented. For a interlock tersebut harus ditentukan dan
+Safety Instrumented Function, the Safety Integrity Level didokumentasikan. Untuk Safety Instrumented
+of the interlock (and/or PFD) must also be specified and Function, taget Safety Integrity Level dari interlock
+documented. (dan/atau PFD) juga harus ditentukan dan
+didokumentasikan.
+B.2.24. Part U – References B.2.24. Bagian U – Referensi
+The PHA report should contain a reference section. This Laporan PHA harus mengandung bagian referensi.
+section provides a place to record a list of references Bagian ini memberikan tempat untuk mencatat daftar
+used by the PHA Team during the conduct of the PHA referensi yang digunakan oleh Tim PHA selama
+Study. Some examples of references are in the form of melakukan Studi PHA. Beberapa contoh referensi adalah
+
+--- Halaman 41 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 41 of 49
+relevant code and industry standards, previous PHA berupa code dan standard industri yang relefan, laporan
+reports and technical references. PHA sebelumnya dan referensi teknis.
+B.2.25. Part V – Communication of PHA Results B.2.25. Bagian V – Komunikasi Hasil PHA
+The PHA report should contain a section to document Laporan PHA harus berisi bagian untuk
+communications from the PHA results. Line Management mendokumentasikan komunikasi dari hasil PHA.
+should help ensure that the findings of all PHAs, Manajemen Lini harus membantu memastikan bahwa
+including steps taken, are communicated to workers temuan semua PHA, termasuk langkah yang diambil,
+whose work is within the Facility or pipeline, to persons dikomunikasikan kepada pekerja yang pekerjaanya
+affected by the recommendations or actions taken. berada di dalam Fasilitas atau jalur pipa, kepada orang
+yang terpengaruh oleh rekomendasi atau tindakan yang
+This section aims to provide a place to document plans diambil.
+in communicating PHA results. The information
+provided, the methods of communication, and the Bagian ini bertujuan memberikan tempat untuk
+personnel receiving the information must be clearly mendokumentasikan rencana dalam
+documented. PHA results and consequence analysis mengkomunikasikan hasil PHA. Informasi yang
+should be communicated to the emergency response diberikan, metode komunikasi, dan personil yang
+team. menerima informasi harus didokumentasikan dengan
+jelas. Hasil PHA dan analisa konsekuensi harus
+dikomunikasikan kepada tim tanggap darurat.
+B.2.26. Part W – Appendix B.2.26. Bagian W – Lampiran
+This section of the Appendix is used to attach various Bagian Lampiran ini digunakan untuk melampirkan
+supporting documents that have not been included in berbagai dokumen pendukung yang belum dimasukkan
+other sections of this PHA report. Some examples that di bagian lain laporan PHA ini. Beberapa contoh yang
+can be included in the appendix are the MSDS of the dapat dimasukkan di lampiran adalah MSDS dari
+facility's main process materials, supporting calculations, material utama proses Fasilitas, perhitungan
+the PHA Team Decree and a copy of the data used pendukung, Surat Keputusan Tim PHA dan salinan data
+during the PHA Study. Each attachment must be yang digunakan selama Studi PHA. Setiap lampiran
+numbered (e.g., Appendix 1) and included in the table harus diberi nomor (misalnya Lampiran 1) dan
+of contents. dimasukkan di daftar isi.
+
+--- Halaman 42 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 42 of 49
+7. DIAGRAM ALIR STUDI PHA
+PHA STUDY FLOWCHART
+PHA Sub Assigned
+Committe personnel
+Activities PHA Team
+e Manage
+No
+ment TGI Personil
+Aktifitas Tim PHA
+Sub Komite Yang Diberi
+PHA Tugas
+1 Planning and preparation for conducting a
+PHA.
+a. Issued an official Decree to the PHA
+Team.
+b. Selection and training of PHA Teams.
+Perencanaan dan persiapan untuk
+melakukan PHA.
+a. Mengeluarkan Surat Keputusan resmi
+untuk Tim PHA.
+b. Pemilihan dan pelatihan Tim PHA.
+c. Team preparation and determining the
+schedule of PHA activities.
+c. Persiapan tim dan menentukan jadwal
+aktifitas PHA.
+d. Reviu of Process Safety Information
+(PSI) documents and other important
+information.
+d. Reviu dokumen Process Safety
+Information (PSI) dan informasi penting
+lainnya.
+2 Hazard Identification (HI).
+a. Hazard identification techniques,
+using a general hazard identification
+checklist.
+b. Field-tour.
+Identifikasi bahaya (Hazard Identification –
+HI).
+a. Teknik identifikasi bahaya,
+menggunakan checklist identifikasi
+bahaya umum.
+b. Field-tour.
+3 Consequence Analysis.
+
+--- Halaman 43 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 43 of 49
+PHA Sub Assigned
+Committe personnel
+Activities PHA Team
+e Manage
+No
+ment TGI Personil
+Aktifitas Tim PHA
+Sub Komite Yang Diberi
+PHA Tugas
+4 Hazard Evaluation:
+a. Methodology selection (What-If,
+HAZOP, FMEA)
+b. Line of Defence Identification.
+a. Pemilihan metodologi (What-If,
+HAZOP, FMEA)
+b. Identifikasi Line of Defence.
+5 Evaluation of the interlock.
+Evaluasi interlock.
+6 Human Factor Analysis.
+Analisa Human Factor.
+7 Facility Siting Analysis.
+Analisa Facility Siting.
+8 Inherently Safer Process Analysis.
+Analisa Inherently Safer Process.
+9 Create and manage recommendations.
+a. Evaluate the risk of the identified
+hazards.
+b. Develop recommendations.
+c. Documenting recommendations.
+Membuat dan mengelola rekomendasi.
+a. Evaluasi resiko dari hazard yang
+teridentifikasi.
+b. Mengembangkan rekomendasi.
+c. Mendokumentasikan rekomendasi.
+d. Respond management of the
+recommendations made.
+d. Respond management dari rekomendasi
+yang dibuat.
+
+--- Halaman 44 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 44 of 49
+PHA Sub Assigned
+Committe personnel
+Activities PHA Team
+e Manage
+No
+ment TGI Personil
+Aktifitas Tim PHA
+Sub Komite Yang Diberi
+PHA Tugas
+e. Follow up on recommendations.
+e. Menindaklanjuti rekomendasi.
+10 PHA documentation.
+a. PHA Report
+Dokumentasi PHA.
+a. Laporan PHA
+b. Communicate PHA results.
+b. Mengkomunikasikan hasil PHA.
+Appendix A – PHA Expert Qualifications Lampiran A – Kualifikasi Tenaga Ahli PHA
+1. General Explanation 1. Penjelasan Umum
+In each member of the PHA Team, there must Di setiap anggota Tim PHA, minimum harus ada
+be a minimum of one member who has the satu anggota yang mempunyai kualifikasi sebagai
+qualifications as a PHA expert. tenaga ahli PHA.
+2. Conditions 2. Persyaratan
+In order to qualify as a PHA expert, one must Agar mempunyai kualifikasi sebagai tenaga ahli
+complete PHA training provided by the PHA, seorang harus menyelesaikan pelatihan PHA
+Company's Management and have at least one yang diberikan oleh Manajemen Perusahaan dan
+experience as a full member of a PHA Team minimum satu kali mempunyai pengalaman sebagai
+facilitated by experienced PHA experts, anggota penuh sebuah Tim PHA yang difasilitas
+oleh tenaga ahli PHA yang berpengalaman, yang
+If they already have qualifications, the PHA mana semua elemen di bagian 5.4 prosedur ini
+expert must maintain their qualification status tercakup.
+through additional training or refreshment, and Jika sudah mempunyai kualifikasi, tenaga ahli PHA
+field practice, for five years. Every five years, a tersebut harus mempertahankan status
+PHA expert must complete a company's PHA kualifikasinya melalui pelatihan tambahan atau
+training, either through webinar or face-to-face penyegaran, dan praktek lapangan, selama lima
+sessions. In addition, PHA experts must also be tahun berjalan. Setiap lima tahun, seorang tenaga
+experienced as experts from one or more PHA ahli PHA harus menyelesaikan pelatihan PHA
+(revalidation or MoC). perusahaan, baik melalui sesi webinar atau tatap
+muka. Selain itu tenaga ahli PHA juga harus
+berpengalaman sebagai tenaga ahli dari satu atau
+lebih PHA (revalidasi atau MoC).
+
+--- Halaman 45 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 45 of 49
+Appendix B – HAZID (What-if) Worksheet
+LAMPIRAN B – HAZID (WHAT-IF) WORKSHEET
+Analyzed blocks
+Block yang dianalisa
+Design purpose
+Tujuan disain
+Existing
+Risk Level Safeguards Recommendations
+No What-If Consequences Cause Tingkat Resiko Safeguards Rekomendasi
+Konsekuensi Penyebab Yang Ada
+R Kin H
+Information: Keterangan:
+ Analyzed Block – Is a system, area or process that  Block Yang Dianalisa – Merupakan sistem, area
+is analyzed. atau proses yang dianalisa.
+ Design Objectives – An explanation of the path (or  Tujuan Disain – Penjelasan tentang fungsi jalur
+node) function being analyzed. (atau node) yang sedang dianalisa.
+ What-If – The PHA team developed the ''What-If''  What-If – Tim PHA mengembangkan pertanyaan
+question in this column. ‘’What-If’’ pada kolom ini.
+ Consequences – A worst-case scenario in the  Konsekuensi – Suatu keadaan skenario terburuk
+event of a deviation and all existing safeguards jika terjadi deviasi dan semua safeguard yang ada
+malfunction. mengalami kegagalan fungsi.
+ Causes – Things that cause the possible  Penyebab – Hal-hal yang menyebabkan
+occurrence of analyzed consequences. kemungkinan terjadinya konsekuensi yang
+ Risk Level – Is an assessment of the risk of dianalisa.
+possible consequences analyzed. The Risk Level of  Tingkat Resiko – Merupakan penilaian resiko
+consequence is assessed risk assessment matrix kemungkinan terjadinya konsekuensi yang
+(Appendix E). dianalisa. Tingkat Resiko konsekuensi tersebut
+ Ku : in terms of finances. dinilai Risk Assessment Matrix (Lampiran E).
+ R : in terms of the company's reputation.  Ku: ditinjau dari sisi keuangan.
+ H : reviued from the legal side.  R: ditinjau dari sisi reputasi perusahaan.
+ Kin : in terms of company performance.  H: ditinjau dari sisi hukum.
+ O : in terms of the company's operations.  Kin: ditinjau dari sisi kinerja perusahaan.
+ HSE : reviued from the HSE side of the  O: ditinjau dari sisi operasi perusahaan.
+company.  HSE: ditinjau dari sisi HSE perusahaan.
+ Existing Safeguards – Is a protective equipment  Safeguard Yang Ada – Merupakan alat pelindung
+that is against possible consequences that are yang terhadap kemungkinan terjadi konsekuensi
+being analyzed. yang sedang dianalisa.
+Recommendation – A safeguard that needs to be added
+Rekomendasi – Suatu safeguard yang perlu ditambahkan
+to the system (node) being analyzed, because the existing
+pada sistem (node) yang sedang dianalisa, karena
+safeguards are insufficient.
+safeguard yang ada diniliai kurang mencukupi.
+
+--- Halaman 46 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 46 of 49
+Appendix C – HAZOP Worksheet
+Lampiran C – HAZOP Worksheet
+Drawing No:
+Path Number (Node):
+Nomor Jalur (Node):
+Design Objectives:
+Tujuan Disain:
+Existing
+Recommenda
+Causes of Risk Level Safeguards
+tions
+Guide Deviation Deviation Consequences Tingkat Resiko Safeguards
+No Rekomendasi
+Word Deviasi Penyebab Konsekuensi Yang Ada
+Deviasi
+R Kin HSE
+Information: Keterangan:
+ Drawing No. – Nomor dokumen P&ID yang
+ Drawing No. – The P&ID document number used digunakan untuk menganalisa HAZOP.
+to analyze HAZOP.  Nomor Jalur (Node) – Sistem atau jalur pipa dan
+ Line Number (Node) – The system or pipeline and peralatan yang dianalisa.
+equipment analyzed.  Tujuan Disain – Penjelasan tentang fungsi jalur
+ Design Objectives – An explanation of the path (or (atau node) yang sedang dianalisa.
+node) function being analyzed.  Guide word: merupakan kata penunjuk deviasi
+ Guide word: is a deviation pointer that may occur yang mungkin terjadi pada node yang sedang di
+on the node being analyzed. analisa.
+ Deviation: A condition that is outside the design  Deviasi: Kondisi yang berada di luar dari batas
+limit of the gas distribution process. disain proses distribusi gas.
+Untuk jalur pipa distribusi gas bertekanan tinggi, contoh
+For high-pressure gas distribution pipelines, examples of
+guide words dan deviasi yang ada adalah, seperti tabel di
+guide words and deviations are, such as the table below.
+bawah ini. Guide word dan deviasi yang lain dapat
+Word guides and other deviations may appear when
+mungkin muncul saat HAZOP dilakukan
+HAZOP is performed.
+Kata Petunjuk Deviasi
+Guide Words Deviation
+Gas pressure exceeds the maximum design pressure
+Tekanan gas melebihi dari tekanan disain maksimum
+Diesel fuel level in the tank above the specified minimum limit
+Lebih dari Level bahan bakar solar di dalam tanki di atas batas minimum yang ditentukan
+More of Toxic gas levels in the gas above the threshold
+Kadar gas beracun di dalam gas di atas ambang batas
+Gas flow too high
+Aliran gas yang terlalu tinggi
+Gas pressure less than minimum design pressure
+Tekanan gas kurang dari tekanan disain minimum
+Kurang dari Diesel fuel level in the tank below the specified minimum limit
+Less of Level bahan bakar solar di dalam tanki di bawah batas minimum yang ditentukan
+The gas flow is too low.
+Aliran gas terlalu rendah.
+
+--- Halaman 47 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 47 of 49
+Tidak ada aliran There is no gas flow.
+No flow Tidak ada aliran gas.
+Aliran Balik The gas flow flows in the opposite direction than it should.
+Reverse flow Aliran gas mengalir dengan arah yang berlawanan dari yang seharusnya.
+ Cause of Deviation – A thing that causes  Penyebab Deviasi – Suatu hal yang
+deviation to occur. menyebabkan deviasi terjadi.
+ Consequences – A worst-case scenario in the  Konsekuensi – Suatu keadaan skenario
+event of a deviation and all existing terburuk jika terjadi deviasi dan semua
+safeguards malfunction. safeguard yang ada mengalami kegagalan
+ Risk Level – Is an assessment of the risk of fungsi.
+possible consequences analyzed. The Risk  Tingkat Resiko – Merupakan penilaian resiko
+Level of consequence is assessed risk kemungkinan terjadinya konsekuensi yang
+assessment matrix (Appendix E). dianalisa. Tingkat Resiko konsekuensi
+ Ku: in terms of finances. tersebut dinilai Risk Assessment Matrix
+ R: in terms of the company's reputation. (Lampiran E).
+ H: reviued from the legal side.  Ku: ditinjau dari sisi keuangan.
+ Kin: in terms of company performance.  R: ditinjau dari sisi reputasi perusahaan.
+ O: in terms of the company's operations.  H: ditinjau dari sisi hukum.
+ HSE: reviued from the HSE side of the  Kin: ditinjau dari sisi kinerja perusahaan.
+company.  O: ditinjau dari sisi operasi perusahaan.
+ Existing Safeguards – Is a protective  HSE: ditinjau dari sisi HSE perusahaan.
+equipment that is against possible  Safeguard Yang Ada – Merupakan alat
+consequences that are being analyzed pelindung yang terhadap kemungkinan
+ Recommendation – A safeguard that needs terjadi konsekuensi yang sedang dianalisa.
+to be added to the system (node) being  Rekomendasi – Suatu safeguard yang perlu
+analyzed, because the existing safeguards ditambahkan pada sistem (node) yang
+are insufficient. sedang dianalisa, karena safeguard yang ada
+diniliai kurang mencukupi.
+Appendix D – FMEA Worksheet
+Lampiran D – FMEA Worksheet
+
+--- Halaman 48 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 48 of 49
+Drawing No:
+Path Number (Node):
+Nomor Jalur (Node):
+Design Objectives:
+Tujuan Disain:
+Risk Level
+Identitias / Tingkat Resiko Existing Recommend
+Equipment Safeguards
+Types of Consequen ations
+Number Fail Safeguards
+No Equipment ces Rekomendasi
+Identitias / Mode Yang Ada
+Jenis Peralatan Konsekuensi
+Nomor
+Peralatan R Kin HSE
+Information: Informasi
+ Drawing No. – Nomor dokumen P&ID yang
+ Drawing No. – The P&ID document number used
+digunakan untuk menganalisa HAZOP.
+to analyze HAZOP.
+ Nomor Jalur (Node) – Sistem atau jalur pipa dan
+ Line Number (Node) – The system or pipeline and
+peralatan yang dianalisa.
+equipment analyzed.
+ Tujuan Disain – Penjelasan tentang fungsi jalur
+ Design Objectives – An explanation of the path (or
+(atau node) yang sedang dianalisa.
+node) function being analyzed.
+ Identitas / Nomor Peralatan – No identitas
+ Identity / Equipment Number – No identity of the
+peralatan yang sedang dianalisa.
+equipment being analyzed.
+ Jenis Peralatan – Merupakan jenis peralatan yang
+ Equipment Type – Is the type of equipment being
+sedang dianalisa.
+analyzed.
+ Fail Mode – Jenis kegagalan kerja yang mungkin
+ Fail Mode – A type of malfunction that may occur
+terjadi pada peralatan yang dianalisa, yang
+in the analyzed equipment, for which this
+kegagalan kerja ini berpotensi menyebabkan
+malfunction has the potential to cause
+konsekuensi.
+consequences.
+ Konsekuensi – Suatu keadaan skenario terburuk
+ Consequences – A worst-case scenario in the
+jika terjadi deviasi dan semua safeguard yang ada
+event of a deviation and all existing safeguards
+mengalami kegagalan fungsi.
+malfunction.
+ Tingkat Resiko – Merupakan penilaian resiko
+ Risk Level – Is an assessment of the risk of
+kemungkinan terjadinya konsekuensi yang
+possible consequences analyzed. The Risk Level
+dianalisa. Tingkat Resiko konsekuensi tersebut
+of consequence is assessed risk assessment
+dinilai Risk Assessment Matrix (Lampiran E).
+matrix (Appendix E).
+ R: ditinjau dari sisi reputasi perusahaan.
+ R: in terms of the company's reputation.
+ Kin: ditinjau dari sisi kinerja perusahaan.
+ Kin: in terms of company performance.
+ HSE: ditinjau dari sisi HSE perusahaan.
+ HSE: reviued from the HSE side of the
+ Safeguard Yang Ada – Merupakan alat pelindung
+company.
+yang terhadap kemungkinan terjadi konsekuensi
+ Existing Safeguards – Is a protective equipment
+yang sedang dianalisa.
+that is against possible consequences that are
+being analyzed.
+ Rekomendasi – Suatu safeguard yang perlu
+ Recommendation – A safeguard that needs to be
+ditambahkan pada sistem (node) yang sedang
+added to the system (node) being analyzed,
+dianalisa, karena safeguard yang ada diniliai
+because the existing safeguards are insufficient.
+kurang mencukupi.
+
+--- Halaman 49 ---
+
+Doc. No TGI-WP-07-37-04
+Version /
+00
+PROSEDUR ANALISIS BAHAYA PROSES Rev.
+PROCESS HAZARD ANALYSIS PROCEDURE
+Page Page 49 of 49
+Appendix E – Risk Assessment Matrix
+Lampiran E – Risk Assessment Matrix
+Referring to TGI's Risk Matrix
+Mengacu pada Risk Matrik TGI
